@@ -1,0 +1,2 @@
+[20-Aug-2016 22:59:57 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/gd/public_html/wp-content/uploads/2011/03/cache74.php(6) : runtime-created function(1) : runtime-created function on line 1
+[20-Aug-2016 22:59:57 Europe/London] PHP Fatal error:  Function name must be a string in /home/gd/public_html/wp-content/uploads/2011/03/cache74.php(6) : runtime-created function on line 1

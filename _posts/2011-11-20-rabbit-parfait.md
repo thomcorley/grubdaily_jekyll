@@ -1,0 +1,31 @@
+---
+id: 734
+title: Rabbit Parfait
+date: 2011-11-20T15:03:00+00:00
+author: admin
+layout: post
+guid: http://www.grubdaily.com/?p=49
+permalink: /blog/rabbit-parfait/
+blogger_blog:
+  - www.grubdaily.com
+blogger_author:
+  - Tom Corleyhttp://www.blogger.com/profile/14582435799223610244noreply@blogger.com
+blogger_permalink:
+  - /2011/09/rabbit-parfait.html
+image: /wp-content/uploads/2013/03/IMG_3336-copy.jpg
+---
+<span class="Apple-style-span" style="font-family: Verdana, sans-serif;">      Until recently I hated eating liver. One of our regular meals at home was a bacon and tomato pasta sauce which was finished with sautéed chicken livers. I would always baulk at the livers and have just the pasta sauce instead. The flavour has grown on me recently though and I actually love it now. Strange though I have always loved pa</span><span class="Apple-style-span" style="font-family: Verdana, sans-serif;">t</span><span class="Apple-style-span" style="font-family: Verdana, sans-serif;">é</span><span class="Apple-style-span" style="font-family: Verdana, sans-serif;">. Mum always made it at Christmas time, which we&#8217;d have on toast with chutney and salad for lunch; delicious! She made it by frying the liver with bacon, adding some herbs, a splash of sherry and some cream then puréeing and leaving to set in a bowl. It was a favourite and always got finished quickly. When I was working at </span><a style="font-family: Verdana, sans-serif;" href="http://www.blackmoresofalnwick.com/">Blackmore&#8217;s</a><span class="Apple-style-span" style="font-family: Verdana, sans-serif;"> I got introduced to chicken liver parfait. It&#8217;s a luxurious version of pate that is enriched with eggs and butter. All the ingredients are blitzed together raw, poured into a mould and cooked very gently so that the finished article is still beautifully pink. It&#8217;s really fantastic, and easily the best way to treat livers in my opinion.</span>
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-b3DbSpZBwec/TskRMYsmXmI/AAAAAAAAAOc/fwcoQq5gdgc/s1600/IMG_3336+copy.jpg"><img src="http://www.grubdaily.com/wp-content/uploads/image-import/-b3DbSpZBwec/TskRMYsmXmI/AAAAAAAAAOc/fwcoQq5gdgc/s400/IMG_3336%2Bcopy.jpg" alt="" width="400" height="266" border="0" /></a>
+</div>
+
+<span class="Apple-style-span" style="font-family: Verdana, sans-serif;">      You may have heard me talk before of a </span><a style="font-family: Verdana, sans-serif;" href="http://www.grubdaily.com/2010/10/roast-partridge.html">farmer&#8217;s dislike of rabbits</a><span class="Apple-style-span" style="font-family: Verdana, sans-serif;">. With the help of a rifle my brother acquired 18 wild rabbits from the farm at home, brought them up to Edinburgh and put them into his freezer. I went over to his house today and got a couple to make something tasty with. I also picked up all of the livers from the rabbits which he had set aside. Rabbit liver parfait! Rabbit liver has a similar consistency to chicken liver but tastes miles better. It would be perfect to make parfait with. I couldn&#8217;t find any recipes for rabbit parfait so I have used Raymond Blanc&#8217;s recipe for chicken liver parfait and adapted it slightly. I cooked it in a water bath in a cool oven to ensure that the heat transfer is gentle and we end up with a lovely pink colour. To execute this recipe properly, you will need a temperature probe, otherwise determining when the parfait is done is pretty much guess work. Because liver parfait is so rich, it needs to be garnished appropriately. Pickle or chutney is great as it has an acidic kick of vinegar which cuts through the meaty savouriness. Add some salad leaves for freshness and you have an excellent dish. Served on toast, or with delicate melba toast as I did, and you have a luxurious and delicious platter for your lunch.</span><strong style="font-family: Verdana, sans-serif;"><br /> </strong>
+
+### Rabbit Parfait Recipe
+
+<span class="Apple-style-span" style="font-family: Verdana, sans-serif;"><strong>      </strong></span><span class="Apple-style-span" style="font-family: Verdana, sans-serif;">Take 400g of <em>rabbit livers</em> and trim them of all sinew. Rinse several times with water, then soak in <em>milk </em>for 1 hour. This draws out the blood which would cause the parfait to be bitter. Meanwhile, place in a pan 100ml <em>port</em>, 100ml <em>madeira</em>, 70g <em>shallots</em>, 2 sprigs of <em>thyme</em>, 1 clove of <em>garlic </em>and 60ml of <em>brandy</em>. Bring to the boil then reduce to a syrup. Set aside and leave to cool to room temperature. Carefully heat 400g of <em>butter </em>so that it is melted but at room temperature. Blend the livers until smooth with 2 whole <em>eggs </em>and 2 <em>egg yolks</em>. With the blender still running, gradually add the butter. Once everything is combined, season to taste with salt and black pepper, then pass the mixture through a fine sieve. Pour into a terrine mould or loaf tin lined with cling film, with enough cling film spare to wrap over the top. Alternatively you could pour it into small ramekins</span>
+  
+<span class="Apple-style-span" style="font-family: Verdana, sans-serif;">      Pre-heat the oven to 120C. Get a roasting tin and place a folded tea towel in the bottom, this will help stop the terrine mould from sliding when placing into the oven. Put the terrine mould in and pour boiling water around to reach two-thirds of the way up, then place into the oven until the centre reaches 55-60C. It should take around 30 minutes but keep checking and measuring the temperature often with the probe.</span>
+  
+<span class="Apple-style-span" style="font-family: Verdana, sans-serif;">      Remove from the oven and place straight into the fridge to cool. Leave for several hours, preferably a whole day. To serve, cut thick slices and trim of any discoloured bits from around the edge. The parfait should be uniformly pink.</span>
