@@ -1,6 +1,13 @@
 ---
-layout: layout
+layout: default
 ---
 
-{% assign __ = site.data.languages[site.language] %}
-{% include page.html %}
+<article class="page single" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
+    </header>
+
+    <div class="post-content" itemprop="text">
+        {{ content }}
+    </div>
+</article>
