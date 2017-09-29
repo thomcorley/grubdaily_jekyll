@@ -1,9 +1,9 @@
 # General Settings
 logo: /assets/svg/dummy-logo.svg
 name: Grubdaily
-description: The best food blog on the web.
-site_owner_name: John Doe
-email: ripsterbg@gmail.com
+description: For tasty things
+site_owner_name: Thomas Corley
+email: thomcorley@gmail.com
 favicon: /favicon.ico
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
@@ -36,9 +36,9 @@ social_networks:
 
 # Modules Settings
 show_tags: 1
-show_email: 1
-show_rss: 1
-show_comments: 1
+show_email: 0
+show_rss: 0
+show_comments: 0
 
 # Defaults
 defaults:
@@ -47,10 +47,10 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: "true"
+      comments: "false"
 
 # Serving
-url: ""
+url: "http://localhost:4000"
 baseurl: ""
 
 # Includes
@@ -61,7 +61,7 @@ permalink: /:categories/:title.html
 category_dir: categories
 
 # Pagination
-paginate: 24
+paginate: 10
 paginate_path: "/all/:num/"
 
 # Conversion
