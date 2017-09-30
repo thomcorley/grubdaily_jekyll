@@ -10,7 +10,7 @@ tags:
 - chocolate
 ---
 
-<img src="http://farm3.staticflickr.com/2548/3747728143_5a411ea5ed_b.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_ham_pie.jpg" />
 
 Preheat the oven to 200′. Turn on your waffle iron to medium-high heat. As it warms, cut strawberries into slices or quarters in a bowl. Mix with extra honey, the remaining thyme, and the juice and zest of your small orange. Set aside.
 

@@ -10,7 +10,7 @@ tags:
 - muffin
 ---
 
-<img src="http://farm4.staticflickr.com/3325/4606441280_7617930c63_b.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_ham_pie.jpg" />
 
 Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for deployment.
 

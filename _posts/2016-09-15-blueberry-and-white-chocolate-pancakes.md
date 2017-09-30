@@ -10,7 +10,7 @@ tags:
 - cheese
 ---
 
-<img src="http://farm2.staticflickr.com/1280/4608672449_546c396433_b.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_ham_pie.jpg" />
 
 At home: Mix together the dry ingredients, except sugar, and place in a bag or tupperware. Pack sugar separately. Measure out the buttermilk and transfer to a small container.
 
