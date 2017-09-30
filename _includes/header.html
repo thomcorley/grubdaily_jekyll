@@ -1,17 +1,8 @@
 <header class="header clear">
     <div class="blog-info clear">
-        {% if site.logo %}
         <a href="{{ site.baseurl | prepend: site.url }}" class="blog-logo">
-            <img src="{{ site.baseurl | prepend: site.url }}{{ site.logo }}" alt="{{ site.name }}" />
+            <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/logoblue.png" alt="{{ site.name }}" width="427px" height="82px" />
         </a>
-        {% endif %}
-
-        <div class="blog-titles">
-            <strong><a href="{{ site.baseurl | prepend: site.url }}">{{ site.name }}</a></strong>
-            {% if site.description %}
-            <span>{{ site.description }}</span>
-            {% endif %}
-        </div>
     </div>
 
     <div class="clr"></div>
