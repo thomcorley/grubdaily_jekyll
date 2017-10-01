@@ -10,28 +10,13 @@ layout: default
         <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <div class="post-excerpt">{{ post.excerpt }}</div>
             <div class="details">
-                <div class="post-meta">
-                    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b, %Y" }}</time>
-                    {% if post.category %}
-                    <span class="category">
-                        {% for category in post.category %}
-                            <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
-                        {% endfor %}
-                    </span>
-                    {% endif %}
-                </div>
-
-                <h2 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
-
                 {% if forloop.first %}
+                <h2 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
                     <div class="post-content">
-                        {{ post.content | strip_html | truncate: 100 }}
+                        {{ post.content | strip_html | truncate: 110 }}
                     </div>
-
-                    <div class="buttons clear">
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="bluish">Read More</a>
-                        <a href="{{ post.url | prepend: site.baseurl }}#recipe-ingredients" class="reddish">See Ingredients</a>
-                    </div>
+                {% else %}
+                <h6 class="post-title" style="font-size: 1.5em;" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h6>
                 {% endif %}
             </div>
         </article>
@@ -42,16 +27,6 @@ layout: default
         <div class="section-title"><span>Recent Recipes</span></div>
         {% for post in site.posts offset: 3 limit: 4 %}
         <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
-            <div class="post-meta clear">
-                <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b, %Y" }}</time>
-                {% if post.category %}
-                <span class="category">
-                    {% for category in post.category %}
-                        <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
-                    {% endfor %}
-                </span>
-                {% endif %}
-            </div>
             <h2 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
             <div class="post-content">
                 {{ post.content }}

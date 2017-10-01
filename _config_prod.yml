@@ -51,7 +51,6 @@ defaults:
 
 # Serving
 url: "https://thomcorley.github.io"
-
 baseurl: ""
 
 # Includes
