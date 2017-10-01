@@ -46,9 +46,9 @@
 				}
 			}
 		}
-		.mainmenu { position: realitive; min-width: 0px; width: 30px; height: 30px; background: $grey-color-dark url(../svg/icon-hamburger.svg) no-repeat center center; @include bgsizeNum(16px, 14px); cursor: pointer;
+		.mainmenu { position: relative; min-width: 0px; width: 40px; height: 30px; background: url(https://s3.eu-west-2.amazonaws.com/grubdaily/menuicon.png) no-repeat center center; @include bgsizeNum(40px, 30px); cursor: pointer;
 			&:hover > ul { top: 30px; opacity: 1; visibility: visible; }
-			& > ul { opacity: 0; visibility: hidden; position: rea; top: 100px; right: 0; width: 250px; border: 1px solid $grey-color-lighter; background: $white; z-index: 9000; box-shadow: 0 2px 6px rgba($black, .1); @include transition(all, .2s, ease-in-out);
+			& > ul { opacity: 100; visibility: hidden; position: relative; top: 100px; right: 0; width: 250px; border: 1px solid $grey-color-lighter; background: $white; z-index: 9000; box-shadow: 0 2px 6px rgba($black, .1); @include transition(all, .2s, ease-in-out);
 				&:before { position: absolute; content: ""; width: 0; height: 0; top: -5px; right: 4px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 8px solid $white; z-index: 11; }
 				& > li { float: none; width: 100%; margin: 0; border-top: 1px solid $grey-color-lighter;
 					&:first-of-type { border: none; }
