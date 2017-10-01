@@ -29,13 +29,8 @@ layout: default
         {{ page.content }}
     </div>
 
-    <footer class="post-footer clear" itemscope itemtype="http://schema.org/Person">
+    <!-- <footer class="post-footer clear" itemscope itemtype="http://schema.org/Person">
         {% assign author = site.data.users[page.author] %}
-        <div class="author-info">
-            <img src="{% if author.avatar %}{{ author.avatar }}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" alt="{{ author.name }}" itemprop="image" />
-            <strong itemprop="name">{% if page.author %}{{ author.name }}{% else %}{{ site.site_owner_name }}{% endif %}</strong>
-            <p itemprop="description">{{ author.bio }}</p>
-        </div>
         <div class="share-button">
             <span>Share Recipe</span>
             <div>
@@ -43,7 +38,7 @@ layout: default
                 <a href="http://twitter.com/share?url={{page.url | prepend: site.baseurl | prepend: site.url | escape}}&text={{ page.content | strip_html | truncate: 140 }}&hashtags={% for tag in page.tags %}{{ tag }},{% endfor %}" rel="noreferrer" class="share-twitter" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#twitter-icon"></use></svg></a>
             </div>
         </div>
-    </footer>
+    </footer> -->
 </article>
 
 {% if page.comments and site.show_comments == 1 %}
