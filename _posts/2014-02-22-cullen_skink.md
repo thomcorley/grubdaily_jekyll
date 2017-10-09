@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2016-02-22"
+date: "2015-02-22"
 title: "Cullen Skink"
 author: Tom
 category:
@@ -32,4 +32,3 @@ A perfect combination of smoked haddock, potatoes, leeks and cream make up this 
 2. Remove the smokies from the milk and carefully pick the meat away from the bone, discarding the skin. Set the flaked fish aside. Pass the milk through a sieve into the pan of vegetables. Add the cream, and simmer gently for 10 minutes, until the potatoes are cooked. Pour everything into a blender, add ¾ of the flaked smokies and the butter and blend on full power for 5 minutes, until the soup is very smooth and silky. Taste and adjust the seasoning if necessary.
 
 3. Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sauteed potato dice.
-

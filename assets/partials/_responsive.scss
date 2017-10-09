@@ -95,9 +95,9 @@
 @include media-query($on-phone) {
 	// .first-post { font-size: 20vw !important;}
 	.index .newest-recipes .post .details .post-title {
-		font-size: 20px !important;
+		font-size: 18px !important;
 	}
-	.details { padding: 5px 10px 5px 10px !important;}
+	.details { padding: 3px 10px 3px 10px !important;}
 	.index {
 		.newest-recipes .post { height: 200px;
 			&:first-of-type { height: 200px;

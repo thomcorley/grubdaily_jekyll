@@ -1,7 +1,7 @@
 ---
 layout: post
-date: "2015-10-26"
-title: "Roast Mushroom Soup"
+date: "2014-10-26"
+title: "Roasted Mushroom Soup"
 author: Tom
 category:
 serves: "4"
