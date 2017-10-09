@@ -99,7 +99,7 @@
 				a { display: block; height: 100%; @include bgsize(cover); background-repeat: no-repeat; background-position: left center; }
 			}
 			.post-excerpt { display: none; }
-			.details { overflow: hidden; position: absolute; left: 0; bottom: 0; width: 100%; padding: 20px; background: rgba($black, .7); color: darken($white, 5%); @include transition(padding, .2s, ease-in-out);
+			.details { overflow: hidden; position: absolute; left: 0; bottom: 0; width: 100%; padding: 10px; background: rgba($black, .7); color: darken($white, 5%); @include transition(padding, .2s, ease-in-out);
 				.post-meta a { color: $white; }
 				.post-title { font: 400 30px/37px Domine, sans-serif; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
 					a { color: darken($white, 5%); }
@@ -113,7 +113,7 @@
 					}
 				}
 			}
-			&:hover .details { padding-bottom: 40px; }
+			&:hover .details { padding-bottom: 15px; }
 		}
 	}
 
