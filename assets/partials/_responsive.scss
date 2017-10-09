@@ -1,4 +1,9 @@
+@media all and (min-width: 930px) {
+.first-post { font-size: 35px !important; }
+}
+
 @include media-query($on-tablet) {
+	.first-post { font-size: 35px !important; }
 	.index {
 		.newest-recipes .post { width: 49.6%; width: calc(50% - 2px);
 			&:first-of-type { width: 100%; margin: 0 0 4px; }
@@ -36,6 +41,7 @@
 }
 
 @include media-query($on-smaller-tablets) {
+	.first-post { font-size: 35px !important; }
 	.header { padding: 20px 0;
 		.blog-info {
 			.blog-logo { float: left; margin: 0 12px 0 0;
@@ -93,6 +99,7 @@
 }
 
 @include media-query($on-phone) {
+	.first-post { font-size: 20vw !important;}
 	.index {
 		.newest-recipes .post { height: 200px;
 			&:first-of-type { height: 200px;

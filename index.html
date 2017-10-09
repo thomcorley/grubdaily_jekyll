@@ -11,12 +11,12 @@ layout: default
             <div class="post-excerpt">{{ post.excerpt }}</div>
             <div class="details">
                 {% if forloop.first %}
-                <h2 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
+                <h6 class="post-title first-post" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h6>
                     <div class="post-content">
                         {{ post.content | strip_html | truncate: 110 }}
                     </div>
                 {% else %}
-                <h6 class="post-title" style="font-size: 1.5em;" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h6>
+                <h6 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h6>
                 {% endif %}
             </div>
         </article>
