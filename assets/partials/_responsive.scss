@@ -109,6 +109,14 @@
 		}
 	}
 	.footer { margin: 40px 0 0; padding: 45px 0 30px; }
+	.search { position: relative; float: right; text-align: left;
+		.search-holder { position: relative; float: right;
+			svg { position: absolute; top: 11px; left: 12px; width: 13px; height: 13px; }
+			input { position: relative; border: 1px solid $white; width: 100px; background: none; height: 34px; font: 400 16px/16px Abel, sans-serif; padding: 2px 8px 3px 34px; border-radius: 1px; @include transition(all, .2s, ease);
+				&:focus, &:active { width: 200px; border: 1px solid darken($white, 8%); }
+			}
+		}
+	}
 }
 
 @media only print {
