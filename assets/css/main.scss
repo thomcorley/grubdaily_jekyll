@@ -24,9 +24,9 @@
 		}
 	}
 
-	.mainmenu { text-align: left; min-width: 150px;
+	.mainmenu { text-align: left; width: 500px;
 		& > ul > li { float: left; margin: 0 0 0 40px;
-			&:first-of-type { margin: 0; }
+			&:first-of-type { margin: 0; padding-left: 5px;}
 			& > a { display: block; font: 400 20px/20px Abel, sans-serif; color: $grey-color-light; @include transition(color, .2s, ease); line-height: 34px;
 				&:hover { color: $grey-color-dark; }
 				&.active { color: $grey-color-dark; font-weight: 700; }
@@ -161,7 +161,7 @@
 .page.single {
 	.post-header { margin: 0 0 30px; }
 }
-.post.single, .page.single { position: relative; padding: 40px 0 50px;
+.post.single, .page.single { position: relative; padding: 30px 0 50px;
 	&:before, .post-footer:before { position: absolute; left: 0; top: 0; width: 100%; height: 13px; content: ""; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=); z-index: -1; }
 	.post-title { margin: 0 0 8px; font: 700 30px Domine, sans-serif; color: $grey-color-dark; }
 	.post-meta { font-size: 0; line-height: 16px; color: $grey-color-light; text-transform: uppercase;
