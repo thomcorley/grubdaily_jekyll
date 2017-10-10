@@ -225,7 +225,7 @@
 
 		ul { list-style-type: disc; list-style-position: inside; font-size: 13px; }
 
-		p { margin: 30px 0; line-height: 28px;
+		p { margin: 30px 0; line-height: 28px; text-align: justify;
 			& > code { font-size: 14px; padding: 3px 6px; background: $white; border: 1px solid $grey-color-lightest; }
 		}
 
@@ -237,11 +237,11 @@
 
 		figcaption { color: $grey-color-light; font-size: 13px; font-style: italic; padding-top: 10px; }
 
-		.recipe-ingredients { clear: both; @include flexbox(); @include flex-wrap(wrap); overflow: hidden; position: relative; margin: 30px 0 0; padding: 37px 60px; list-style: none; font: 24px/31px 'Patrick Hand', serif; background: $recipe-background-color; background: repeating-linear-gradient(0deg, $recipe-background-color, $recipe-background-color 30px, $recipe-horizontal-lines 30px, $recipe-horizontal-lines 50px); background-size: 100% 31px; border: 1px solid $recipe-horizontal-lines; border-top: none; box-shadow: 0 14px 5px -5px rgba($black,.1), 0 3px 0 -2px $recipe-list-stack, 0 2px 0 rgba($white,1), 0 7px 0 -4px $recipe-list-stack, 0 4px 0 rgba($white,1), 0 11px 0 -6px $recipe-list-stack;
+		.recipe-ingredients { clear: both; @include flexbox(); @include flex-wrap(wrap); overflow: hidden; position: relative; margin: 30px 0 0; padding: 37px 60px; list-style: none; font: 18px 'Inconsolata', serif; background: $recipe-background-color; background: repeating-linear-gradient(0deg, $recipe-background-color, $recipe-background-color 30px, $recipe-horizontal-lines 30px, $recipe-horizontal-lines 50px); background-size: 100% 31px; border: 1px solid $recipe-horizontal-lines; border-top: none; box-shadow: 0 14px 5px -5px rgba($black,.1), 0 3px 0 -2px $recipe-list-stack, 0 2px 0 rgba($white,1), 0 7px 0 -4px $recipe-list-stack, 0 4px 0 rgba($white,1), 0 11px 0 -6px $recipe-list-stack;
 			&:before { position: absolute; content: ""; width: 4px; height: 100%; top: 0; left: 30px; border-left: 4px double $recipe-vertical-lines; }
 			li { position: relative; width: 50%; margin: 4px 0; padding: 0 25px; line-height: 25px; color: $recipe-text-color; cursor: pointer; background: url(../svg/icon-square.svg) no-repeat left 6px; @include transition(color, .2s, ease); @include bgsizeNum(13px, 14px); @include no-select();
 				ul { display: none; }
-				&:hover { color: lighten($recipe-text-color, 15%); }
+				&:hover { color: $links-color; }
 				&.selected { background: url(../svg/icon-square-check.svg) no-repeat left 6px; @include bgsizeNum(15px, 16px); text-decoration: line-through; }
 			}
 		}
