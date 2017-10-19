@@ -3,11 +3,13 @@ layout: post
 date: "2017-01-15"
 title: "Lamb Bolognese"
 author: Tom
-category:
+category: "pasta"
 serves: "4"
 makes: ""
 tags:
--
+- lamb
+- pasta
+- bolognese
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/lamb_bolognese.jpg" />
 
@@ -35,3 +37,4 @@ Bolognese sauce in our household was always quite different to what most would c
 1. Cut the bacon into 5mm dice and in a large, wide-based pan, fry in olive oil until golden and crisp. Finely chop the onion and garlic and add to the pan, turning the heat down. Dice the celery and carrot into 5mm dice and add to the pan. Pick the leaves from the sprigs of thyme and add to the pan along with the chilli flakes. Turn the heat to medium and cook for 10 minutes, stirring frequently. Add the lamb mince, red wine, tomato puree and stock. Bring to the boil, then simmer gently for 1.5 hours, or until the lamb is tender and the sauce reduced and thick.
 
 2. Cook the spaghetti according to the packet instructions. While the pasta is cooking, add the cream and spinach to the bolognese and stir until all the spinach has wilted. Add the parmesan and mix thoroughly to melt the cheese and emulsify it into the sauce. The sauce should now be thick and creamy. Half the cherry tomatoes and have them ready. When the pasta is done, drain in a colander, reserving the starchy liquid. Add the pasta along with the cherry tomatoes into the sauce and mix well. Taste for seasoning, adding more salt or parmesan if needed. Serve immediately
+

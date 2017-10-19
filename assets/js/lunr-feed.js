@@ -27,6 +27,7 @@ var store = [{% for post in site.posts %}{
     "image": {{ post.image | jsonify }},
     "date": {{ post.date | date: '%-d %b, %Y' | jsonify }},
     "category": {{ post.category | jsonify }},
+    "tags": {{ post.tags | jsonify }},
     "content": {{ post.content | jsonify }},
     "excerpt": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
@@ -46,10 +47,10 @@ jQuery(document).ready(function() {
             var searchitem =
                 '<li>' +
                     '<a class="clear" href="'+ hostname + store[ref].link+'">' +
-                        '<figure style="background-image: url('+ jQuery(store[ref].content).find('img:first-of-type').attr('src') +');"></figure>' +
+                        // '<figure style="background-image: url('+ jQuery(store[ref].content).find('img:first-of-type').attr('src') +');"></figure>' +
                         '<h2 itemprop="name headline">' + store[ref].title + '</h2>' +
                         '<time itemprop="datePublished">' + store[ref].date + '</time>' +
-                        '<span class="category">' + store[ref].category + '</span>' +
+                        '<span class="category">' + store[ref].category + ' </span>' +
                     '</a>' +
                 '</li>';
             resultdiv.append(searchitem);

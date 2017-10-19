@@ -3,11 +3,13 @@ layout: post
 date: "2016-02-02"
 title: "Roast Garlic Soup"
 author: Tom
-category:
+category: "soup"
 serves: "4"
 makes: ""
 tags:
--
+- roast
+- garlic
+- soup
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg" />
 

@@ -3,11 +3,12 @@ layout: post
 date: "2011-03-21"
 title: "Salmon Tartare"
 author: Tom
-category:
+category: "salmon"
 serves: "1"
 makes: ""
 tags:
--
+- salmon
+- tartare
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg" />
 

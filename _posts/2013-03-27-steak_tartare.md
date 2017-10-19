@@ -3,11 +3,12 @@ layout: post
 date: "2013-03-27"
 title: "Steak Tartare"
 author: Tom
-category:
+category: "beef"
 serves: "1"
 makes: ""
 tags:
--
+- beef
+- tartare
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg" />
 

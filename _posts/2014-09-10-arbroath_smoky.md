@@ -3,11 +3,12 @@ layout: post
 date: "2014-09-10"
 title: "Arbroath Smoky"
 author: Tom
-category:
-serves: "2"
+category: "fish"
+serves: "4"
 makes: ""
 tags:
--
+- smoked
+- haddock
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg" />
 

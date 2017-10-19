@@ -3,15 +3,17 @@ layout: post
 date: "2015-08-20"
 title: "Cranachan"
 author: Tom
-category:
+category: "raspberry"
 serves: "4"
 makes: ""
 tags:
--
+- raspberry
+- honey
+- oats
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cranachan.jpg" />
 
-This has to be the quintessential Scottish dessert. Comprising almost entirely of classic Scottish produce; raspberries, porridge oats, honey and Scotch whiskey, they are flavours that compliment eachother perfectly. You can’t really go wrong here in terms of method and quantities, if you just throw all of it together in a bowl and mix, you couldn’t fail to end up with something delicious. Normally though, the cream is whipped to form soft-peaks to provide some body and texture. Also I have crushed some of the raspberries with honey to make a kind of sauce, and also cooked the oats with the honey to form crunchy clusters which give some bite when folded through the cream.
+This has to be the quintessential Scottish dessert. Comprising almost entirely of classic Scottish produce; raspberries, porridge oats, honey and Scotch whisky, they are flavours that compliment eachother perfectly. You can’t really go wrong here in terms of method and quantities, if you just throw all of it together in a bowl and mix, you couldn’t fail to end up with something delicious. Normally though, the cream is whipped to form soft-peaks to provide some body and texture. Also I have crushed some of the raspberries with honey to make a kind of sauce, and also cooked the oats with the honey to form crunchy clusters which give some bite when folded through the cream.
 
 ---
 * 300g of whipping cream

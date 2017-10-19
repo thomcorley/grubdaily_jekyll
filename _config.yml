@@ -59,6 +59,7 @@ include: ["_pages"]
 # Outputting
 permalink: /:categories/:title.html
 category_dir: categories
+tag_dir: tag
 
 # Pagination
 paginate: 10

@@ -3,11 +3,13 @@ layout: post
 date: "2011-10-02"
 title: "Tomato Concasse and Prawn Spaghetti"
 author: Tom
-category:
+category: "pasta"
 serves: "2-3"
 makes: ""
 tags:
--
+- tomato
+- prawn
+- spaghetti
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg" />
 

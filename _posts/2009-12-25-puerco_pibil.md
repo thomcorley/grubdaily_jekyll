@@ -3,11 +3,13 @@ layout: post
 date: "2009-12-25"
 title: "Puerco Pibil"
 author: Tom
-category:
+category: "pork"
 serves: "6"
 makes: "-"
 tags:
--
+- pork
+- pibil
+- annatto
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg" />
 
