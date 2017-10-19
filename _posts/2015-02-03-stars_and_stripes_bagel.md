@@ -3,11 +3,13 @@ layout: post
 date: "2015-02-03"
 title: "Stars and Stripes Bagel"
 author: Tom
-category:
+category: "sandwich"
 serves: "2"
 makes: ""
 tags:
--
+- avocado
+- bacon
+- tomato
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/stars_and_stripes_bagel.jpg" />
 

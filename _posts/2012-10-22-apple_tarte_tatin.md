@@ -3,11 +3,12 @@ layout: post
 date: "2012-10-22"
 title: "Apple Tarte Tatin"
 author: Tom
-category:
+category: "dessert"
 serves: "4"
 makes: ""
 tags:
--
+- apples
+- tart
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg" />
 

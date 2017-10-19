@@ -3,20 +3,22 @@ layout: post
 date: "2013-08-29"
 title: "Chicken Confit with Lemon Dressing"
 author: Tom
-category:
+category: "chicken"
 serves: "4"
 makes: ""
 tags:
--
+- chicken
+- lemon
+- confit
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg" />
 
-Confit is one of my favourite ways of cooking meat; with something like a duck leg the meat will be amazingly tender and succulent, and the crisp crunchy skin giving a lovely texture contrast. It’s hard not to adore this! Chicken confit is not often heard of, but its great. Elevating the humble chicken leg to new heights. Lemon chicken was something my mum often made when we were young. Simply place some chicken legs in a roasting tray with olive oil, lemons and seasoning and roast in a hot oven until golden and crisp. You get a load of amazingly tasty juices in the tray which are spooned over potatoes or mopped up with crusty bread. One of my favourite ever meals! So this is a new version of that dish; the confit chicken has a superior texture, and the lemon and olive oil dressing is enriched with the jus from the confit and loaded with chopped fresh herbs. For this one, I served it with some sauteed pak choi and buttered new potatoes.
+Confit is one of my favourite ways of cooking meat; with something like a duck leg the meat will be amazingly tender and succulent, and the crisp crunchy skin giving a lovely texture contrast. It’s hard not to adore this. Chicken confit is not often heard of, but it's a great way to elevate the humble chicken leg to new tasty new heights. Lemon chicken was something my mum often made when we were young. Simply place some chicken legs in a roasting tray with olive oil, lemons and seasoning and roast in a hot oven until golden and crisp. You get a load of amazingly tasty juices in the tray which are spooned over potatoes or mopped up with crusty bread. One of my favourite ever meals! So this is a new version of that dish; the confit chicken has a superior texture, and the lemon and olive oil dressing is enriched with the jus from the confit and loaded with chopped fresh herbs. For this one, I served it with some sauteed pak choi and buttered new potatoes.
 
 ---
 * 4 chicken legs, or thighs
 * 600g of duck or goose fat
-* 42588 tablespoons of coarse sea salt
+* 2 tablespoons of coarse sea salt
 * 2 lemons
 * 5 tablespoons of olive oil
 * 1 small handful of chives

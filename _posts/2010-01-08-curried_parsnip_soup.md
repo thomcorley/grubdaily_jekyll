@@ -3,11 +3,13 @@ layout: post
 date: "2010-01-08"
 title: "Curried Parsnip Soup"
 author: Tom
-category:
+category: "soup"
 serves: "4"
 makes: "-"
 tags:
--
+- curry
+- parsnip
+- soup
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg" />
 
@@ -30,7 +32,7 @@ This curried parsnip soup is the perfect form of resistance against the winter c
 
 3. Add the parsnips, potato and coconut and simmer with the lid on for 20-25 minutes or until the vegetables are tender.
 
-4. Liquidise until smooth with a stem blender.
+4. Liquidise until smooth with a blender.
 
 5. For garnish: try a swirl of double cream, and a sprinkle of smoked paprika. Or finely chopped red pepper and chives.
 

@@ -3,11 +3,12 @@ layout: post
 date: "2011-06-28"
 title: "Raspberry Cordial"
 author: Tom
-category:
+category: "raspberry"
 serves: ""
 makes: "1 bottle"
 tags:
--
+- raspberry
+- juice
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/raspberry_cordial.jpg" />
 

@@ -3,15 +3,17 @@ layout: post
 date: "2012-11-19"
 title: "Pasta Puttanesca"
 author: Tom
-category:
+category: "pasta"
 serves: "4"
 makes: ""
 tags:
--
+- pasta
+- tomato
+- anchovies
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/pasta_puttanesca.jpg" />
 
-My good friend Lewis gave me a slow cooker for my birthday this year, its fantastic because it allows me to braise meat and stews for a long time without having to be in the house. When I am sweating it out in the kitchen at work for 16 hours a day I can have my dinner slowly cooking for when I get back. I make tomato sauce with the slow cooker; tinned tomatoes, onion, garlic, and tomato puree simmered gently for several hours until it is dark and reduced. I then puree and pass it through a fine sieve to make it extra smooth. What you get is an amazingly rich dark red sauce. This can be used for any number of things, but my current favourite is to make salty pungent puttanesca with it. Classic puttanesca sauce is accompanied by spaghetti; literally “whore’s style spaghetti”, it’s packed with in-your-face flavours. Traditionally made with tomatoes, garlic, black olives, anchovies and capers, it’s salty and more-ish. It’s a good dish to have in your repertoire; because it’s made almost entirely with store cupboard ingredients it can be rustled up with just a moment’s notice, although in my recipe the tomato sauce is simmered for eight hours to make it extra rich. This isn’t essential but will make your sauce taste amazing! I recommend making a big batch of sauce and freezing it. As there are so many big and bold flavours going on here, I have added a good handful of parsley and basil to bring some freshness to the dish and vital splash of green, making it particularly eye-catching. I’m pleased with the photograph too, I think it does justice to the dish.
+I've just received a slow cooker as a birthday present from my good friend Lewis, its fantastic because it allows me to braise meat and stews for a long time without having to be in the house. When I'm working all day I can have my dinner slowly cooking for when I get back. I make tomato sauce with the slow cooker; tinned tomatoes, onion, garlic, and tomato puree simmered gently for several hours until it is dark and reduced. I then puree and pass it through a fine sieve to make it extra smooth. What you get is an amazingly rich dark red sauce. This can be used for any number of things, but my current favourite is to make salty pungent puttanesca with it. This sauce is accompanied by spaghetti; literally “whore’s style spaghetti”, it’s packed with in-your-face flavours. Traditionally made with tomatoes, garlic, black olives, anchovies and capers, it’s salty and more-ish. It’s a good dish to have in your repertoire; because it’s made almost entirely with store cupboard ingredients it can be rustled up with just a moment’s notice, although in my recipe the tomato sauce is simmered for eight hours to make it extra rich. This isn’t essential but will make your sauce taste amazing. I recommend making a big batch of sauce and freezing it. As there are so many big and bold flavours going on here, I have added a good handful of parsley and basil to bring some freshness to the dish and vital splash of green, making it particularly eye-catching.
 
 ---
 * 2 400g tins of peeled plum tomatoes

@@ -3,15 +3,17 @@ layout: post
 date: "2011-01-18"
 title: "Mulligatawny Soup"
 author: Tom
-category:
+category: "soup"
 serves: "4"
 makes: ""
 tags:
--
+- mutton
+- lamb
+- curry
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/mulligatawny_soup.jpg" />
 
-
+This is an awesome soup, I adore the combination of rich mutton meatiness and spicy curry. It&#8217;s a proper hearty winter warmer of a dish, and pretty much a meal in itself as it is so thick and substantial. I made this soup with meat from the braised breast and stock that I made from the mutton bones. You could instead use leftover meat from a mutton or lamb roast, along with chicken stock from powder if you don&#8217;t want to make stock from scratch. The mutton could also be substituted quite satisfactorily with chicken; get some chicken thighs, season and toss in olive oil and roast on gas mark 7 for about 30 minutes. Then just pick off the meat and substitute into the recipe below accordingly. I used braised breast, but you could just as well use another cut such as scruffy chops, belly or neck chops. If you do braise some meat, you could use the braising liquor instead of making stock, although it will taste quite strongly of wine (if you use my recipe below) which you may not want in the soup. I believe the rich mellow flavour obtained from the slowly cooked stock is preferable in this case.
 
 ---
 * 150g of streaky bacon

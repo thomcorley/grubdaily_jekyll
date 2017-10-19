@@ -3,11 +3,13 @@ layout: post
 date: "2015-09-14"
 title: "Aubergine, Tomato, Parmesan"
 author: Tom
-category:
+category: "aubergine"
 serves: "4"
 makes: ""
 tags:
--
+- melanzane
+- parmesan
+- tomato
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg" />
 

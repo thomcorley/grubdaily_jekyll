@@ -3,11 +3,13 @@ layout: post
 date: "2010-01-10"
 title: "Spaghetti Carbonara"
 author: Tom
-category:
+category: "pasta"
 serves: "2"
 makes: "-"
 tags:
--
+- spaghetti
+- carbonara
+- pasta
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg" />
 
@@ -16,10 +18,10 @@ The best pasta dish on the planet, I reckon, could only be the glorious Carbonar
 ---
 * 1/2 onion, finely chopped
 * 1 to 2 cloves of garlic, finely chopped
-* 80 to 100g of streaky bacon, chopped
+* 80g of streaky bacon, chopped
 * olive oil
 * salt
-* 250g of spaghetti
+* 200g of spaghetti
 * 2 free range eggs
 * 2 tablespoons of single cream
 * 30g of parmesan, finely grated

@@ -12,7 +12,7 @@ layout: default
                     {% if post.category %}
                     <span class="category">
                         {% for category in post.category %}
-                            <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
+                            <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/"> {{ category }}</a>
                         {% endfor %}
                     </span>
                     {% endif %}

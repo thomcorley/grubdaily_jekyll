@@ -3,11 +3,13 @@ layout: post
 date: "2016-06-13"
 title: "Pork Belly, Asparagus and Ale Sauce"
 author: Tom
-category:
+category: "pork"
 serves: "4"
 makes: ""
 tags:
--
+- pork
+- aspargus
+- ale
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg" />
 

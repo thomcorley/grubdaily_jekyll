@@ -3,15 +3,16 @@ layout: post
 date: "2014-02-07"
 title: "Confit Guineafowl with Lentils"
 author: Tom
-category:
+category: "guineafowl"
 serves: "2"
 makes: ""
 tags:
--
+- lentils
+- guineafowl
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/confit_guineafowl_with_lentils.jpg" />
 
-My confit guinea fowl legs had been sitting happily in the fridge since last week and were just waiting to be turned into something tasty. After the success of the root veg that I served with the breast, I decided to go with something similar…with the addition of lentils. We serve puy lentils like this at work, served with hake which is pan fried with a nice crisp skin. It’s a really versatile garnish though, and works well with chicken, confit duck also. Although the flavour of the confit legs will be best if you leave them to mature in the fat for a week or more, you can do them just a day ahead and still get delicious results. I love lentils prepared like this. The addition of diced vegetables and bacon brings a freshness to the heavy lentils and elevates this dusty store-cupboard ingredient to new heights. And finishing it with freshly chopped garlic and a little white wine vinegar gives a much needed kick. A drizzle of olive oil around, and some crunchy sea salt on the crispy confit skin gives the final touch.
+I was clearing out my fridge a few weeks ago and came across a selection of root vegetables lurking there, waiting to be turned into something tasty. The first thing that came to my mind was soup, and since we were in the middle of winter I was thinking along the lines of a chunky, meaty broth. I decided on Chicken, which would provide my soup with both the chunky meat component and the stock. A bunch of fresh coriander which also happened to be in my fridge could be involved here in some way, I thought. I remembered a Madhur Jaffrey recipe for coriander chicken curry, involving large quantities of fresh coriander, resulting in a vibrant green curry sauce. It was fantastic, and so I reckoned it could work in my soup too. The earthiness of all those root vegetables would be balanced by the fresh zing of the coriander. I prepared the chicken in my usual way; removed the breasts, then cut up the remaining carcass into small pieces and fried until nicely caramelised for the stock. This time I actually chopped up the wings and legs too and added them to the stock for extra flavour. Once the stock was almost ready, after an hour or so, I took some out to gently poach the breast meat in a separate pan. Once perfectly barely cooked, I allowed them to cool before carefully cutting them into dice. All the vegetables and chicken diced to the same size, making for an attractive looking bowl of broth.
 
 ---
 * 2 guineafowl legs
@@ -28,7 +29,7 @@ My confit guinea fowl legs had been sitting happily in the fridge since last wee
 * 1 onion
 * sea salt and cracked black pepper
 * olive oil
-* splash of white wine vinegar
+* white wine vinegar
 * unsalted butter
 * 300g of duck or goose fat
 * 300ml of chicken stock

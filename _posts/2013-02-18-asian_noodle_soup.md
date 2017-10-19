@@ -3,11 +3,12 @@ layout: post
 date: "2013-02-18"
 title: "Asian Noodle Soup"
 author: Tom
-category:
+category: "soup"
 serves: "5"
 makes: ""
 tags:
--
+- beef
+- noodles
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg" />
 

@@ -3,11 +3,12 @@ layout: post
 date: "2015-03-10"
 title: "Roast Pork Fillet, Grain Mustard Sauce"
 author: Tom
-category:
+category: "pork"
 serves: "4"
 makes: ""
 tags:
--
+- pork
+- mustard
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg" />
 

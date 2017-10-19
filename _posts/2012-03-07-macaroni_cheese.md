@@ -3,11 +3,12 @@ layout: post
 date: "2012-03-07"
 title: "Macaroni Cheese"
 author: Tom
-category:
-serves: "4-6"
+category: "pasta"
+serves: "4"
 makes: ""
 tags:
--
+- macaroni
+- cheese
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg" />
 

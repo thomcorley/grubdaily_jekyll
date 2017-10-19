@@ -3,11 +3,13 @@ layout: post
 date: "2013-05-15"
 title: "Salmon and Hollandaise"
 author: Tom
-category:
+category: "salmon"
 serves: "4"
 makes: ""
 tags:
--
+- salmon
+- hollandaise
+- sauce
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg" />
 
@@ -30,7 +32,7 @@ This is another classic combination: it’s also an enduring favourite of mine. 
 
 1. Firstly, take the salmon fillets out of the fridge and sit them skin side up on a board. Heat the oven to 200C
 
-2. Make the hollandaise: Make some reduced vinegar by boiling the white wine vinegar with the peppercorns, tarragon and mace, and reduce by half. Strain and pour back into the bottle. You’ll only need 2 tablespoons for the hollandaise but you will have a supply for next time! Melt the butter over a gentle heat. Separate the milk solids from the clear stuff and set aside in a warm place. Whisk the yolks in a bowl with 2 tablespoons of your reduced vinegar over a large pan of simmering water, being careful not to overheat the eggs. Keep whisking until it forms ribbons when you life the whisk up. Now take it off the heat and gradually whisk in the clarified butter. Finally, add some salt to taste along with some freshly squeezed lemon juice.
+2. Make the hollandaise: Make some reduced vinegar by boiling the white wine vinegar with the peppercorns, tarragon and mace, and reduce by half. Strain and pour back into the bottle. You’ll only need 1 tablespoon for the hollandaise but you will have a supply for next time! Melt the butter over a gentle heat. Separate the milk solids from the clear stuff and set aside in a warm place. Whisk the yolks in a bowl with 1 tablespoon of your reduced vinegar over a large pan of simmering water until it's very thick, but be careful not to scramble the eggs. Now take it off the heat and gradually whisk in the clarified butter. Finally, add some salt to taste along with some freshly squeezed lemon juice, and more vinegar reduction if needed.
 
 3. Get a pan smoking hot and add about 2 tablespoons of vegetable oil. Season the skin of the salmon generously with salt, then place skin side down in the hot pan, pressing down to set it flat. Turn the heat to low and cook like this until almost half cooked. Place in the oven for about 2 minutes, until it's almost cooked through.
 

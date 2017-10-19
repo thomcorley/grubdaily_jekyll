@@ -3,11 +3,12 @@ layout: post
 date: "2012-10-29"
 title: "Red Onion Chutney"
 author: Tom
-category:
+category: "chutney"
 serves: ""
 makes: "3-4 jars"
 tags:
--
+- chutney
+- onion
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg" />
 

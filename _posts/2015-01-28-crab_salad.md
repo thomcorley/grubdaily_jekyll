@@ -3,11 +3,13 @@ layout: post
 date: "2015-01-28"
 title: "Crab Salad"
 author: Tom
-category:
+category: "crab"
 serves: "6"
 makes: ""
 tags:
--
+- crab
+- salad
+- cream
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg" />
 
