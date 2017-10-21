@@ -4,6 +4,7 @@ date: "2011-11-20"
 title: "Rabbit Liver Parfait"
 author: Tom
 category: "game"
+indexed_ingredient: "rabbit"
 serves: "6-8"
 makes: ""
 tags:
@@ -34,4 +35,3 @@ For years of my childhood I hated eating liver. One of our regular meals at home
 2. Pre-heat the oven to 120C. Get a roasting tin and place a folded tea towel in the bottom, this will help stop the terrine mould from sliding when placing into the oven. Put the terrine mould in and pour boiling water around to reach two-thirds of the way up, then place into the oven until the centre reaches 62C. It should take around 30 minutes but keep checking and measuring the temperature often with the probe.
 
 3. Remove from the oven and place straight into the fridge to cool. Leave for several hours, preferably a whole day. To serve, cut thick slices and trim of any discoloured bits from around the edge. The parfait should be uniformly pink.
-

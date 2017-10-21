@@ -4,6 +4,7 @@ date: "2013-05-15"
 title: "Salmon and Hollandaise"
 author: Tom
 category: "salmon"
+indexed_ingredient: "salmon"
 serves: "4"
 makes: ""
 tags:
@@ -37,4 +38,3 @@ This is another classic combination: it’s also an enduring favourite of mine. 
 3. Get a pan smoking hot and add about 2 tablespoons of vegetable oil. Season the skin of the salmon generously with salt, then place skin side down in the hot pan, pressing down to set it flat. Turn the heat to low and cook like this until almost half cooked. Place in the oven for about 2 minutes, until it's almost cooked through.
 
 4. Meanwhile saute the spinach and garlic in butter. Now place the salmon back over a high flame and add a knob of butter. Allow the butter to brown slightly, add a squeeze of lemon juice and baste. Place the salmon on the spinach, pour the sauce over and enjoy.
-

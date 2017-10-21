@@ -4,6 +4,7 @@ date: "2011-01-06"
 title: "Spaghetti Bolognese"
 author: Tom
 category: "pasta"
+indexed_ingredient: "bolognese"
 serves: "6-8"
 makes: ""
 tags:

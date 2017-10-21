@@ -4,6 +4,7 @@ date: "2010-01-10"
 title: "Spaghetti Carbonara"
 author: Tom
 category: "pasta"
+indexed_ingredient: "carbonara"
 serves: "2"
 makes: "-"
 tags:
@@ -35,9 +36,8 @@ The best pasta dish on the planet, I reckon, could only be the glorious Carbonar
 
 4. When the bacon is nice and crispy, add the onion and garlic to the pan along with a knob of butter. Turn down the heat and leave to cook gently.
 
-5. Now make your sauce: in a jug, whisk the eggs, cream, parmesan and black pepper. 
+5. Now make your sauce: in a jug, whisk the eggs, cream, parmesan and black pepper.
 
 6. When the pasta is al dente, drain it, reserving some of the cooking water. Add the pasta to the pan with the bacon and stir briefly (this helps to cool everything down slightly to avoid scrambling the eggs).
 
 7. Now pour in the egg-cream mixture and mix everything together thouroughly. The residual heat from the pasta and bacon will gently cook the eggs and melt the cheese, resulting in an amazingly rich creamy sauce. Add some of the cooking water to achieve a more fluid consistency. Keep stirring until the sauce is silky and smooth, then serve and eat immediately.
-

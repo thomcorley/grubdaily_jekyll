@@ -4,6 +4,7 @@ date: "2011-10-02"
 title: "Tomato Concasse and Prawn Spaghetti"
 author: Tom
 category: "pasta"
+indexed_ingredient: "prawn"
 serves: "2-3"
 makes: ""
 tags:
@@ -31,4 +32,3 @@ I got the idea for this recipe when I was in India with Jack and Claire. We were
 2. Once the water has come back to the boil, add a glug of olive oil, put in the spaghetti and cook according to the packet instructions. Peel the tomatoes, discard the skin then quarter, de-seed (reserving the pulp and seeds) and cut the flesh into small dice. Set aside the dice (this is called tomato concasse).Take the pulp and seeds, blitz in a blender and pass through a fine sieve into a saucepan.
 
 3. Heat another saucepan over a medium heat, and add a glug of olive oil. Add the garlic and saute gently for 30 seconds. and add the wine. Bring to the boil and simmer for 5 minutes. Whisk in the butter cut into small dice piece by piece, being sure to emulsify properly. Add the tomato concasse, prawns and basil. Add the spaghetti and mix everything together, making sure the pasta is nicely coated with the sauce. Taste and season with salt and freshly pepper. Serve and eat immediately!
-

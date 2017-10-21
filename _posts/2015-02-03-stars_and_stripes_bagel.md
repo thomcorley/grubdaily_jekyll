@@ -4,6 +4,7 @@ date: "2015-02-03"
 title: "Stars and Stripes Bagel"
 author: Tom
 category: "sandwich"
+indexed_ingredient: "bagel"
 serves: "2"
 makes: ""
 tags:
@@ -29,4 +30,3 @@ I was introduced to the "Stars and stripes" bagel by my brother Rob, who had had
 * vegetable oil
 
 1. Lightly toast the bagels, fry the bacon until crispy. Peel the avocado, remove the stone and cut into slices. Season the slices with sea salt, black pepper, olive oil and lime juice. Give half an avocado per portion. Layer the fillings generously, as shown in the photo.
-

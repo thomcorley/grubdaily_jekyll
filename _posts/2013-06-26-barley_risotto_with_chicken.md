@@ -4,6 +4,7 @@ date: "2013-06-26"
 title: "Barley Risotto with Chicken"
 author: Tom
 category: "chicken"
+indexed_ingredient: "risotto"
 serves: "4-6"
 makes: ""
 tags:
@@ -40,4 +41,3 @@ Years ago my friend Cecily showed me how to make risotto, she was so enthusiasti
 3. Rinse the barley for a few minutes under cold water, then add to the pan. Turn the heat up and stir for a minute, then add the white wine. Stir until the alcohol has boiled off, then turn the heat to medium and add your chicken stock, one ladle at a time, stirring frequently.
 
 4. Cut the carrot into approx. 5mm dice and fry in some vegetable oil a separate pan until slightly caramelised and just cooked. Drain on kitchen paper. Quarter the mushrooms and do the same with them.
-

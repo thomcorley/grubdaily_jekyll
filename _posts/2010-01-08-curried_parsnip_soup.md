@@ -4,6 +4,7 @@ date: "2010-01-08"
 title: "Curried Parsnip Soup"
 author: Tom
 category: "soup"
+indexed_ingredient: "parsnip"
 serves: "4"
 makes: "-"
 tags:
@@ -35,4 +36,3 @@ This curried parsnip soup is the perfect form of resistance against the winter c
 4. Liquidise until smooth with a blender.
 
 5. For garnish: try a swirl of double cream, and a sprinkle of smoked paprika. Or finely chopped red pepper and chives.
-

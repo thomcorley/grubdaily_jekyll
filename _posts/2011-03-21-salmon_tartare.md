@@ -4,6 +4,7 @@ date: "2011-03-21"
 title: "Salmon Tartare"
 author: Tom
 category: "salmon"
+indexed_ingredient: "salmon"
 serves: "1"
 makes: ""
 tags:
@@ -24,4 +25,3 @@ I haven’t got one single post about fish on this blog yet, which is a shame be
 * freshly cracked black pepper
 
 1. Remove the skin from the salmon and cut out the grey coloured blood line so you have only the shiny pink flesh. Cut into approximate 1cm dice and place in a bowl. Add shallots, parsley, chives, gherkins and lemon juice, and a pinch each of salt and pepper. Mix well, taste and adjust the quantities and seasoning if need be. There are no exact quantities for this, just experiment and find out what works best for you. Leave to
-

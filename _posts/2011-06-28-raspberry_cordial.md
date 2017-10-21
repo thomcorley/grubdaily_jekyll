@@ -4,6 +4,7 @@ date: "2011-06-28"
 title: "Raspberry Cordial"
 author: Tom
 category: "raspberry"
+indexed_ingredient: "raspberry"
 serves: ""
 makes: "1 bottle"
 tags:
@@ -20,4 +21,3 @@ I had some leftover raspberry puree from when I made the chocolate and raspberry
 * 350g of caster sugar
 
 1. Puree raspberries by placing them in a blender, blitzing until smooth then passing through a fine sieve to remove the seeds. Make the sugar syrup: place the water in a saucepan, add sugar and bring to the boil, stirring until all the sugar has dissolved. Add the raspberry puree to the pan and gently bring back to the boil. Turn off the heat, and skim off any scum that has risen to the surface. Pass once more through a fine sieve, allow to cool, then store in sterilised bottles.
-

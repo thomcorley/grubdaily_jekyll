@@ -4,6 +4,7 @@ date: "2014-03-28"
 title: "Leek and Roquefort Quiche"
 author: Tom
 category: "quiche"
+indexed_ingredient: "leek"
 serves: "16"
 makes: ""
 tags:
@@ -38,4 +39,3 @@ The Bouchon collection is a set of recipe books by one of my idols; Thomas Kelle
 3. Now line the pastry with a round of parchment paper and fill with dried beans or rice, pressing gently to fill the shell completely. Blind-bake the pastry for 35 to 45 minutes, until the outside of the pastry is golden and crisp but the inside still light. Remove the beans and parchment paper and return the shell to the oven for a further 20-30 minutes, until golden and crisp inside and out. Patch any cracks with the trimmings, returning to the oven for a further 5 minutes.
 
 4. Heat the oven to 165 C, then prepare the filling: take three large leeks and slice thinly, discarding the dark green part or reserving for another recipe. Cook in a large pot of salted boiling water for 3-4 minutes, until tender. Drain on kitchen paper. Wilt the spinach by searing in a hot pan with a glug of olive oil, adding a pinch of salt. Mix with the cooked leeks. For the batter, heat the milk, cream and salt in a pan until a skin just begins to form on the surface. Place 3 eggs, half the cream mixture, 3 gratings of nutmeg and half the white pepper in a blender and blitz for about 30 seconds until foamy and light. Spread out half the leek mixture and half the roquefort in the bottom of the quiche shell, and pour over enough batter to just cover. Repeat with the remaining filling and batter mix. Fill the quiche to the very brim. Reserve any left over filling. Carefully place in the oven being careful not to spill any of the mix. Cook for about 1 ½ hours, until the quiche is nicely brown and the custard just set when jiggled. After about 20 minutes the custard will have sunk slightly in the middle as some of the air escapes the mix; simply top up with the leftover batter and return to the oven. Refrigerate for at least a day, or up to 3 days, until completely set. Slice into portions and reheat gently in the oven. Alternatively, it is just as excellent eaten cold.
-

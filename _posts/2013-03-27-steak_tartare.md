@@ -4,6 +4,7 @@ date: "2013-03-27"
 title: "Steak Tartare"
 author: Tom
 category: "beef"
+indexed_ingredient: "steak"
 serves: "1"
 makes: ""
 tags:
@@ -24,4 +25,3 @@ I have become very fond of raw meat. I only recently tried steak tartare, the cl
 * 1 egg yolk
 
 1. With a sharp knife, carefully cut the beef into small dice. Mix in the shallots, capers, parsley and gherkin and season to taste with the salt and pepper. Arrange on the plate, then place the egg yolk in the centre.
-

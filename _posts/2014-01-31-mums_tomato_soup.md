@@ -4,6 +4,7 @@ date: "2014-01-31"
 title: "Mum's Tomato Soup"
 author: Tom
 category: "soup"
+indexed_ingredient: "soup"
 serves: "4-6"
 makes: ""
 tags:
@@ -30,4 +31,3 @@ This soup is extremely popular in our household, and one of the first recipes I 
 * a  handful of basil or parsley leaves
 
 1. Cut the bacon into lardons and, in a large pot, fry until crispy. Meanwhile, cut the carrot, onion and celery into 5mm dice, and peel and finely chop the garlic. Once the bacon is nice and caramelised, add the onion, garlic and celery. Turn the heat down and sweat gently for 15 minutes, until the onions are soft and dark. Add the basmati rice, carrots, thyme and oregano and fry over a medium heat for 5 minutes. Now add the tomatoes, the tomato puree and the stock. Bring to the boil then simmer gently for 30 minutes. Finish with some torn or chopped basil leaves, then and serve with fresh crusty bread.
-

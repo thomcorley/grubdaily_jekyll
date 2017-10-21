@@ -4,6 +4,7 @@ date: "2012-09-03"
 title: "Chocolate Mousse"
 author: Tom
 category: "chocolate"
+indexed_ingredient: "chocolate"
 serves: ""
 makes: "6.00"
 tags:
@@ -28,4 +29,3 @@ For the last six months at work I’ve been on desserts, getting to grips with t
 2. Quickly whip the cream until it forms soft peaks. In a separate bowl, whisk the egg whites until they also form soft peaks, then gradually add the remaining 25g of caster sugar whilst continuing to whisk vigorously, until fully incorporated. Set aside. Pour the chocolate sabayon into another bowl to cool it slightly (it should be around 35-40 C), then fold the cream in stages, mixing the first spoonful vigorously to stabilise the mixture so it doesn't sieze. Once the cream is mixed in, gently fold the egg white mixture in.
 
 3. Pour the mousse into moulds or dishes and leave in the fridge for a minimum of 6 hours to set.
-
