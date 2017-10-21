@@ -4,6 +4,7 @@ date: "2016-02-22"
 title: "Cullen Skink"
 author: Tom
 category: "soup"
+indexed_ingredient: "cullen_skink"
 serves: "4"
 makes: ""
 tags:
@@ -37,4 +38,3 @@ A perfect combination of smoked haddock, potatoes, leeks and cream make up this 
 3. Heat  about 1 tablespoon of olive oil in a frying pan, and fry the potato dice on a medium heat for 5-10 minutes, or until they are tender and a light golden colour. Drain on some kitchen paper and set aside.
 
 4. Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sauteed potato dice.
-

@@ -4,6 +4,7 @@ date: "2017-01-15"
 title: "Lamb Bolognese"
 author: Tom
 category: "pasta"
+indexed_ingredient: "lamb"
 serves: "4"
 makes: ""
 tags:
