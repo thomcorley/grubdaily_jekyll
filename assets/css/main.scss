@@ -28,7 +28,7 @@
 		}
 	}
 
-	.mainmenu { text-align: left; width: 500px;
+	.mainmenu { text-align: left; width: 600px; min-width: 500px;
 		& > ul > li { float: left; margin: 0 0 0 40px;
 			&:first-of-type { margin: 0; padding-left: 5px;}
 			& > a { display: block; font: 400 20px/20px Abel, sans-serif; color: $grey-color-light; @include transition(color, .2s, ease); line-height: 34px;
@@ -105,7 +105,7 @@
 			.post-excerpt { display: none; }
 			.details { overflow: hidden; position: absolute; border-radius: 4px !important; left: 0; bottom: 0; width: 100%; padding: 10px; background: rgba($black, .7); color: darken($white, 5%); @include transition(padding, .2s, ease-in-out);
 				.post-meta a { color: $white; }
-				.post-title { font: 400 30px/37px Domine, sans-serif; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+				.post-title { font: 400 25px/37px Domine, sans-serif; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
 					a { color: darken($white, 5%); }
 				}
 				.post-content { margin: 10px 0 0; }
