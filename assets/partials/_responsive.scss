@@ -94,6 +94,9 @@
 
 @include media-query($on-phone) {
 	// .first-post { font-size: 20vw !important;}
+	.index-list {
+		ul { columns: 1; -webkit-columns: 1; -moz-columns: 1; }
+	}
 	.index .newest-recipes .post .details .post-title {
 		font-size: 18px !important;
 	}

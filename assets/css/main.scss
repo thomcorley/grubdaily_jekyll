@@ -7,6 +7,10 @@
 .delicious { max-width: $default-width; margin: 0 auto; padding: 0 15px; }
 /**/
 
+.index-list {
+	ul { columns: 2; -webkit-columns: 2; -moz-columns: 2; }
+}
+
 /* Header */
 .header { padding: 30px 0 10px; display: block; text-align: center;
 	.blog-info { margin: 0 0 30px;

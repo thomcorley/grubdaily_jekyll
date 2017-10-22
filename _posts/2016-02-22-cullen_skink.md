@@ -4,7 +4,7 @@ date: "2016-02-22"
 title: "Cullen Skink"
 author: Tom
 category: "soup"
-indexed_ingredient: "cullen_skink"
+indexed_ingredient: "cullen skink"
 serves: "4"
 makes: ""
 tags:

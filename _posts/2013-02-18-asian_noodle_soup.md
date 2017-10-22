@@ -4,7 +4,7 @@ date: "2013-02-18"
 title: "Asian Noodle Soup"
 author: Tom
 category: "soup"
-
+indexed_ingredient: "noodle"
 serves: "5"
 makes: ""
 tags:

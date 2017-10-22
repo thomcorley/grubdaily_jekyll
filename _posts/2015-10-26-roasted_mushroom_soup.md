@@ -4,7 +4,7 @@ date: "2015-10-26"
 title: "Roasted Mushroom Soup"
 author: Tom
 category: "soup"
-indexed_ingredient: "soup"
+indexed_ingredient: "mushroom"
 serves: "4"
 makes: ""
 tags:
