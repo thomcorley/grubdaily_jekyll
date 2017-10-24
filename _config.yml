@@ -54,7 +54,7 @@ url: "https://www.grubdaily.com"
 baseurl: ""
 
 # Includes
-include: ["_pages",  "_site"]
+include: ["_pages"]
 
 # Outputting
 permalink: /:categories/:title.html
