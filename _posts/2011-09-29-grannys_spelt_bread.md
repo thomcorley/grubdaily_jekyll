@@ -4,12 +4,12 @@ date: "2011-09-29"
 title: "Granny's Spelt Bread"
 author: Tom
 category: "bread"
-indexed_ingredient: "bread"
 serves: ""
 makes: "1 tray"
 tags:
 - spelt
 - bread
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg" />
 
@@ -27,3 +27,4 @@ My granny lives on a farm on the west coast of Scotland near Oban, right by the 
 * 2 tablespoons of olive oil
 
 1. Heat the oven to 200C. In a large bowl, mix together the flour, salt, yeast, pumpkin seeds, sunflower seeds and pine nuts. In a jug, mix the water with olive oil and treacle. Mix the contents of the jug into the bowl with the flour, cover and leave in a warm place to rise for 20 minutes. Line a large roasting tin with greaseproof paper and scrape the dough into it. Leave in a warm place to rise again for 10 minutes, then place in the oven for 20-30 minutes, until nice and brown on the top and sounding hollow when tapped underneath. Enjoy hot with butter.
+

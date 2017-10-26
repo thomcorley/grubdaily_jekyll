@@ -1,16 +1,16 @@
 ---
 layout: post
-date: "2017-12-01"
+date: "2014-12-01"
 title: "Chicken and Pancetta"
 author: Tom
 category: "chicken"
-indexed_ingredient: "chicken"
 serves: "4"
 makes: ""
 tags:
 - chicken
 - pancetta
 - ragout
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg" />
 
@@ -38,3 +38,4 @@ I made this for my dinner a few weeks ago, I didn’t intend for it to be photog
 3. In a small frying pan, heat 2 tablespoons of vegetable oil and fry the picked rosemary until crisp. Drain on kitchen paper and set aside.
 
 4. Add the white wine to the shallots, and reduce until dry. Add the cream and the mushrooms, and reduce gently until the sauce is a nice thick consistency. Cut the courgettes into dice and simmer in the sauce until just cooked, then add the parsley and the spinach. Stir briefly, and serve. Slice each thigh into 3 pieces and serve.
+

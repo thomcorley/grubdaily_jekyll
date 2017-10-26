@@ -4,13 +4,13 @@ date: "2011-01-18"
 title: "Mulligatawny Soup"
 author: Tom
 category: "soup"
-indexed_ingredient: "mutton"
 serves: "4"
 makes: ""
 tags:
 - mutton
 - lamb
 - curry
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/mulligatawny_soup.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/mulligatawny_soup.jpg" />
 
@@ -34,3 +34,4 @@ This is an awesome soup, I adore the combination of rich mutton meatiness and sp
 * 300g of potatoes, cut into 1cm dice
 
 1. Cut the bacon into thin lardons and fry in a little olive oil in a large pot until just starting to colour. Dice the onion and celery and finely chop the garlic. Add these to the pot with the bacon, along with the mutton fat. Turn the heat right down and gently sweat the vegetables down for 10-15 minutes until they are nice and soft. Add to the pot the carrots, braised mutton, curry powder, paprika and stock. Taste and season with salt and freshly cracked black pepper, bring to the boil, then turn the heat down to just below simmering point and cook for 15-20 minutes. Add a few drops of Worcester sauce and 1 teaspoon of white wine vinegar. Add the potato dice and cook until the potatoes are tender but not falling apart. Adjust the seasoning and serve with some roughly chopped parsley scattered over.
+

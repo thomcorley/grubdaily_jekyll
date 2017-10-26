@@ -4,12 +4,12 @@ date: "2012-12-30"
 title: "Chicken Caesar Salad"
 author: Tom
 category: "salad"
-indexed_ingredient: "chicken"
 serves: "4"
 makes: ""
 tags:
 - chicken
 - salad
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg" />
 
@@ -33,3 +33,4 @@ Jack, John and myself often used to make this in our flat in Sheffield. It’s e
 2. While the chicken is cooking, fry the bacon in olive oil until crisp, then cut into chunky lardons. Cut the bread into dice, then fry in olive oil, stirring constantly until light golden. Transfer to a tray lined with kitchen paper immediately to drain. Set aside.
 
 3. Now for the dressing; finely grate the parmesan and place in a bowl with the egg yolk, anchovy, garlic and chicken roasting juices. Whisk (or use a blender) until all incorporated and smooth, then begin to add the olive oil, very gradually, until it is emulsified and you have a thick mayonnaise. Add a squeeze of lemon juice to taste, and a couple of tablespoons of water until you have a sauce-like consistency. Season with salt, if needed. Pick and wash the lettuce leaves, and to finish the salad, simply toss everything together with the dressing and throw in a bowl.
+

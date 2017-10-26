@@ -4,12 +4,12 @@ date: "2013-02-18"
 title: "Asian Noodle Soup"
 author: Tom
 category: "soup"
-indexed_ingredient: "noodle"
 serves: "5"
 makes: ""
 tags:
 - beef
 - noodles
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg" />
 
@@ -38,3 +38,4 @@ When we were in Vietnam we fell in love with pho, the “noodle soup that build 
 2. Bring a pan of salted water to the boil. Peel the carrot into ribbons and finely slice. Peel the celery and finely slice. Add all the vegetables except the spring onion to the boiling water and cook for 2 minutes. Lift out with a slotted spoon and rinse under cold water.
 
 3. Cook the noodles in the boiling vegetable water for 4 minutes, then drain. Divide the noodles and vegetables between 4 bowls, then ladle the hot beef stock over the top. Sprinkle the spring onions over the top, and serve.
+

@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>For tasty things</description>
-    <link>https://www.grubdaily.com/</link>
-    <atom:link href="https://www.grubdaily.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Oct 2017 20:14:19 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Oct 2017 20:14:19 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 Oct 2017 21:21:19 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2017 21:21:19 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -44,10 +44,11 @@
     &lt;p&gt;Cook the spaghetti according to the packet instructions. While the pasta is cooking, add the cream and spinach to the bolognese and stir until all the spinach has wilted. Add the parmesan and mix thoroughly to melt the cheese and emulsify it into the sauce. The sauce should now be thick and creamy. Half the cherry tomatoes and have them ready. When the pasta is done, drain in a colander, reserving the starchy liquid. Add the pasta along with the cherry tomatoes into the sauce and mix well. Taste for seasoning, adding more salt or parmesan if needed. Serve immediately&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/pasta/lamb_bolognese.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/pasta/lamb_bolognese.html</guid>
+        <link>http://localhost:4000/pasta/lamb_bolognese.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pasta/lamb_bolognese.html</guid>
         
         <category>lamb</category>
         
@@ -104,10 +105,11 @@
     &lt;p&gt;While the pork belly is cooking, prepare the vegetables; fill a large pot with water and season generously with salt. Bring to the boil. Cut off the bottom 1-2 cm of the asparagus as it is woody and tough. Remove the outer 2 or 3 layers of the cabbage, and cut out the thick veins. Slice coarsely. Wash the baby spinach leaves, then set aside. When the pork belly is about 5 minutes away from finished, heat the butter in a large saute pan until foaming, then add the cabbage along with a pinch of salt. Cook until tender. Cook the asparagus in the boiling salted water until just tender - about 4 minutes. Finally, add the baby spinach to the pan with the cabbage and cook until wilted. Serve the pork belly on the bed of vegetables, and pour the sauce over.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
-        <link>https://www.grubdaily.com/pork/pork_belly_asparagus_and_ale_sauce.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/pork/pork_belly_asparagus_and_ale_sauce.html</guid>
+        <link>http://localhost:4000/pork/pork_belly_asparagus_and_ale_sauce.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pork/pork_belly_asparagus_and_ale_sauce.html</guid>
         
         <category>pork</category>
         
@@ -150,10 +152,11 @@
     &lt;p&gt;While the cake is cooking, lay out the walnuts on another baking sheet and bake for about 5 minutes, until browned slightly. When the cake has cooled slightly, slice the remaining banana and arrange on top. Finally garnish with the toasted walnuts.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/dessert/porridge_oats_and_banana_cake.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/dessert/porridge_oats_and_banana_cake.html</guid>
+        <link>http://localhost:4000/dessert/porridge_oats_and_banana_cake.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dessert/porridge_oats_and_banana_cake.html</guid>
         
         <category>oats</category>
         
@@ -201,10 +204,11 @@
     &lt;p&gt;Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sauteed potato dice.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/soup/cullen_skink.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/soup/cullen_skink.html</guid>
+        <link>http://localhost:4000/soup/cullen_skink.html</link>
+        <guid isPermaLink="true">http://localhost:4000/soup/cullen_skink.html</guid>
         
         <category>smoked</category>
         
@@ -248,10 +252,11 @@
     &lt;p&gt;To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and saute in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/soup/roast_garlic_soup.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/soup/roast_garlic_soup.html</guid>
+        <link>http://localhost:4000/soup/roast_garlic_soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/soup/roast_garlic_soup.html</guid>
         
         <category>roast</category>
         
@@ -301,10 +306,11 @@
     &lt;p&gt;When the stock is almost ready, ladle some out into a small pan and gently poach the chicken breasts, just covered with hot stock but not boiling, turning the breasts every few minutes. Remove when they are just barely cooked, and allow to cool. While the stock is cooking, prepare the vegetables for the broth: cut the carrot, celeriac, swede and onion into 5mm dice, and finely chop the garlic. Sweat the onion and garlic in vegetable oil for about 5 minutes, until soft. Add the carrot and cook for about 5 minutes, add the swede and cook for a further 2 minutes, then finally add the celeriac. Sweat until all the veg is nicely cooked, then remove from the heat. Cut the cooked chicken breast into 5mm dice and set aside. When the stock is ready, season to taste with salt and pour just enough over the diced vegetables, ensuring to leave it nice and thick. You may have some leftover. Add the chicken dice and gently warm through. Finally chop the coriander and stir through at the very end.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/soup/chicken_and_coriander_broth.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/soup/chicken_and_coriander_broth.html</guid>
+        <link>http://localhost:4000/soup/chicken_and_coriander_broth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/soup/chicken_and_coriander_broth.html</guid>
         
         <category>chicken</category>
         
@@ -349,10 +355,11 @@
     &lt;p&gt;To finish; slice the 12 reserved mushrooms in half, season with salt and saute them to get a nice roasted colour. Pick the leaves from the remaining rosemary sprig and fry these in olive oil until just crisp. Scatter the mushrooms and rosemary over the soup along with a drizzle of olive oil.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
-        <link>https://www.grubdaily.com/soup/roasted_mushroom_soup.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/soup/roasted_mushroom_soup.html</guid>
+        <link>http://localhost:4000/soup/roasted_mushroom_soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/soup/roasted_mushroom_soup.html</guid>
         
         <category>soup</category>
         
@@ -392,10 +399,11 @@
     &lt;p&gt;To assemble the salad: slice the tomato into 2mm slices and season each slice with sea salt, cracked black pepper and olive oil. Arrange the aubergine slices alternating with the tomato as shown in the photo. Garnish with basil leaves, parmesan shavings and balsamic vinegar.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Mon, 14 Sep 2015 00:00:00 +0100</pubDate>
-        <link>https://www.grubdaily.com/aubergine/aubergine_tomato_parmesan.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/aubergine/aubergine_tomato_parmesan.html</guid>
+        <link>http://localhost:4000/aubergine/aubergine_tomato_parmesan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/aubergine/aubergine_tomato_parmesan.html</guid>
         
         <category>melanzane</category>
         
@@ -437,10 +445,11 @@
     &lt;p&gt;Place the sugar, cream and whisky in a bowl and whisk until soft peaks form. Mix in the whole raspberries, saving a few back for garnish, about half of the raspberry compote, and most of the honeyed oats, saving some for garnish. Fold everything together to create a marble effect, then serve into bowls, finishing with the whole raspberries, honeyed oats and compote. Finally dust a little icing sugar over the top.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 +0100</pubDate>
-        <link>https://www.grubdaily.com/raspberry/cranachan.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/raspberry/cranachan.html</guid>
+        <link>http://localhost:4000/raspberry/cranachan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/raspberry/cranachan.html</guid>
         
         <category>raspberry</category>
         
@@ -488,10 +497,11 @@
     &lt;p&gt;Heat the oven to 180C. Cut 2mm slices off the courgettes lengthways, taking only the vibrant skin from the outside, and reserve the inner white part for another recipe. Cut the slices into thin strips. Set aside. Get a heavy based frying pan hot on the stove, and fry the stuffed saddles until lightly coloured all over. Place in the oven for 3 minutes, then turn over. Return to the oven for 5 minutes, or until the inside temperature reaches 55C, which is medium rare. Leave the meat to rest on a rack for 15-20 minutes. Just before carving the meat, saute the courgettes in olive oil until just cooked, and season with sea salt. Carve each loin into 3 pieces, and place on top of the spaghetti of courgettes. Serve with some nice crusty bread and a glass of white wine.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 </description>
         <pubDate>Fri, 10 Jul 2015 00:00:00 +0100</pubDate>
-        <link>https://www.grubdaily.com/lamb/stuffed_saddle_of_lamb.html</link>
-        <guid isPermaLink="true">https://www.grubdaily.com/lamb/stuffed_saddle_of_lamb.html</guid>
+        <link>http://localhost:4000/lamb/stuffed_saddle_of_lamb.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lamb/stuffed_saddle_of_lamb.html</guid>
         
         <category>lamb</category>
         

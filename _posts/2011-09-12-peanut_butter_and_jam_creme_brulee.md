@@ -4,12 +4,12 @@ date: "2011-09-12"
 title: "Peanut Butter and Jam Creme Brulee"
 author: Tom
 category: "dessert"
-indexed_ingredient: "peanut"
 serves: ""
 makes: "6-8"
 tags:
 - peanut
 - jam
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg" />
 
@@ -29,3 +29,4 @@ One of the desserts we serve at Wedgwood is a marmalade on toast creme brulee; i
 2. Place the eggs and caster sugar in a metal bowl, and whisk over a pan of simmering water until it forms ribbons when lifted up. Pour the peanut butter cream onto the egg mix, continuing to whisk. Heat the mixture on the pan of simmering water, stirring constantly to prevent it sticking. Thicken again until it makes thick ribbons when you lift the whisk up. When your pour the mixture into the ramekins it should be thick enough that it only just levels out. Place in the fridge for several hours to set.
 
 3. When fully chilled, sprinkle a thin layer of sugar over and caramelize with a blowtorch. Quickly sprinkle some toasted peanuts over before the sugar has cooled, so they set into the caramel.
+

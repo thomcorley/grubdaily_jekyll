@@ -4,12 +4,12 @@ date: "2012-10-29"
 title: "Red Onion Chutney"
 author: Tom
 category: "chutney"
-indexed_ingredient: "salmon"
 serves: ""
 makes: "3-4 jars"
 tags:
 - chutney
 - onion
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg" />
 
@@ -29,3 +29,4 @@ Preserving and pickling is something that I have a great appreciation for. The b
 1. Peel and thinly slice the onions along the grain and place in a wide-based pot. Take a piece of muslin cloth and tie up the cloves, star anise, bay leaf, garlic and cinnamon to make a bouquet garni. Add this to the pot with the rest of the ingredients. Stir briefly to incorporate, bring to the boil, then simmer gently for 3-4 hours, stirring occasionally until the chutney is dark and intense and the onions are softened.
 
 2. Take several jam jars and sterilise them. Spoon the chutney into the jars whilst still hot, and secure the lids. Put the chutney in a cool larder (or a fridge) for at least six months before opening.
+

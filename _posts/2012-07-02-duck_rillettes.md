@@ -4,13 +4,13 @@ date: "2012-07-02"
 title: "Duck Rillettes"
 author: Tom
 category: "duck"
-indexed_ingredient: "duck"
 serves: "6"
 makes: ""
 tags:
 - duck
 - confit
 - rillettes
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg" />
 
@@ -33,3 +33,4 @@ I think it’s high time I put a recipe for duck up here. This bird is rich in t
 2. Lightly sprinkle some of the cure mix onto the duck legs and rub into the flesh and skin. Cover, and leave in the fridge for 8 hours or overnight. Set the oven to 150C, and thoroughly wash the salt off the duck legs. Place in a casserole tray and cover with the duck fat, ensuring that they are completely covered. Add the thyme, bay leaf and peppercorns. Place in the oven for 3-4 hours or until the meat is extremely tender and falling off the bone.
 
 3. Remove from the oven, and allow to cool slightly, then carefully strip all the meat from the bone, being careful to discard any sinew or gristle. Place the meat in a bowl and work with a spoon until the meat is finely shredded. Now add a few tablespoons of the duck fat and continue to work the mixture. You should have a smooth, moist paste. Add enough duck fat until this consistency is achieved. Taste, and adjust the seasoning. Roll into a cylinder in cling film and place in the fridge to set. Serve with melba toast, chutney and salad.
+

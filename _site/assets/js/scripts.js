@@ -56,10 +56,10 @@ jQuery(document).ready( function() {
 				var tagsText = tags.text().toLowerCase().replace(/\s/g, "");
 				var tagIndex = jQuery.inArray(tagsText, availableCategories);
 				if (jQuery.inArray(tagsText, availableCategories) !== -1) {
-					jQuery('<a href="' + postURL + '" class="category-' + tagsText + '"><svg width="60" height="60"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.grubdaily.com/assets/svg/food-categories.svg#' + availableCategories[tagIndex] + '"></use></svg></a>').appendTo(jQuery(this).find('.post-image'));
+					jQuery('<a href="' + postURL + '" class="category-' + tagsText + '"><svg width="60" height="60"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost:4000/assets/svg/food-categories.svg#' + availableCategories[tagIndex] + '"></use></svg></a>').appendTo(jQuery(this).find('.post-image'));
 				}
 				else {
-					jQuery('<a href="' + postURL + '" class="category-main"><svg width="60" height="60"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.grubdaily.com/assets/svg/food-categories.svg#main"></use></svg></a>').appendTo(jQuery(this).find('.post-image'));
+					jQuery('<a href="' + postURL + '" class="category-main"><svg width="60" height="60"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost:4000/assets/svg/food-categories.svg#main"></use></svg></a>').appendTo(jQuery(this).find('.post-image'));
 				}
 			});
 		}

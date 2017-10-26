@@ -1,15 +1,15 @@
 ---
 layout: post
-date: "2016-03-10"
+date: "2015-03-10"
 title: "Roast Pork Fillet, Grain Mustard Sauce"
 author: Tom
 category: "pork"
-indexed_ingredient: "pork"
 serves: "4"
 makes: ""
 tags:
 - pork
 - mustard
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg" />
 
@@ -42,3 +42,4 @@ Pork fillets are easily obtainable and relatively inexpensive, but the best thin
 4. Prepare the cabbage: Remove and discard the dark green outer layers. Take the inner leaves off and remove the woody veins. Thinly slice the cabbage, then set aside. Heat a little vegetable oil in a wide-based pan over a medium-high heat, and saute the cabbage, with a pinch of salt, until lightly coloured. Turn the heat to low, then add the remaining 10g of butter. Cook gently until cabbage is tender taste, and add more salt if needed.
 
 5. To serve, place a spoonful of the mashed potato in the centre of the plate, with a spoonful of cabbage next to it. Slice the pork fillet, and place on top. Spoon the sauce over.
+

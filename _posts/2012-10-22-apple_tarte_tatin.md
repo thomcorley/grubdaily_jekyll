@@ -4,12 +4,12 @@ date: "2012-10-22"
 title: "Apple Tarte Tatin"
 author: Tom
 category: "dessert"
-indexed_ingredient: "apple"
 serves: "4"
 makes: ""
 tags:
 - apples
 - tart
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg" />
 
@@ -30,3 +30,4 @@ When I was younger I always preferred savoury food over sweet, but since working
 4. Cover carefully with the puff pastry and tuck the edges in. Prick the top several times with a sharp knife to allow steam to escape. Now place in the oven for 15 minutes until the pastry is cooked through, nice and golden.
 
 5. Have a cooling rack ready; remove the tarte from the oven and leave for 1 minute, then quickly turn it out onto the rack upside-down. The caramelised apples should release from the pan nicely. Leave to cool slightly, then eat! Excellent with vanilla ice-cream.
+

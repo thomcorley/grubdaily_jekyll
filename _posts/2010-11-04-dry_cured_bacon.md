@@ -4,12 +4,12 @@ date: "2010-11-04"
 title: "Dry Cured Bacon"
 author: Tom
 category: "pork"
-indexed_ingredient: "bacon"
 serves: ""
 makes: "1 large piece"
 tags:
 - bacon
 - pork
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg" />
 
@@ -27,3 +27,4 @@ Since my last batch of dry cure bacon had been finished up a while ago, it was h
 * 3 cloves, ground
 
 1. Mix all the ingredients except the pork together in a bowl. Rub about three-quarters of the mix into the belly, leave in the fridge for 24 hours then pour the liquid away and repeat, but only adding a small amount of cure mix after the first day. Cure it for 4 days, then cut off a piece and fry it to test for saltiness. If it’s too salty, just soak it under running water for an hour or longer to reduce this. Finally, wrap it in muslin and hang for a week in a cool larder to dry and allow the flavour to mature.
+

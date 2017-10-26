@@ -4,12 +4,12 @@ date: "2014-02-07"
 title: "Confit Guineafowl with Lentils"
 author: Tom
 category: "guineafowl"
-indexed_ingredient: "guineafowl"
 serves: "2"
 makes: ""
 tags:
 - lentils
 - guineafowl
+img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/confit_guineafowl_with_lentils.jpg"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/confit_guineafowl_with_lentils.jpg" />
 
@@ -44,3 +44,4 @@ I was clearing out my fridge a few weeks ago and came across a selection of root
 4. Heat the oven to 180C. Get the confit legs out of the fat, and scrape off any excess. Fry them in a hot pan skin side down, pressing to flatten slightly, then place in the centre of the oven for about 20 minutes, until the skin is crispy and the meat is heated through.
 
 5. When the lentils are ready, drain off and reserve the stock, then add the vegetables and bacon. Finely chop the garlic and parsley and add to the pot. Add a ladleful of the stock, along with a knob of butter and a drizzle of vinegar. Season to taste with salt.
+
