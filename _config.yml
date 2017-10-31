@@ -8,6 +8,7 @@ favicon: /favicon.png
 twitter_handler: your_handler
 analytics_code: UA-109063146-1
 disqus: your_disqus_site
+google_analytics: UA-109063146-1
 
 # Social Accounts
 social_networks:
