@@ -1,5 +1,5 @@
 ---
 layout: photos
-title: "All Photos"
+title: "Photos"
 permalink: "/photos/"
 ---
