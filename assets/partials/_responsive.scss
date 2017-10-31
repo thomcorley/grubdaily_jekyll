@@ -90,6 +90,11 @@
 			}
 		}
 	}
+	.photo-grid { overflow: hidden; margin-left: 1%;
+		ul li a .photo-square {
+			margin: 4px; float: left; background-size: cover; background-position: center; width: 90px; height: 90px;
+		}
+	}
 }
 
 @include media-query($on-phone) {
@@ -118,6 +123,11 @@
 			input { position: relative; border: 1px solid $white; width: 100px; background: none; height: 34px; font: 400 16px/16px Abel, sans-serif; padding: 2px 8px 3px 34px; border-radius: 1px; @include transition(all, .2s, ease);
 				&:focus, &:active { width: 200px; border: 1px solid darken($white, 8%); }
 			}
+		}
+	}
+	.photo-grid { overflow: hidden;
+		ul li a .photo-square {
+			margin: 4px; float: left; background-size: cover; background-position: center; width: 90px; height: 90px;
 		}
 	}
 }
