@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2014-09-10"
+date: "2016-02-22"
 title: "Arbroath Smoky"
 author: Tom
 category: "fish"
@@ -31,4 +31,3 @@ With a coastline as extensive and diverse as Scotland’s, it’s not surprising
 2. Thinly slice the onions at an angle, then place in a large mixing bowl along with the spinach. Season with olive oil, salt and pepper and a little squeeze of lemon juice. Cut the courgette into quarters lengthways and cut out the soft pulp from the middle. Carefully cut into long ribbons. Season with sea salt and olive oil, then add to the bowl of salad.
 
 3. Carefully poach the eggs until just cooked. While the eggs are cooking, arrange the salad into 4 bowls. Flake the smoked fish over the top, and finish with the poached eggs, seasoning with a little salt and pepper.
-

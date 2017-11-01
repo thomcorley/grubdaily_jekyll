@@ -5,62 +5,76 @@
     <description>For tasty things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Nov 2017 20:16:16 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2017 20:16:16 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2017 20:52:42 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2017 20:52:42 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-
+    
       <item>
-        <title>Lamb Bolognese</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/lamb_bolognese.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Crab Salad</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Bolognese sauce in our household was always quite different to what most would consider classic bolognese, which would typically be made with beef and pork. Our sauce would nearly always contain some lamb due to the abundant supply in our freezer. The mince from our own lamb was usually quite fatty and, when mixed in equal parts with lean beef mince, gave a lovely depth of flavour and body to the sauce. It always tasted fantastic; ladled onto a mountain of spaghetti with handfuls of grated parmesan I would devour it with gusto. Lamb bolognese is almost unheard of, which is a shame because it’s so delicious! In my view this is tastier than the classic beef bolognese and I bet that many would agree. Saying that, the recipe I’ve made here is not a plain spag-bol but a modified version, or upgraded, I should say. I made it a little bit creamier than usual, and added extra garlic. A good pile of baby spinach is thrown in and wilted down to tangle with the spaghetti as everything is mixed together. Parmesan cheese is mixed in, along with a splash of the salted starchy pasta water and finally some cherry tomatoes at the very last just to warm through gently. The final sauce is really rich and creamy, with the spinach and tomatoes giving a juiciness that stands up to the strong flavoured lamb.&lt;/p&gt;
+&lt;p&gt;Of all the delicious things in the world to eat, crab is easily one of my favourites. It’s got an intense flavour of the sea and it’s succulent, sweet and juicy. In short, it’s fantastic. Preparing crab involves a bit of work and is fairly time consuming… but it’s a labour of love and something I’d urge everyone to try. Cooked in generously seasoned water, the beautiful white meat is excellent whilst still warm, eaten straight from the shell. It hardly needs anything more, although mix it with a little mayonnaise, herbs and lemon juice and you have the beginnings of a delicious salad. I’ve been wanting to write a crab recipe for a while now, but found it difficult to think of a really photogenic looking dish that wasn’t just a rip-off from one of the restaurants I’ve worked in. The custard part of this dish is similar to a crab creme brulee that we did at Wedgwood, and it’s really tasty. The sweet flavour of crab infuses really well in cream, and the fresh herbs added at the end finish it off beautifully.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;500g of lamb mince&lt;/li&gt;
-  &lt;li&gt;3 rashers of smoked streaky bacon&lt;/li&gt;
-  &lt;li&gt;1 onion&lt;/li&gt;
+  &lt;li&gt;1 brown crab&lt;/li&gt;
   &lt;li&gt;1 carrot&lt;/li&gt;
-  &lt;li&gt;1 stick of celery&lt;/li&gt;
-  &lt;li&gt;3 large cloves of garlic&lt;/li&gt;
-  &lt;li&gt;250ml of red wine&lt;/li&gt;
-  &lt;li&gt;50g of tomato puree&lt;/li&gt;
-  &lt;li&gt;1 litre of lamb stock, or chicken stock&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon of dried chilli flakes&lt;/li&gt;
-  &lt;li&gt;50ml of double cream&lt;/li&gt;
-  &lt;li&gt;100g of baby spinach leaves&lt;/li&gt;
-  &lt;li&gt;100g of parmesan&lt;/li&gt;
-  &lt;li&gt;2 sprigs  of thyme&lt;/li&gt;
-  &lt;li&gt;400g of dried spaghetti&lt;/li&gt;
-  &lt;li&gt;olive oil&lt;/li&gt;
-  &lt;li&gt;sea salt and freshly cracked black pepper&lt;/li&gt;
+  &lt;li&gt;1/2 leek&lt;/li&gt;
+  &lt;li&gt;1 fennel&lt;/li&gt;
+  &lt;li&gt;2 star anise&lt;/li&gt;
+  &lt;li&gt;1 thyme&lt;/li&gt;
+  &lt;li&gt;600ml of whipping cream&lt;/li&gt;
+  &lt;li&gt;50ml of whole milk&lt;/li&gt;
+  &lt;li&gt;1 parsley&lt;/li&gt;
+  &lt;li&gt;1 dill&lt;/li&gt;
+  &lt;li&gt;1 tarragon&lt;/li&gt;
+  &lt;li&gt;1 baby gem lettuce&lt;/li&gt;
+  &lt;li&gt;1 spring onion&lt;/li&gt;
+  &lt;li&gt;1 chives&lt;/li&gt;
+  &lt;li&gt;2 pieces of medium sliced white bread&lt;/li&gt;
+  &lt;li&gt;6 egg yolks&lt;/li&gt;
+  &lt;li&gt;cayenne pepper, or piment d’espelette&lt;/li&gt;
+  &lt;li&gt;1 tablespoon of mayonnaise&lt;/li&gt;
+  &lt;li&gt;lemon&lt;/li&gt;
+  &lt;li&gt;sea salt&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Cut the bacon into 5mm dice and in a large, wide-based pan, fry in olive oil until golden and crisp. Finely chop the onion and garlic and add to the pan, turning the heat down. Dice the celery and carrot into 5mm dice and add to the pan. Pick the leaves from the sprigs of thyme and add to the pan along with the chilli flakes. Turn the heat to medium and cook for 10 minutes, stirring frequently. Add the lamb mince, red wine, tomato puree and stock. Bring to the boil, then simmer gently for 1.5 hours, or until the lamb is tender and the sauce reduced and thick.&lt;/p&gt;
+    &lt;p&gt;Fill a large pan with water and bring to the boil. Season generously with salt (it should be almost as salty as the sea.) Drop the crab in the water, bring back to the boil, remove from the heat and allow to cool for at least 40 minutes. Remove the crab from the water, and place on a tray.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Cook the spaghetti according to the packet instructions. While the pasta is cooking, add the cream and spinach to the bolognese and stir until all the spinach has wilted. Add the parmesan and mix thoroughly to melt the cheese and emulsify it into the sauce. The sauce should now be thick and creamy. Half the cherry tomatoes and have them ready. When the pasta is done, drain in a colander, reserving the starchy liquid. Add the pasta along with the cherry tomatoes into the sauce and mix well. Taste for seasoning, adding more salt or parmesan if needed. Serve immediately&lt;/p&gt;
+    &lt;p&gt;Break off the claws, and smash them carefully with a hammer or large knife, trying not to smash into too many small pieces. Separate the meat from the shell, trying to keep it in nice big chunks. Repeat the process with the legs. Now prise the body from the main shell of the crab, and remove and discard the lungs (“dead man’s fingers”). Cut the body in half and carefully scrape out the meat with a crab picker or use the handle of a teaspoon. Cut the pieces in half again and scrape more out - you’ll be surprised how much is hidden in all the cavities. Carefully check the crab meat for pieces of shell, cover and place in the fridge.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Heat the oven to 200C. Place a roasting tray in the oven until very hot, then add 3-4 tablespoons of vegetable oil. Smash all the crab shell into small pieces with a heavy knife or rolling pin, then place in the roasting tray. Stir once, then return to the oven for 30 minutes, stirring halfway.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Meanwhile, thinly slice all the vegetables, keeping the carrots separate. In a large pot, fry the carrots and star anise in a little vegetable oil with a generous pinch of salt, until lightly coloured. Add the rest of the vegetables and sweat over a medium heat for about 20 minutes.The shells should be lightly coloured. Deglaze the tray with the white wine, and reduce until dry. Add the shells to the pot of vegetables, and the tomato, roughly chopped. Add the cream to the pot, and bring to the boil. Simmer gently for 30 minutes, then roughly chop the herbs (reserving some chives and dill for the salad) and add to the pot. Cover with clingfilm and leave to infuse for 30 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pass the crab cream through a fine sieve, rinsing the shell pulp with the milk. Discard the pulp. Taste the cream and adjust the seasoning if it needs. Weigh the cream, and then place 1 egg yolk for every 100g of cream in a separate pan. Boil the cream, then pour slowly over the egg yolks, whisking constantly. Now heat the crab custard over a low heat, stirring constantly with a plastic spatula to ensure it doesn’t stick. When it is thick, and coats the back of the spatula (should be 80C), it is ready. Pour into 6 wide creme brulee dishes, filling only to 2mm deep. You may have some custard left over which you can just set in separate ramekins to be enjoyed on their own. Place the ramekins in the fridge to set, for at least two hours.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To make the crab salad: finely slice the lettuce and the spring onion, cut the reserved chives and pick the dill into fronds. Place everything in a bowl with the picked crab meat, the croutons and add just enough mayonnaise to lightly bind it together; you may not need all of it, it depends on how much crab meat you have. Season with sea salt if it needs, and lemon juice. Divide the mixture into 6 and place in the middle of the custard ramekins. Finally sprinkle over a little cayenne pepper.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/pasta/lamb_bolognese.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pasta/lamb_bolognese.html</guid>
-
-        <category>lamb</category>
-
-        <category>pasta</category>
-
-        <category>bolognese</category>
-
-
-        <category>pasta</category>
-
+        <link>http://localhost:4000/crab/crab_salad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/crab/crab_salad.html</guid>
+        
+        <category>crab</category>
+        
+        <category>salad</category>
+        
+        <category>cream</category>
+        
+        
+        <category>crab</category>
+        
       </item>
-
+    
       <item>
         <title>Pork Belly, Asparagus and Ale Sauce</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg&quot; /&gt;&lt;/p&gt;
@@ -110,165 +124,165 @@
         <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/pork/pork_belly_asparagus_and_ale_sauce.html</link>
         <guid isPermaLink="true">http://localhost:4000/pork/pork_belly_asparagus_and_ale_sauce.html</guid>
-
+        
         <category>pork</category>
-
+        
         <category>aspargus</category>
-
+        
         <category>ale</category>
-
-
+        
+        
         <category>pork</category>
-
+        
       </item>
-
+    
       <item>
-        <title>Porridge Oats and Banana Cake</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Pasta Puttanesca</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/pasta_puttanesca.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a really tasty recipe I found online a few weeks ago, and it’s perfect for breakfast or brunch. Two of breakfast’s long-time favourites, banana and oats, come together here to make a sort of flapjack. Because of the addition of milk and eggs, the texture is more like that of a coarse, oaty cake rather than a flapjack, which I thought was very good. Serve a generous wedge of it with your coffee in the morning for a breakfast of champions!&lt;/p&gt;
+&lt;p&gt;I’ve just received a slow cooker as a birthday present from my good friend Lewis, its fantastic because it allows me to braise meat and stews for a long time without having to be in the house. When I’m working all day I can have my dinner slowly cooking for when I get back. I make tomato sauce with the slow cooker; tinned tomatoes, onion, garlic, and tomato puree simmered gently for several hours until it is dark and reduced. I then puree and pass it through a fine sieve to make it extra smooth. What you get is an amazingly rich dark red sauce. This can be used for any number of things, but my current favourite is to make salty pungent puttanesca with it. This sauce is accompanied by spaghetti; literally “whore’s style spaghetti”, it’s packed with in-your-face flavours. Traditionally made with tomatoes, garlic, black olives, anchovies and capers, it’s salty and more-ish. It’s a good dish to have in your repertoire; because it’s made almost entirely with store cupboard ingredients it can be rustled up with just a moment’s notice, although in my recipe the tomato sauce is simmered for eight hours to make it extra rich. This isn’t essential but will make your sauce taste amazing. I recommend making a big batch of sauce and freezing it. As there are so many big and bold flavours going on here, I have added a good handful of parsley and basil to bring some freshness to the dish and vital splash of green, making it particularly eye-catching.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;180g of coarse oats&lt;/li&gt;
-  &lt;li&gt;50g of caster sugar&lt;/li&gt;
-  &lt;li&gt;1 teaspoon of baking powder&lt;/li&gt;
-  &lt;li&gt;2 teaspoons  of cinnamon&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon of nutmeg&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon of salt&lt;/li&gt;
-  &lt;li&gt;450ml of whole milk&lt;/li&gt;
-  &lt;li&gt;3 bananas&lt;/li&gt;
-  &lt;li&gt;1 egg&lt;/li&gt;
-  &lt;li&gt;1 teaspoon of vanilla extract&lt;/li&gt;
-  &lt;li&gt;60g of unsalted butter&lt;/li&gt;
-  &lt;li&gt;80g of walnuts&lt;/li&gt;
+  &lt;li&gt;2 400g tins of peeled plum tomatoes&lt;/li&gt;
+  &lt;li&gt;3 tablespoons of tomato puree&lt;/li&gt;
+  &lt;li&gt;1 onion&lt;/li&gt;
+  &lt;li&gt;5 large cloves of garlic&lt;/li&gt;
+  &lt;li&gt;1 glass of red wine&lt;/li&gt;
+  &lt;li&gt;extra virgin olive oil&lt;/li&gt;
+  &lt;li&gt;1 tablespoon of sugar&lt;/li&gt;
+  &lt;li&gt;1 large handful of pitted black olives&lt;/li&gt;
+  &lt;li&gt;6 anchovy fillets&lt;/li&gt;
+  &lt;li&gt;1 large bunch of flat leaf parsley&lt;/li&gt;
+  &lt;li&gt;1 handful  of basil leaves&lt;/li&gt;
+  &lt;li&gt;400g of tagliatelle&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Heat the oven to 180C. Mix the oats, caster sugar, baking powder, cinnamon, nutmeg and salt in a large mixing bowl. Melt the butter in a small pan. In another bowl, mash two of the bananas until almost smooth, then whisk in the milk, egg and vanilla extract. Whisk in the melted butter, then pour over the dry ingredients and mix well. Line a baking tray measuring approx. 20 x 20 cm and pour in the mix. Bake in the oven for about 25 - 30 minutes, until the mixture is firm, with golden colour on top.&lt;/p&gt;
+    &lt;p&gt;To make the tomato sauce; finely slice the onion and sweat in a couple of glugs of olive oil with a generous pinch of salt until the onions are completely softened. Now finely chop the garlic cloves and add to the pot along with the tomatoes, tomato puree, sugar and red wine. Bring to the boil, then gently simmer for about 8 hours until the sauce is rich and dark. Puree the sauce in a blender and pass through a fine sieve. it should be fairly thick so that it coats the pasta nicely. If it’s too thin, simmer it gently to reduce further. Season to taste with salt and black pepper.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;While the cake is cooking, lay out the walnuts on another baking sheet and bake for about 5 minutes, until browned slightly. When the cake has cooled slightly, slice the remaining banana and arrange on top. Finally garnish with the toasted walnuts.&lt;/p&gt;
+    &lt;p&gt;Cook your pasta according to the packet instructions while you finish the sauce: finely chop the anchovy fillets and gently fry in a little olive oil until they start to disintegrate, then add the tomato sauce and stir. Slice the olives and add to the sauce. Finely chop the parsley and roughly chop the basil and add to the sauce at the very end. When the pasta is ready, stir the sauce in; add just enough to coat the pasta nicely, it should be really thick. Serve with some red wine and crusy bread. Fantastic!&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/dessert/porridge_oats_and_banana_cake.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dessert/porridge_oats_and_banana_cake.html</guid>
-
-        <category>oats</category>
-
-        <category>banana</category>
-
-
-        <category>dessert</category>
-
+        <link>http://localhost:4000/pasta/pasta_puttanesca.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pasta/pasta_puttanesca.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>tomato</category>
+        
+        <category>anchovies</category>
+        
+        
+        <category>pasta</category>
+        
       </item>
-
+    
       <item>
-        <title>Cullen Skink</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Arbroath Smoky</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A perfect combination of smoked haddock, potatoes, leeks and cream make up this classic Scottish soup. I have written already about my love for smoked haddock, in particular Arbroath Smokies, and this soup is further evidence for why smoked haddock is basically awesome. Some recipes for Cullen Skink will instruct to keep a rustic broth-like consistency, with pieces of potato and haddock giving a nice chunky texture, but I prefer to make a super smooth soup, like a veloute, and then garnish the soup with diced potatoes, flaked smoked haddock and herbs. This gives a nice texture contrast, but also looks fantastic too.&lt;/p&gt;
+&lt;p&gt;With a coastline as extensive and diverse as Scotland’s, it’s not surprising that seafood is so popular here. The process of salting and smoking fish was originally a method of preserving the fish to enable long storage. Although not necessary as a means of survival anymore, smoked fish - salmon and haddock in particular - is commonly enjoyed all over the country because it’s simply delicious! I recently had great pleasure in making Cullen Skink - the traditional Scottish soup made with smoked haddock - but since it has been so warm recently I wanted to do something a bit less hearty and filling. Some sort of salad seemed like the best thing to do, so I just warmed the fish gently in some milk, and flaked it over a simple salad of baby spinach, spring onions and courgette sliced thinly into ribbons. Topped finally with a poached egg, simple but delicious.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;2 Arbroath Smokies&lt;/li&gt;
-  &lt;li&gt;700ml of whole milk&lt;/li&gt;
-  &lt;li&gt;2 leeks&lt;/li&gt;
-  &lt;li&gt;1 onion&lt;/li&gt;
-  &lt;li&gt;3 cloves of garlic&lt;/li&gt;
-  &lt;li&gt;2 potatoes, about 300g in total&lt;/li&gt;
-  &lt;li&gt;30 g  of unsalted butter&lt;/li&gt;
-  &lt;li&gt;1 sprig of thyme&lt;/li&gt;
-  &lt;li&gt;1 bay leaf&lt;/li&gt;
-  &lt;li&gt;1 bunch of dill&lt;/li&gt;
-  &lt;li&gt;30ml of double cream&lt;/li&gt;
+  &lt;li&gt;2 arbroath smokies&lt;/li&gt;
+  &lt;li&gt;4 eggs&lt;/li&gt;
+  &lt;li&gt;60g of baby spinach leaves, washed&lt;/li&gt;
+  &lt;li&gt;1 courgette&lt;/li&gt;
   &lt;li&gt;3 spring onions&lt;/li&gt;
-  &lt;li&gt;olive oil&lt;/li&gt;
+  &lt;li&gt;extra virgin olive oil&lt;/li&gt;
+  &lt;li&gt;sea salt and cracked black pepper&lt;/li&gt;
+  &lt;li&gt;1 lemon&lt;/li&gt;
+  &lt;li&gt;200ml of whole milk&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Place the Arbroath smokies, thyme and bay in a large shallow pan and cover with the milk. Bring to the boil, cover and leave to infuse for 30 minutes. In the meantime thinly slice the onion, garlic, and the white part of the leeks. Heat about 2 tablespoons of olive oil in a medium pan and slowly fry the vegetables for about 20 minutes, until soft. Peel and thinly slice ¾ of the potato and add to the pan. Dice the rest of the potato into 5mm cubes and set aside to be sauteed for the garnish.&lt;/p&gt;
+    &lt;p&gt;Fill a large pan with water and bring to the boil. Turn down to a barely trembling simmer and leave. Place the smokies in a wide based pan and cover with the milk. Poach gently, not boiling, turning the fish frequently, until just warmed through. Set aside.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Remove the smokies from the milk and carefully pick the meat away from the bone, discarding the skin. Set the flaked fish aside. Pass the milk through a sieve into the pan of vegetables. Add the cream, and simmer gently for 10 minutes, until the potatoes are cooked. Pour everything into a blender, add ¾ of the flaked smokies and the butter and blend on full power for 5 minutes, until the soup is very smooth and silky. Taste and adjust the seasoning if necessary.&lt;/p&gt;
+    &lt;p&gt;Thinly slice the onions at an angle, then place in a large mixing bowl along with the spinach. Season with olive oil, salt and pepper and a little squeeze of lemon juice. Cut the courgette into quarters lengthways and cut out the soft pulp from the middle. Carefully cut into long ribbons. Season with sea salt and olive oil, then add to the bowl of salad.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Heat  about 1 tablespoon of olive oil in a frying pan, and fry the potato dice on a medium heat for 5-10 minutes, or until they are tender and a light golden colour. Drain on some kitchen paper and set aside.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sauteed potato dice.&lt;/p&gt;
+    &lt;p&gt;Carefully poach the eggs until just cooked. While the eggs are cooking, arrange the salad into 4 bowls. Flake the smoked fish over the top, and finish with the poached eggs, seasoning with a little salt and pepper.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/soup/cullen_skink.html</link>
-        <guid isPermaLink="true">http://localhost:4000/soup/cullen_skink.html</guid>
-
+        <link>http://localhost:4000/fish/arbroath_smoky.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fish/arbroath_smoky.html</guid>
+        
         <category>smoked</category>
-
+        
         <category>haddock</category>
-
+        
+        
         <category>fish</category>
-
-
-        <category>soup</category>
-
+        
       </item>
-
+    
       <item>
-        <title>Roast Garlic Soup</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Roast Pork Fillet, Grain Mustard Sauce</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I have always been a huge fan of garlic. It’s an awesome ingredient that provides a remarkable amount of flavour given its size… it is small but strong! Obviously it’s more potent when raw, and when used for something like pesto or hummus, you need only a tiny bit. After cooking garlic, however, it loses most of it’s kick and becomes much more mellow. So, if you’re making a pasta sauce for example, you might want a decent amount - 3 or 4 cloves perhaps - to sweat with olive oil for the base of the sauce. Roasting garlic increases the mellowing effect even more, and gives it an amazing deep flavour. This is my favourite way to prepare garlic, and it’s perfect for making soup.&lt;/p&gt;
+&lt;p&gt;Pork fillets are easily obtainable and relatively inexpensive, but the best thing about them is they usually come with trimmings attached to them which must be removed before cooking; and with these trimmings you can make a quick and delicious homemade sauce with no pre-made stocks or artificial seasoning. Just simple fresh ingredients. This recipe is one of the easiest and most delicious things to do with a pork fillet, and personal favourite of mine. Grain mustard is a classic pairing for pork, and combined with creamy mashed potatoes and cabbage, it’s an absolute winner!&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;8 bulbs of garlic&lt;/li&gt;
-  &lt;li&gt;1 sprig of rosemary&lt;/li&gt;
-  &lt;li&gt;300ml of double cream&lt;/li&gt;
-  &lt;li&gt;500ml of brown chicken stock&lt;/li&gt;
-  &lt;li&gt;1 onion&lt;/li&gt;
-  &lt;li&gt;sea salt&lt;/li&gt;
-  &lt;li&gt;cracked black pepper&lt;/li&gt;
-  &lt;li&gt;1 bunch of chives&lt;/li&gt;
-  &lt;li&gt;olive oil&lt;/li&gt;
-  &lt;li&gt;1 potato, about 50g&lt;/li&gt;
+  &lt;li&gt;2 pork fillets&lt;/li&gt;
+  &lt;li&gt;1 savoy cabbage&lt;/li&gt;
+  &lt;li&gt;50ml of double cream&lt;/li&gt;
+  &lt;li&gt;4 Maris Piper potatoes, or King Edward&lt;/li&gt;
+  &lt;li&gt;65g of unsalted butter&lt;/li&gt;
+  &lt;li&gt;30ml of whole milk&lt;/li&gt;
+  &lt;li&gt;sea salt and cracked black pepper&lt;/li&gt;
+  &lt;li&gt;ground white pepper&lt;/li&gt;
+  &lt;li&gt;2 cloves of garlic&lt;/li&gt;
+  &lt;li&gt;2 shallots&lt;/li&gt;
+  &lt;li&gt;2 sprigs of thyme&lt;/li&gt;
+  &lt;li&gt;1 bay leaf&lt;/li&gt;
+  &lt;li&gt;1 sprig of sage&lt;/li&gt;
+  &lt;li&gt;100ml of cooking brandy&lt;/li&gt;
+  &lt;li&gt;1 teaspoon of wholegrain mustard&lt;/li&gt;
+  &lt;li&gt;vegetable oil, for cooking&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Heat the oven to 170C. Add about 2 tablespoons of olive oil to a roasting tray and get it hot. Reserve 3 cloves for the garnish later, then cut the tops off the bulbs of garlic so the tips of the cloves are poking out, then add to the roasting tray along with the rosemary and roast for about 45 minutes until the garlic is completely soft and oozing out of its skins.&lt;/p&gt;
+    &lt;p&gt;Heat the oven to 170C. Prick the potatoes with a skewer, then place in the oven for about 1hr 30mins, until soft and cooked through. Cut the potatoes in half, then scoop the potato from the skins and either mash with a masher or pass through a sieve. Place into a wide-based pan, and over a medium-low heat, add ½ teaspoon of salt, and mix. Add 30g of the butter, one dice at a time, then add the milk. Continue to cook out until you have a completely smooth, silky texture. Adjust the seasoning with salt and white pepper if need be.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Meanwhile finely slice the onion and sweat in a medium pot with olive oil, and a pinch of sea salt. Cook over a medium heat for about 25 minutes until the onion is soft, sweet and slightly caramelised. Peel the potato and finely slice it. Add to the pot and continue to cook, stirring occasionally. Squeeze the garlic out of its skins and add the soft pulp to the pot along with the cream and brown chicken stock. Simmer gently for 20 minutes, then pour everything into a food processor and blend until completely pureed and silky smooth. If it’s a little too thick, add a splash of chicken stock.&lt;/p&gt;
+    &lt;p&gt;While you’re waiting for the potatoes, make the sauce: trim the pork fillets of all sinew, and cut off the small head or “chateau” from the end. Cut all the trimmings approximately 1cm dice. In a large, heavy-based pan, heat 1-2 tablespoons of vegetable oil over a high heat. Season the trimmings with salt and black pepper, then fry until golden all over, and strain in a colander. Meanwhile, thinly slice the shallots, and crush the clove of garlic. Add the shallots, thyme, bay, sage and garlic to the same pan and turn the heat to medium. Add a pinch of salt, and gently cook the shallots for about 10 minutes, until they are soft. Add the pork trimmings back to the pan, along with the brandy. Boil, and reduce until completely dry. Now cover with cold water, and boil to reduce until dry. Repeat this 3 times, but on the last time, only reduce by half, then strain the sauce into a separate pan. Add the cream, and continue to reduce until you have a nice sauce consistency. Lastly, add the mustard, and mix.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and saute in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives.&lt;/p&gt;
+    &lt;p&gt;To cook the pork fillet: heat 2 tablespoons of vegetable oil in a large heavy-based pan over a high heat. Season the fillets all over with salt and white pepper. Fry the fillets all over until golden and caramelised. Place the pan in the oven for 3 minutes. Remove from the oven, and add the remaining 25g butter. Heat until foaming, then add 1 sprig of thyme and 1 crushed clove of garlic. Baste the pork fillet for about 2 minutes, turning over after 1 minute. Cook until the pork is still slightly pink in the middle. Transfer to a rack and leave in a warm place to rest for at least 10 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prepare the cabbage: Remove and discard the dark green outer layers. Take the inner leaves off and remove the woody veins. Thinly slice the cabbage, then set aside. Heat a little vegetable oil in a wide-based pan over a medium-high heat, and saute the cabbage, with a pinch of salt, until lightly coloured. Turn the heat to low, then add the remaining 10g of butter. Cook gently until cabbage is tender taste, and add more salt if needed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To serve, place a spoonful of the mashed potato in the centre of the plate, with a spoonful of cabbage next to it. Slice the pork fillet, and place on top. Spoon the sauce over.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/soup/roast_garlic_soup.html</link>
-        <guid isPermaLink="true">http://localhost:4000/soup/roast_garlic_soup.html</guid>
-
-        <category>roast</category>
-
-        <category>garlic</category>
-
-        <category>soup</category>
-
-
-        <category>soup</category>
-
+        <link>http://localhost:4000/pork/roast_pork_fillet_grain_mustard_sauce.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pork/roast_pork_fillet_grain_mustard_sauce.html</guid>
+        
+        <category>pork</category>
+        
+        <category>mustard</category>
+        
+        
+        <category>pork</category>
+        
       </item>
-
+    
       <item>
         <title>Chicken and Coriander Broth</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_coriander_broth.jpg&quot; /&gt;&lt;/p&gt;
@@ -311,18 +325,18 @@
         <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/soup/chicken_and_coriander_broth.html</link>
         <guid isPermaLink="true">http://localhost:4000/soup/chicken_and_coriander_broth.html</guid>
-
+        
         <category>chicken</category>
-
+        
         <category>coriander</category>
-
+        
         <category>soup</category>
-
-
+        
+        
         <category>soup</category>
-
+        
       </item>
-
+    
       <item>
         <title>Roasted Mushroom Soup</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg&quot; /&gt;&lt;/p&gt;
@@ -360,16 +374,16 @@
         <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/soup/roasted_mushroom_soup.html</link>
         <guid isPermaLink="true">http://localhost:4000/soup/roasted_mushroom_soup.html</guid>
-
+        
         <category>soup</category>
-
+        
         <category>mushroom</category>
-
-
+        
+        
         <category>soup</category>
-
+        
       </item>
-
+    
       <item>
         <title>Aubergine, Tomato, Parmesan</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg&quot; /&gt;&lt;/p&gt;
@@ -404,18 +418,18 @@
         <pubDate>Mon, 14 Sep 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/aubergine/aubergine_tomato_parmesan.html</link>
         <guid isPermaLink="true">http://localhost:4000/aubergine/aubergine_tomato_parmesan.html</guid>
-
+        
         <category>melanzane</category>
-
+        
         <category>parmesan</category>
-
+        
         <category>tomato</category>
-
-
+        
+        
         <category>aubergine</category>
-
+        
       </item>
-
+    
       <item>
         <title>Cranachan</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/cranachan.jpg&quot; /&gt;&lt;/p&gt;
@@ -450,18 +464,18 @@
         <pubDate>Thu, 20 Aug 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/raspberry/cranachan.html</link>
         <guid isPermaLink="true">http://localhost:4000/raspberry/cranachan.html</guid>
-
+        
         <category>raspberry</category>
-
+        
         <category>honey</category>
-
+        
         <category>oats</category>
-
-
+        
+        
         <category>raspberry</category>
-
+        
       </item>
-
+    
       <item>
         <title>Stuffed Saddle of Lamb</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg&quot; /&gt;&lt;/p&gt;
@@ -502,17 +516,17 @@
         <pubDate>Fri, 10 Jul 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/lamb/stuffed_saddle_of_lamb.html</link>
         <guid isPermaLink="true">http://localhost:4000/lamb/stuffed_saddle_of_lamb.html</guid>
-
+        
         <category>lamb</category>
-
+        
         <category>saddle</category>
-
+        
         <category>courgette</category>
-
-
+        
+        
         <category>lamb</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>

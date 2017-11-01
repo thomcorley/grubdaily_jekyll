@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2016-02-02"
+date: "2015-03-10"
 title: "Roast Garlic Soup"
 author: Tom
 category: "soup"
@@ -33,4 +33,3 @@ I have always been a huge fan of garlic. It’s an awesome ingredient that provi
 2. Meanwhile finely slice the onion and sweat in a medium pot with olive oil, and a pinch of sea salt. Cook over a medium heat for about 25 minutes until the onion is soft, sweet and slightly caramelised. Peel the potato and finely slice it. Add to the pot and continue to cook, stirring occasionally. Squeeze the garlic out of its skins and add the soft pulp to the pot along with the cream and brown chicken stock. Simmer gently for 20 minutes, then pour everything into a food processor and blend until completely pureed and silky smooth. If it’s a little too thick, add a splash of chicken stock.
 
 3. To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and saute in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives.
-
