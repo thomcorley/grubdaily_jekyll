@@ -11,10 +11,10 @@ google_analytics: UA-109063146-1
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
--  { name: instagram, url: 'http://www.instagram.com' }
--  { name: google-plus, url: 'http://plus.google.com' }
+-  { name: facebook, url: 'http://facebook.com/grubdaily' }
+-  { name: twitter, url: 'http://twitter.com/grubdaily_tom' }
+-  { name: instagram, url: 'http://www.instagram.com/grubdaily' }
+-  { name: google-plus, url: 'http://plus.google.com/115527733566953440139' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
 -  { name: github, url: '' }
@@ -22,7 +22,7 @@ social_networks:
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
--  { name: pinterest, url: 'http://www.pinterest.co.uk' }
+-  { name: pinterest, url: 'http://www.pinterest.co.uk/grubdaily' }
 -  { name: tumblr, url: '' }
 -  { name: youtube, url: '' }
 -  { name: vimeo, url: '' }
