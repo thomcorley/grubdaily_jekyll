@@ -5,74 +5,60 @@
     <description>For tasty things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Nov 2017 12:05:09 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Nov 2017 12:05:09 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2017 21:46:49 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 21:46:49 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Crab Salad</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Chicken and Coriander Broth</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_coriander_broth.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Of all the delicious things in the world to eat, crab is easily one of my favourites. It’s got an intense flavour of the sea and it’s succulent, sweet and juicy. In short, it’s fantastic. Preparing crab involves a bit of work and is fairly time consuming… but it’s a labour of love and something I’d urge everyone to try. Cooked in generously seasoned water, the beautiful white meat is excellent whilst still warm, eaten straight from the shell. It hardly needs anything more, although mix it with a little mayonnaise, herbs and lemon juice and you have the beginnings of a delicious salad. I’ve been wanting to write a crab recipe for a while now, but found it difficult to think of a really photogenic looking dish that wasn’t just a rip-off from one of the restaurants I’ve worked in. The custard part of this dish is similar to a crab creme brulee that we did at Wedgwood, and it’s really tasty. The sweet flavour of crab infuses really well in cream, and the fresh herbs added at the end finish it off beautifully.&lt;/p&gt;
+&lt;p&gt;I was clearing out my fridge a few weeks ago and came across a selection of root vegetables lurking there, waiting to be turned into something tasty. The first thing that came to my mind was soup, and since we were in the middle of winter I was thinking along the lines of a chunky, meaty broth. I decided on Chicken, which would provide my soup with both the chunky meat component and the stock. A bunch of fresh coriander which also happened to be in my fridge could be involved here in some way, I thought. I remembered a Madhur Jaffrey recipe for coriander chicken curry, involving large quantities of fresh coriander, resulting in a vibrant green curry sauce. It was fantastic, and so I reckoned it could work in my soup too. The earthiness of all those root vegetables would be balanced by the fresh zing of the coriander, perhaps. I prepared the chicken in my usual way; removed the breasts, then cut up the remaining carcass into small pieces and fried until nicely caramelised for the stock. This time I actually chopped up the wings and legs too and added them to the stock for extra flavour. Once the stock was almost ready, after an hour or so, I took some out to gently poach the breast meat in a separate pan. Once perfectly barely cooked, I allowed them to cool before carefully cutting them into dice. All the vegetables and chicken diced to the same size, making for an attractive looking bowl of broth.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;1 brown crab&lt;/li&gt;
+  &lt;li&gt;1 free range chicken&lt;/li&gt;
   &lt;li&gt;1 carrot&lt;/li&gt;
+  &lt;li&gt;1 onion&lt;/li&gt;
+  &lt;li&gt;1 stick of celery&lt;/li&gt;
   &lt;li&gt;1/2 leek&lt;/li&gt;
-  &lt;li&gt;1 fennel&lt;/li&gt;
-  &lt;li&gt;2 star anise&lt;/li&gt;
-  &lt;li&gt;1 thyme&lt;/li&gt;
-  &lt;li&gt;600ml of whipping cream&lt;/li&gt;
-  &lt;li&gt;50ml of whole milk&lt;/li&gt;
-  &lt;li&gt;1 parsley&lt;/li&gt;
-  &lt;li&gt;1 dill&lt;/li&gt;
-  &lt;li&gt;1 tarragon&lt;/li&gt;
-  &lt;li&gt;1 baby gem lettuce&lt;/li&gt;
-  &lt;li&gt;1 spring onion&lt;/li&gt;
-  &lt;li&gt;1 chives&lt;/li&gt;
-  &lt;li&gt;2 pieces of medium sliced white bread&lt;/li&gt;
-  &lt;li&gt;6 egg yolks&lt;/li&gt;
-  &lt;li&gt;cayenne pepper, or piment d’espelette&lt;/li&gt;
-  &lt;li&gt;1 tablespoon of mayonnaise&lt;/li&gt;
-  &lt;li&gt;2 tablespoons of croutons&lt;/li&gt;
-  &lt;li&gt;lemon&lt;/li&gt;
-  &lt;li&gt;sea salt&lt;/li&gt;
+  &lt;li&gt;2 cloves of garlic&lt;/li&gt;
+  &lt;li&gt;1 teaspoon of coriander seeds, crushed&lt;/li&gt;
+  &lt;li&gt;5 black peppercorns&lt;/li&gt;
+  &lt;li&gt;150ml of dry sherry&lt;/li&gt;
+  &lt;li&gt;150ml of red wine&lt;/li&gt;
+  &lt;li&gt;75g of unsalted butter&lt;/li&gt;
+  &lt;li&gt;chicken breasts&lt;/li&gt;
+  &lt;li&gt;150g of carrot&lt;/li&gt;
+  &lt;li&gt;150g of swede&lt;/li&gt;
+  &lt;li&gt;150g of celeriac&lt;/li&gt;
+  &lt;li&gt;1 onion&lt;/li&gt;
+  &lt;li&gt;2 large cloves of garlic&lt;/li&gt;
+  &lt;li&gt;1 large bunch of coriander&lt;/li&gt;
+  &lt;li&gt;vegetable oil, for frying&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Fill a large pan with water and bring to the boil. Season generously with salt (it should be almost as salty as the sea.) Drop the crab in the water, bring back to the boil, remove from the heat and allow to cool for at least 40 minutes. Remove the crab from the water, and place on a tray.&lt;/p&gt;
+    &lt;p&gt;Remove the breasts from the chicken and set aside. Chop the remaining carcass, including the legs and wings, into small pieces. Cut all the vegetables into approx. 1cm dice, set aside. Get a large heavy based pan on a high heat and colour the bones in 2 batches until golden and caramelised. Add a knob of butter at the end of each batch and foam for a few minutes, to enrich and brown the bones further, then drain the butter off in a colander. Add the vegetables, the garlic, coriander seeds and peppercorns to the same pan, which should have some dark intense residue stuck to the bottom, and sweat gently for about 15- 20 minutes, until soft and sweet. All the tasty chicken residue should have melted into the vegetables. Put the chicken bones back into the pan, and add the sherry and red wine. Reduce the alcohol until completely dry, then cover with cold water. Bring to the boil, skimming any fat and scum that rises. Simmer gently for 2 hours, skimming frequently. Pass through a fine sieve and set aside.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Break off the claws, and smash them carefully with a hammer or large knife, trying not to smash into too many small pieces. Separate the meat from the shell, trying to keep it in nice big chunks. Repeat the process with the legs. Now prise the body from the main shell of the crab, and remove and discard the lungs (“dead man’s fingers”). Cut the body in half and carefully scrape out the meat with a crab picker or use the handle of a teaspoon. Cut the pieces in half again and scrape more out - you’ll be surprised how much is hidden in all the cavities. Carefully check the crab meat for pieces of shell, cover and place in the fridge.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Heat the oven to 200C. Place a roasting tray in the oven until very hot, then add 3-4 tablespoons of vegetable oil. Smash all the crab shell into small pieces with a heavy knife or rolling pin, then place in the roasting tray. Stir once, then return to the oven for 30 minutes, stirring halfway.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Meanwhile, thinly slice all the vegetables, keeping the carrots separate. In a large pot, fry the carrots and star anise in a little vegetable oil with a generous pinch of salt, until lightly coloured. Add the rest of the vegetables and sweat over a medium heat for about 20 minutes.The shells should be lightly coloured. Deglaze the tray with the white wine, and reduce until dry. Add the shells to the pot of vegetables, and the tomato, roughly chopped. Add the cream to the pot, and bring to the boil. Simmer gently for 30 minutes, then roughly chop the herbs (reserving some chives and dill for the salad) and add to the pot. Cover with clingfilm and leave to infuse for 30 minutes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pass the crab cream through a fine sieve, rinsing the shell pulp with the milk. Discard the pulp. Taste the cream and adjust the seasoning if it needs. Weigh the cream, and then place 1 egg yolk for every 100g of cream in a separate pan. Boil the cream, then pour slowly over the egg yolks, whisking constantly. Now heat the crab custard over a low heat, stirring constantly with a plastic spatula to ensure it doesn’t stick. When it is thick, and coats the back of the spatula (should be 80C), it is ready. Pour into 6 wide creme brulee dishes, filling only to 2mm deep. You may have some custard left over which you can just set in separate ramekins to be enjoyed on their own. Place the ramekins in the fridge to set, for at least two hours.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To make the crab salad: finely slice the lettuce and the spring onion, cut the reserved chives and pick the dill into fronds. Place everything in a bowl with the picked crab meat, the croutons and add just enough mayonnaise to lightly bind it together; you may not need all of it, it depends on how much crab meat you have. Season with sea salt if it needs, and lemon juice. Divide the mixture into 6 and place in the middle of the custard ramekins. Finally sprinkle over a little cayenne pepper.&lt;/p&gt;
+    &lt;p&gt;When the stock is almost ready, ladle some out into a small pan and gently poach the chicken breasts, just covered with hot stock but not boiling, turning the breasts every few minutes. Remove when they are just barely cooked, and allow to cool. While the stock is cooking, prepare the vegetables for the broth: cut the carrot, celeriac, swede and onion into 5mm dice, and finely chop the garlic. Sweat the onion and garlic in vegetable oil for about 5 minutes, until soft. Add the carrot and cook for about 5 minutes, add the swede and cook for a further 2 minutes, then finally add the celeriac. Sweat until all the veg is nicely cooked, then remove from the heat. Cut the cooked chicken breast into 5mm dice and set aside. When the stock is ready, season to taste with salt and pour just enough over the diced vegetables, ensuring to leave it nice and thick. You may have some leftover. Add the chicken dice and gently warm through. Finally chop the coriander and stir through at the very end.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/crab/crab_salad.html</link>
-        <guid isPermaLink="true">http://localhost:4000/crab/crab_salad.html</guid>
+        <link>http://localhost:4000/soup/chicken_and_coriander_broth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/soup/chicken_and_coriander_broth.html</guid>
         
-        <category>crab</category>
+        <category>chicken</category>
         
-        <category>salad</category>
+        <category>coriander</category>
         
-        <category>cream</category>
+        <category>soup</category>
         
         
-        <category>crab</category>
+        <category>soup</category>
         
       </item>
     
@@ -283,56 +269,69 @@
       </item>
     
       <item>
-        <title>Chicken and Coriander Broth</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_coriander_broth.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Crab Salad</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I was clearing out my fridge a few weeks ago and came across a selection of root vegetables lurking there, waiting to be turned into something tasty. The first thing that came to my mind was soup, and since we were in the middle of winter I was thinking along the lines of a chunky, meaty broth. I decided on Chicken, which would provide my soup with both the chunky meat component and the stock. A bunch of fresh coriander which also happened to be in my fridge could be involved here in some way, I thought. I remembered a Madhur Jaffrey recipe for coriander chicken curry, involving large quantities of fresh coriander, resulting in a vibrant green curry sauce. It was fantastic, and so I reckoned it could work in my soup too. The earthiness of all those root vegetables would be balanced by the fresh zing of the coriander, perhaps. I prepared the chicken in my usual way; removed the breasts, then cut up the remaining carcass into small pieces and fried until nicely caramelised for the stock. This time I actually chopped up the wings and legs too and added them to the stock for extra flavour. Once the stock was almost ready, after an hour or so, I took some out to gently poach the breast meat in a separate pan. Once perfectly barely cooked, I allowed them to cool before carefully cutting them into dice. All the vegetables and chicken diced to the same size, making for an attractive looking bowl of broth.&lt;/p&gt;
+&lt;p&gt;Of all the delicious things in the world to eat, crab is easily one of my favourites. It’s got an intense flavour of the sea and it’s succulent, sweet and juicy. In short, it’s fantastic. Preparing crab involves a bit of work and is fairly time consuming… but it’s a labour of love and something I’d urge everyone to try. Cooked in generously seasoned water, the beautiful white meat is excellent whilst still warm, eaten straight from the shell. It hardly needs anything more, although mix it with a little mayonnaise, herbs and lemon juice and you have the beginnings of a delicious salad. I’ve been wanting to write a crab recipe for a while now, but found it difficult to think of a really photogenic looking dish that wasn’t just a rip-off from one of the restaurants I’ve worked in. The custard part of this dish is similar to a crab creme brulee that we did at Wedgwood, and it’s really tasty. The sweet flavour of crab infuses really well in cream, and the fresh herbs added at the end finish it off beautifully.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
-  &lt;li&gt;1 free range chicken&lt;/li&gt;
+  &lt;li&gt;1 brown crab&lt;/li&gt;
   &lt;li&gt;1 carrot&lt;/li&gt;
-  &lt;li&gt;1 onion&lt;/li&gt;
-  &lt;li&gt;1 stick of celery&lt;/li&gt;
   &lt;li&gt;1/2 leek&lt;/li&gt;
-  &lt;li&gt;2 cloves of garlic&lt;/li&gt;
-  &lt;li&gt;1 teaspoon of coriander seeds, crushed&lt;/li&gt;
-  &lt;li&gt;5 black peppercorns&lt;/li&gt;
-  &lt;li&gt;150ml of dry sherry&lt;/li&gt;
-  &lt;li&gt;150ml of red wine&lt;/li&gt;
-  &lt;li&gt;75g of unsalted butter&lt;/li&gt;
-  &lt;li&gt;chicken breasts&lt;/li&gt;
-  &lt;li&gt;150g of carrot&lt;/li&gt;
-  &lt;li&gt;150g of swede&lt;/li&gt;
-  &lt;li&gt;150g of celeriac&lt;/li&gt;
-  &lt;li&gt;1 onion&lt;/li&gt;
-  &lt;li&gt;2 large cloves of garlic&lt;/li&gt;
-  &lt;li&gt;1 large bunch of coriander&lt;/li&gt;
-  &lt;li&gt;vegetable oil, for frying&lt;/li&gt;
+  &lt;li&gt;1 fennel&lt;/li&gt;
+  &lt;li&gt;2 star anise&lt;/li&gt;
+  &lt;li&gt;1 thyme&lt;/li&gt;
+  &lt;li&gt;600ml of whipping cream&lt;/li&gt;
+  &lt;li&gt;50ml of whole milk&lt;/li&gt;
+  &lt;li&gt;1 parsley&lt;/li&gt;
+  &lt;li&gt;1 dill&lt;/li&gt;
+  &lt;li&gt;1 tarragon&lt;/li&gt;
+  &lt;li&gt;1 baby gem lettuce&lt;/li&gt;
+  &lt;li&gt;1 spring onion&lt;/li&gt;
+  &lt;li&gt;1 chives&lt;/li&gt;
+  &lt;li&gt;2 pieces of medium sliced white bread&lt;/li&gt;
+  &lt;li&gt;6 egg yolks&lt;/li&gt;
+  &lt;li&gt;cayenne pepper, or piment d’espelette&lt;/li&gt;
+  &lt;li&gt;1 tablespoon of mayonnaise&lt;/li&gt;
+  &lt;li&gt;2 tablespoons of croutons&lt;/li&gt;
+  &lt;li&gt;lemon&lt;/li&gt;
+  &lt;li&gt;sea salt&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Remove the breasts from the chicken and set aside. Chop the remaining carcass, including the legs and wings, into small pieces. Cut all the vegetables into approx. 1cm dice, set aside. Get a large heavy based pan on a high heat and colour the bones in 2 batches until golden and caramelised. Add a knob of butter at the end of each batch and foam for a few minutes, to enrich and brown the bones further, then drain the butter off in a colander. Add the vegetables, the garlic, coriander seeds and peppercorns to the same pan, which should have some dark intense residue stuck to the bottom, and sweat gently for about 15- 20 minutes, until soft and sweet. All the tasty chicken residue should have melted into the vegetables. Put the chicken bones back into the pan, and add the sherry and red wine. Reduce the alcohol until completely dry, then cover with cold water. Bring to the boil, skimming any fat and scum that rises. Simmer gently for 2 hours, skimming frequently. Pass through a fine sieve and set aside.&lt;/p&gt;
+    &lt;p&gt;Fill a large pan with water and bring to the boil. Season generously with salt (it should be almost as salty as the sea.) Drop the crab in the water, bring back to the boil, remove from the heat and allow to cool for at least 40 minutes. Remove the crab from the water, and place on a tray.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;When the stock is almost ready, ladle some out into a small pan and gently poach the chicken breasts, just covered with hot stock but not boiling, turning the breasts every few minutes. Remove when they are just barely cooked, and allow to cool. While the stock is cooking, prepare the vegetables for the broth: cut the carrot, celeriac, swede and onion into 5mm dice, and finely chop the garlic. Sweat the onion and garlic in vegetable oil for about 5 minutes, until soft. Add the carrot and cook for about 5 minutes, add the swede and cook for a further 2 minutes, then finally add the celeriac. Sweat until all the veg is nicely cooked, then remove from the heat. Cut the cooked chicken breast into 5mm dice and set aside. When the stock is ready, season to taste with salt and pour just enough over the diced vegetables, ensuring to leave it nice and thick. You may have some leftover. Add the chicken dice and gently warm through. Finally chop the coriander and stir through at the very end.&lt;/p&gt;
+    &lt;p&gt;Break off the claws, and smash them carefully with a hammer or large knife, trying not to smash into too many small pieces. Separate the meat from the shell, trying to keep it in nice big chunks. Repeat the process with the legs. Now prise the body from the main shell of the crab, and remove and discard the lungs (“dead man’s fingers”). Cut the body in half and carefully scrape out the meat with a crab picker or use the handle of a teaspoon. Cut the pieces in half again and scrape more out - you’ll be surprised how much is hidden in all the cavities. Carefully check the crab meat for pieces of shell, cover and place in the fridge.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Heat the oven to 200C. Place a roasting tray in the oven until very hot, then add 3-4 tablespoons of vegetable oil. Smash all the crab shell into small pieces with a heavy knife or rolling pin, then place in the roasting tray. Stir once, then return to the oven for 30 minutes, stirring halfway.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Meanwhile, thinly slice all the vegetables, keeping the carrots separate. In a large pot, fry the carrots and star anise in a little vegetable oil with a generous pinch of salt, until lightly coloured. Add the rest of the vegetables and sweat over a medium heat for about 20 minutes.The shells should be lightly coloured. Deglaze the tray with the white wine, and reduce until dry. Add the shells to the pot of vegetables, and the tomato, roughly chopped. Add the cream to the pot, and bring to the boil. Simmer gently for 30 minutes, then roughly chop the herbs (reserving some chives and dill for the salad) and add to the pot. Cover with clingfilm and leave to infuse for 30 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pass the crab cream through a fine sieve, rinsing the shell pulp with the milk. Discard the pulp. Taste the cream and adjust the seasoning if it needs. Weigh the cream, and then place 1 egg yolk for every 100g of cream in a separate pan. Boil the cream, then pour slowly over the egg yolks, whisking constantly. Now heat the crab custard over a low heat, stirring constantly with a plastic spatula to ensure it doesn’t stick. When it is thick, and coats the back of the spatula (should be 80C), it is ready. Pour into 6 wide creme brulee dishes, filling only to 2mm deep. You may have some custard left over which you can just set in separate ramekins to be enjoyed on their own. Place the ramekins in the fridge to set, for at least two hours.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To make the crab salad: finely slice the lettuce and the spring onion, cut the reserved chives and pick the dill into fronds. Place everything in a bowl with the picked crab meat, the croutons and add just enough mayonnaise to lightly bind it together; you may not need all of it, it depends on how much crab meat you have. Season with sea salt if it needs, and lemon juice. Divide the mixture into 6 and place in the middle of the custard ramekins. Finally sprinkle over a little cayenne pepper.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/soup/chicken_and_coriander_broth.html</link>
-        <guid isPermaLink="true">http://localhost:4000/soup/chicken_and_coriander_broth.html</guid>
+        <link>http://localhost:4000/crab/crab_salad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/crab/crab_salad.html</guid>
         
-        <category>chicken</category>
+        <category>crab</category>
         
-        <category>coriander</category>
+        <category>salad</category>
         
-        <category>soup</category>
+        <category>cream</category>
         
         
-        <category>soup</category>
+        <category>crab</category>
         
       </item>
     
