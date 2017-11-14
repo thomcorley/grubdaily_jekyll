@@ -3,9 +3,8 @@ layout: default
 ---
 
 <section class="index" itemscope itemtype="http://schema.org/Blog">
-
+    <div class="section-title"></div>
     <section class="newest-recipes clear">
-        <div class="section-title"></div>
         {% for post in site.posts limit: 3 %}
         <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <div class="post-excerpt">{{ post.excerpt }}</div>

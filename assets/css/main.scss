@@ -4,14 +4,15 @@
 @import "vars", "reset", "helpers", "mixins", "customscroll";
 
 hr {
-	height: 6px;
-	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+	height: 15px;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=) repeat;
     border: 0;
+	margin-top: 0;
 }
-body {
-	background-color: rgba(70, 77, 107, 0.1);
-	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGElEQVQoU2N09cuR2r1pyjMGHIBxZCgAAOnLIAlbUbALAAAAAElFTkSuQmCC) repeat;
-}
+// body {
+// 	background-color: rgba(70, 77, 107, 0.1);
+// 	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGElEQVQoU2N09cuR2r1pyjMGHIBxZCgAAOnLIAlbUbALAAAAAElFTkSuQmCC) repeat;
+// }
 
 
 /* Layout */
@@ -26,11 +27,11 @@ body {
 .header { padding: 30px 0 10px; display: block; text-align: center;
 	.blog-info { margin: 0 0 30px;
 		.blog-logo { display: inline-block;
-			&:hover img { opacity: 0.8; }
+			&:hover img { opacity: 0.9; }
 			img { width: 350px; @include transition(opacity, .2s, ease-in-out); }
 		}
 		.blog-titles { display: block; margin: 4px 0 0;
-			strong { display: block; font: 700 40px/40px, Domine, sans-serif; text-indent: -5px; margin: 0 0 4px;
+			strong { display: block; font: 700 40px/40px, Lora, serif; text-indent: -5px; margin: 0 0 4px;
 				a { color: $grey-color-dark; @include transition(color, .2s, ease-in-out);
 					&:hover { color: $grey-color-normal; }
 				}
@@ -43,7 +44,7 @@ body {
 		& > ul > li { float: left; margin: 0 0 0 40px;
 			&:first-of-type { margin: 0; padding-left: 5px;}
 			& > a { display: block; font: 400 20px/20px Abel, sans-serif; color: $grey-color-light; @include transition(color, .2s, ease); line-height: 34px;
-				&:hover { color: $grey-color-dark; }
+				&:hover { color: $orange-color-hover; }
 				&.active { color: $grey-color-dark; font-weight: 700; }
 			}
 		}
@@ -90,13 +91,13 @@ body {
 			svg { display: inline-block; vertical-align: middle; width: 100px; height: 100px; }
 		}
 	}
-	.section-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; @include flex(1, 1, 100%); position: relative; min-height: 13px; margin: 0 0 30px; font: 400 18px/14px Abel, sans-serif; text-align: center; text-transform: uppercase;
+	.section-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; @include flex(1, 1, 100%); position: relative; min-height: 15px; margin: 0 0 30px; font: 400 18px/14px Abel, serif; text-align: center; text-transform: uppercase;
 		span { background: $white; padding: 0 8px; position: relative; z-index: 1;}
-		&:before { position: absolute; left: 0; top: 0; width: 100%; height: 13px; content: ""; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=); z-index: 0; }
+		&:before { position: absolute; left: 0; top: 0; width: 100%; height: 15px; content: ""; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=); z-index: 0; }
 	}
 
 	.post .post-meta { font-size: 0; line-height: 14px; text-transform: uppercase;
-		& > * { display: inline-block; font: 13px/13px Abel, sans-serif; margin: 0 0 0 4px;
+		& > * { display: inline-block; font: 13px/13px Abel, serif; margin: 0 0 0 4px;
 			&:first-child { margin: 0; }
 		}
 		.category:before { content: "/"; }
@@ -116,7 +117,7 @@ body {
 			.post-excerpt { display: none; }
 			.details { overflow: hidden; position: absolute; border-radius: 2px !important; left: 0; bottom: 0; width: 100%; padding: 10px; background: rgba($black, .7); color: darken($white, 5%); @include transition(padding, .2s, ease-in-out);
 				.post-meta a { color: $white; }
-				.post-title { font: 400 25px/37px Domine, sans-serif; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+				.post-title { font: 600 25px Lora, serif; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
 					a { color: darken($white, 5%); }
 				}
 				.post-content { margin: 10px 0 0; }
@@ -143,12 +144,12 @@ body {
 			}
 			.post-meta { margin: 14px 0 0; color: $grey-color-light;
 				a { color: $links-color; @include transition(all, .2s, ease);
-					&:hover { color: $links-color-hover; border-bottom: 1px solid $links-color-hover; }
+					&:hover { color: $orange-color-hover; }
 				}
 			}
 			.post-title { font: 18px/22px Abel, sans-serif; text-transform: uppercase;
 				a { color: $grey-color-dark; border-bottom: 1px solid $white; @include transition(all, .1s, ease-in-out);
-					&:hover { color: $grey-color-normal; border-bottom: 1px solid $grey-color-normal; }
+					&:hover { color: $orange-color-hover; }
 				}
 			}
 			.post-content { display: none; }
@@ -157,8 +158,8 @@ body {
 		}
 	}
 
-	.view-all { border-radius: 3px; display: inline-block; background: $grey-color-normal; margin: 40px auto 30px; padding: 10px 30px; color: $white; font-size: 14px; @include transition(opacity, .1s, ease-in-out);
-		&:hover { opacity: .7; }
+	.view-all { border-radius: 3px; display: inline-block; background: $grey-color-normal; margin: 40px auto 30px; padding: 8px 30px; color: $white; font-size: 14px; @include transition(opacity, .1s, ease-in-out);
+		&:hover { opacity: .8; }
 	}
 
 	.pagination { position: relative; margin: 50px 0 0;
@@ -176,16 +177,16 @@ body {
 .page.single {
 	.post-header { margin: 0 0 30px; }
 }
-.post.single, .page.single { position: relative; padding: 30px 0 50px;
+.post.single, .page.single { position: relative; padding: 10px 0 50px;
 	&:before, .post-footer:before { position: absolute; left: 0; top: 0; width: 100%; height: 13px; content: ""; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=); z-index: -1; }
-	.post-title { margin: 0 0 8px; font: 700 30px Domine, sans-serif; color: $grey-color-dark; }
+	.post-title { margin: 0 0 8px; font: 700 30px Lora, serif; color: $grey-color-dark; }
 	.post-meta { font-size: 0; line-height: 16px; color: $grey-color-light; text-transform: uppercase;
 		& > * { display: inline-block; font: 14px/14px Abel, sans-serif; margin: 0 0 0 4px;
 			&:first-child { margin: 0; }
 		}
 		.category:before { content: "/"; margin: 0 4px 0 0; }
 		a { color: $links-color; @include transition(all, .2s, ease);
-			&:hover { color: $links-color-hover; border-bottom: 1px solid $links-color-hover; }
+			&:hover { color: $orange-color-hover; }
 		}
 		.tags {
 			span { display: inline-block;
@@ -212,7 +213,7 @@ body {
 
 		em, strong { color: $grey-color-dark; }
 
-		h1, h2, h3, h4, h5, h6 { margin: 30px 0; font: 700 30px Domine, sans-serif; color: $grey-color-dark; }
+		h1, h2, h3, h4, h5, h6 { margin: 30px 0; font: 700 30px Lora, serif; color: $grey-color-dark; }
 		h1 { font-size: 32px; }
 		h2 { font-size: 28px; }
 		h3 { font-size: 24px; }
@@ -220,8 +221,8 @@ body {
 		h5 { font-size: 20px; }
 		h6 { font-size: 18px; }
 
-		a { color: $links-color; border-bottom: 1px solid $links-color; @include transition(all, .2s, ease);
-			&:hover { color: $links-color-hover; border-bottom: 1px solid $white; }
+		a { color: $grey-color-normal;
+			&:hover { color: $orange-color-hover; }
 			&:active { border: none; }
 		}
 
@@ -252,11 +253,11 @@ body {
 
 		figcaption { color: $grey-color-light; font-size: 13px; font-style: italic; padding-top: 10px; }
 
-		.recipe-ingredients { clear: both; @include flexbox(); @include flex-wrap(wrap); overflow: hidden; position: relative; margin: 30px 0 0; padding: 37px 60px; list-style: none; font: 18px 'Inconsolata', serif; background: $recipe-background-color; background: repeating-linear-gradient(0deg, $recipe-background-color, $recipe-background-color 30px, $recipe-horizontal-lines 30px, $recipe-horizontal-lines 50px); background-size: 100% 31px; border: 1px solid $recipe-horizontal-lines; border-top: none; box-shadow: 0 14px 5px -5px rgba($black,.1), 0 3px 0 -2px $recipe-list-stack, 0 2px 0 rgba($white,1), 0 7px 0 -4px $recipe-list-stack, 0 4px 0 rgba($white,1), 0 11px 0 -6px $recipe-list-stack;
+		.recipe-ingredients { clear: both; @include flexbox(); @include flex-wrap(wrap); overflow: hidden; position: relative; margin: 30px 0 20px 0; padding: 30px 40px; list-style: none; font: 500 16px 'Open Sans', sans-serif; background: $recipe-background-color; background: repeating-linear-gradient(0deg, $recipe-background-color, $recipe-background-color 30px, $recipe-horizontal-lines 30px, $recipe-horizontal-lines 50px); background-size: 100% 31px; border: 1px solid $recipe-horizontal-lines; border-top: none; box-shadow: 0 14px 5px -5px rgba($black,.1), 0 3px 0 -2px $recipe-list-stack, 0 2px 0 rgba($white,1), 0 7px 0 -4px $recipe-list-stack, 0 4px 0 rgba($white,1), 0 11px 0 -6px $recipe-list-stack;
 			&:before { position: absolute; content: ""; width: 4px; height: 100%; top: 0; left: 30px; border-left: 4px double $recipe-vertical-lines; }
-			li { position: relative; width: 50%; margin: 4px 0; padding: 0 25px; line-height: 25px; color: $recipe-text-color; cursor: pointer; background: url(../svg/icon-square.svg) no-repeat left 6px; @include transition(color, .2s, ease); @include bgsizeNum(13px, 14px); @include no-select();
+			li { position: relative; width: 50%; margin: 4px 0; padding: 0 25px; line-height: 23.6px; color: $recipe-text-color; cursor: pointer; @include transition(color, .2s, ease); @include bgsizeNum(13px, 14px); @include no-select();
 				ul { display: none; }
-				&:hover { color: $links-color; }
+				&:hover { color: $orange-color-hover; }
 				&.selected { background: url(../svg/icon-square-check.svg) no-repeat left 6px; @include bgsizeNum(15px, 16px); text-decoration: line-through; }
 			}
 		}
@@ -311,6 +312,7 @@ body {
 			&:hover { color: $grey-color-normal; }
 		}
 	}
+	.footer-end { height: 60px; }
 }
 /**/
 
