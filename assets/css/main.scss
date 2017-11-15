@@ -16,7 +16,8 @@ hr {
 
 
 /* Layout */
-.delicious { max-width: $default-width; margin: 0 auto; padding: 8px; background-color: white; }
+.delicious { max-width: $default-width; margin: 0 auto; padding: 8px 8px 0 8px; background-color: white; }
+body {background-color: #F1F1F1;}
 /**/
 
 .index-list {
@@ -312,7 +313,7 @@ hr {
 			&:hover { color: $grey-color-normal; }
 		}
 	}
-	.footer-end { height: 60px; }
+	.footer-end { height: 60px; margin-bottom: 8px;}
 }
 /**/
 
