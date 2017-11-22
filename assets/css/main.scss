@@ -25,8 +25,8 @@ body {background-color: #F1F1F1;}
 }
 
 /* Header */
-.header { padding: 30px 0 10px; display: block; text-align: left; background-color: #4D4D4E;
-	.navbar { padding: 0; background-color: white;}
+.header { padding: 0; display: block; text-align: left; background-color: #4D4D4E;
+	.navbar { padding: 0; background-color: white; height: 50px; border-bottom: 1px solid rgba(77, 77, 78, 0.2); }
 	.blog-info { margin: 0 0 30px;
 		.blog-logo { display: inline-block;
 			&:hover img { opacity: 0.9; }
@@ -42,9 +42,9 @@ body {background-color: #F1F1F1;}
 		}
 	}
 
-	.mainmenu { text-align: left; width: 600px; min-width: 500px; padding: none;
-		& > ul > li { float: left; margin: 0 0 0 40px;
-			&:first-of-type { margin: 0; padding-left: 5px;}
+	.mainmenu { text-align: left; width: 600px; min-width: 500px; margin: 0 10px 0 10px;
+		& > ul > li { float: left; margin-left: 15px; padding: 8px 0 0 8px;
+			&:first-of-type { margin: 0 0 0 10px; padding: 8px 0 0 8px;}
 			& > a { display: block; font: 400 20px/20px Abel, sans-serif; color: $grey-color-light; @include transition(color, .2s, ease); line-height: 34px;
 				&:hover { color: $orange-color-hover; }
 				&.active { color: $grey-color-dark; font-weight: 700; }
