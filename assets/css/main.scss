@@ -30,7 +30,7 @@ body {background-color: #F1F1F1;}
 	.blog-info { margin: 0 0 30px; height: 80px;
 		.blog-logo { display: inline-block;
 			&:hover img { opacity: 0.9; }
-			img { width: 300px; padding-top: 18px; @include transition(opacity, .2s, ease-in-out); }
+			img { margin-left: 10px; width: 300px; padding-top: 18px; @include transition(opacity, .2s, ease-in-out); }
 		}
 		.blog-titles { display: block; margin: 4px 0 0;
 			strong { display: block; font: 700 40px/40px, Lora, serif; text-indent: -5px; margin: 0 0 4px;
