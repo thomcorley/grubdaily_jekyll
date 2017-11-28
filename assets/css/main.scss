@@ -27,10 +27,10 @@ body {background-color: #F1F1F1;}
 /* Header */
 .header { padding: 0; display: block; text-align: left; background-color: #4D4D4E;
 	.navbar { padding: 0; background-color: white; height: 50px; border-bottom: 1px solid rgba(77, 77, 78, 0.2); }
-	.blog-info { margin: 0 0 30px;
+	.blog-info { margin: 0 0 30px; height: 80px;
 		.blog-logo { display: inline-block;
 			&:hover img { opacity: 0.9; }
-			img { width: 250px; @include transition(opacity, .2s, ease-in-out); }
+			img { width: 300px; padding-top: 18px; @include transition(opacity, .2s, ease-in-out); }
 		}
 		.blog-titles { display: block; margin: 4px 0 0;
 			strong { display: block; font: 700 40px/40px, Lora, serif; text-indent: -5px; margin: 0 0 4px;
@@ -52,8 +52,8 @@ body {background-color: #F1F1F1;}
 		}
 	}
 
-	.search { float: right; width: 100%;
-		.search-holder input { width: 100%; border: 1px solid darken($white, 8%); @include transition(border, .2s, ease);
+	.search { float: right; width: 100%; padding-top: 8px;
+		.search-holder input { width: 100%; padding-top: 20px; border: 1px solid darken($white, 8%); @include transition(border, .2s, ease);
 			&:focus, &:active { width: 100%; border: 1px solid darken($white, 12%); }
 		}
 		.results-container { width: 100%; }
