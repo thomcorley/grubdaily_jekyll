@@ -157,10 +157,10 @@ body {background-color: #F1F1F1;}
 			&:nth-of-type(4n+1) { margin-left: 0; }
 			&:nth-of-type(4) ~ .post { margin-top: 45px; }
 		}
-		.social { position: relative; left: 15%; @include translate(-50%, 0); box-shadow: 0 0 0 10px $white, inset 0 0 0 50px $white; max-width: 200px; font-size: 0; top: 20px; height: 40px; margin: 10px auto 10px auto;
-			a { display: inline-block; width: 24px; border-radius: 3px; height: 24px; line-height: 24px; text-align: center; margin: 0 0 0 5px; background: $grey-color-normal; @include transition(background, .1s, ease);
+		.social { font-size: 0; top: 20px; height: 40px; margin: 10px auto 10px auto;
+			a { display: inline-block; width: 40px; border-radius: 3px; height: 40px; line-height: 24px; text-align: center; margin: 0 0 0 5px; background: $grey-color-normal; @include transition(background, .1s, ease);
 				&:first-child { margin: 0; }
-				svg { display: inline-block; vertical-align: middle; width: 14px; height: 14px;
+				svg { display: inline-block; vertical-align: middle; width: 35px; height: 35px; padding-top: 5px;
 					* { fill: darken($white, 5%);  }
 				}
 				&:hover { background: $grey-color-light; }

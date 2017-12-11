@@ -112,11 +112,12 @@
 				.post-content, .buttons { display: none; }
 			}
 		}
-		.posts .post { width: 100%; margin-left: 0 !important;
+		.posts
+			.post { width: 100%; margin-left: 0 !important;
 			&:nth-of-type(1) ~ .post { margin-top: 25px; }
 		}
 	}
-	.footer { margin: 40px 0 0; padding: 45px 0 30px; }
+	.footer { }
 	.search { position: relative; float: right; text-align: left;
 		.search-holder { position: relative; float: right;
 			svg { position: absolute; top: 11px; left: 12px; width: 13px; height: 13px; }
