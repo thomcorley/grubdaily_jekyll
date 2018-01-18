@@ -2,6 +2,7 @@
 layout: post
 date: "2015-07-10"
 title: "Stuffed Saddle of Lamb"
+permalink: "/stuffed_saddle_lamb"
 author: Tom
 category: "lamb"
 serves: "2"

@@ -2,6 +2,7 @@
 layout: post
 date: "2011-06-28"
 title: "Raspberry Cordial"
+permalink: "/raspberry_cordial"
 author: Tom
 category: "raspberry"
 serves: ""

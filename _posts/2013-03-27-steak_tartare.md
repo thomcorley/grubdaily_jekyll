@@ -2,6 +2,7 @@
 layout: post
 date: "2013-03-27"
 title: "Steak Tartare"
+permalink: "/steak_tartare"
 author: Tom
 category: "beef"
 serves: "1"

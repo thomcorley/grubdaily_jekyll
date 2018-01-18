@@ -57,7 +57,7 @@ baseurl: ""
 include: ["_pages", "_redirects"]
 
 # Outputting
-permalink: /:categories/:title.html
+permalink: /:title.html
 category_dir: categories
 tag_dir: tag
 

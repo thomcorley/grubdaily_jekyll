@@ -2,6 +2,7 @@
 layout: post
 date: "2013-02-18"
 title: "Asian Noodle Soup"
+permalink: "/asian_noodle_soup"
 author: Tom
 category: "soup"
 serves: "5"

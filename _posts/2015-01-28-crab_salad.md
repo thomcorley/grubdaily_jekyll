@@ -1,7 +1,8 @@
 ---
 layout: post
-date: "2016-01-28"
+date: "2015-01-28"
 title: "Crab Salad"
+permalink: "/crab_salad"
 author: Tom
 category: "crab"
 serves: "6"
@@ -35,7 +36,6 @@ Of all the delicious things in the world to eat, crab is easily one of my favour
 * 6 egg yolks
 * cayenne pepper, or piment d’espelette
 * 1 tablespoon of mayonnaise
-* 2 tablespoons of croutons
 * lemon
 * sea salt
 
@@ -50,3 +50,4 @@ Of all the delicious things in the world to eat, crab is easily one of my favour
 5. Pass the crab cream through a fine sieve, rinsing the shell pulp with the milk. Discard the pulp. Taste the cream and adjust the seasoning if it needs. Weigh the cream, and then place 1 egg yolk for every 100g of cream in a separate pan. Boil the cream, then pour slowly over the egg yolks, whisking constantly. Now heat the crab custard over a low heat, stirring constantly with a plastic spatula to ensure it doesn’t stick. When it is thick, and coats the back of the spatula (should be 80C), it is ready. Pour into 6 wide creme brulee dishes, filling only to 2mm deep. You may have some custard left over which you can just set in separate ramekins to be enjoyed on their own. Place the ramekins in the fridge to set, for at least two hours.
 
 6. To make the crab salad: finely slice the lettuce and the spring onion, cut the reserved chives and pick the dill into fronds. Place everything in a bowl with the picked crab meat, the croutons and add just enough mayonnaise to lightly bind it together; you may not need all of it, it depends on how much crab meat you have. Season with sea salt if it needs, and lemon juice. Divide the mixture into 6 and place in the middle of the custard ramekins. Finally sprinkle over a little cayenne pepper.
+

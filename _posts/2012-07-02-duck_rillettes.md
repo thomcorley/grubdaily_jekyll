@@ -2,6 +2,7 @@
 layout: post
 date: "2012-07-02"
 title: "Duck Rillettes"
+permalink: "/duck_rillettes"
 author: Tom
 category: "duck"
 serves: "6"

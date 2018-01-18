@@ -2,6 +2,7 @@
 layout: post
 date: "2013-08-29"
 title: "Chicken Confit with Lemon Dressing"
+permalink: "/chicken_confit_lemon_dressing"
 author: Tom
 category: "chicken"
 serves: "4"

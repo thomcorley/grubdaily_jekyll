@@ -2,6 +2,7 @@
 layout: post
 date: "2012-10-22"
 title: "Apple Tarte Tatin"
+permalink: "/apple_tarte_tatin"
 author: Tom
 category: "dessert"
 serves: "4"

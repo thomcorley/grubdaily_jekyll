@@ -2,6 +2,7 @@
 layout: post
 date: "2012-09-03"
 title: "Chocolate Mousse"
+permalink: "/chocolate_mousse"
 author: Tom
 category: "chocolate"
 serves: ""

@@ -2,6 +2,7 @@
 layout: post
 date: "2010-11-04"
 title: "Dry Cured Bacon"
+permalink: "/dry_cured_bacon"
 author: Tom
 category: "pork"
 serves: ""

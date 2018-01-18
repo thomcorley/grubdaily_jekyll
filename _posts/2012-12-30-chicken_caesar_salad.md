@@ -2,6 +2,7 @@
 layout: post
 date: "2012-12-30"
 title: "Chicken Caesar Salad"
+permalink: "/chicken_caesar_salad"
 author: Tom
 category: "salad"
 serves: "4"

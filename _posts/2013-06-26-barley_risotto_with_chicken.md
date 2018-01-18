@@ -2,6 +2,7 @@
 layout: post
 date: "2013-06-26"
 title: "Barley Risotto with Chicken"
+permalink: "/barley_risotto_chicken"
 author: Tom
 category: "chicken"
 serves: "4-6"

@@ -2,6 +2,7 @@
 layout: post
 date: "2015-08-20"
 title: "Cranachan"
+permalink: "/cranachan"
 author: Tom
 category: "raspberry"
 serves: "4"

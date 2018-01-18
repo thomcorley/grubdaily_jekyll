@@ -2,6 +2,7 @@
 layout: post
 date: "2013-05-15"
 title: "Salmon and Hollandaise"
+permalink: "/salmon_hollandaise"
 author: Tom
 category: "salmon"
 serves: "4"

@@ -2,6 +2,7 @@
 layout: post
 date: "2011-09-29"
 title: "Granny's Spelt Bread"
+permalink: "/grannys_spelt_bread"
 author: Tom
 category: "bread"
 serves: ""
