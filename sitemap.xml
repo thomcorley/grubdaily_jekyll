@@ -1,359 +1,368 @@
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd'>
 <url>
 <loc>https://grubdaily.com/curried_parsnip_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg</image:loc>
-<image:title>Curried Parsnip Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg</loc>
+<title>Curried Parsnip Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/puerco_pibil</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg</image:loc>
-<image:title>Puerco Pibil</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg</loc>
+<title>Puerco Pibil</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/spaghetti_carbonara</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg</image:loc>
-<image:title>Spaghetti Carbonara</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg</loc>
+<title>Spaghetti Carbonara</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/cranachan</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/cranachan.jpg</image:loc>
-<image:title>Cranachan</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/cranachan.jpg</loc>
+<title>Cranachan</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/crab_salad</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg</image:loc>
-<image:title>Crab Salad</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg</loc>
+<title>Crab Salad</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/stars_stripes_bagel</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/stars_and_stripes_bagel.jpg</image:loc>
-<image:title>Stars and Stripes Bagel</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/stars_and_stripes_bagel.jpg</loc>
+<title>Stars and Stripes Bagel</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/roast_garlic_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg</image:loc>
-<image:title>Roast Garlic Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg</loc>
+<title>Roast Garlic Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/cullen_skink</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg</image:loc>
-<image:title>Cullen Skink</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg</loc>
+<title>Cullen Skink</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/aubergine_tomato_parmesan</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg</image:loc>
-<image:title>Aubergine, Tomato, Parmesan</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg</loc>
+<title>Aubergine, Tomato, Parmesan</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/roasted_mushroom_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg</image:loc>
-<image:title>Roasted Mushroom Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg</loc>
+<title>Roasted Mushroom Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/stuffed_saddle_lamb</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg</image:loc>
-<image:title>Stuffed Saddle of Lamb</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg</loc>
+<title>Stuffed Saddle of Lamb</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/roast_pork_fillet_grain_mustard_sauce</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg</image:loc>
-<image:title>Roast Pork Fillet, Grain Mustard Sauce</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg</loc>
+<title>Roast Pork Fillet, Grain Mustard Sauce</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/arbroath_smoky</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg</image:loc>
-<image:title>Arbroath Smoky</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg</loc>
+<title>Arbroath Smoky</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/pasta_puttanesca</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pasta_puttanesca.jpg</image:loc>
-<image:title>Pasta Puttanesca</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pasta_puttanesca.jpg</loc>
+<title>Pasta Puttanesca</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chocolate_mousse</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_mousse.jpg</image:loc>
-<image:title>Chocolate Mousse</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_mousse.jpg</loc>
+<title>Chocolate Mousse</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chicken_coriander_broth</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_coriander_broth.jpg</image:loc>
-<image:title>Chicken and Coriander Broth</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_coriander_broth.jpg</loc>
+<title>Chicken and Coriander Broth</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chicken_pancetta</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg</image:loc>
-<image:title>Chicken and Pancetta</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg</loc>
+<title>Chicken and Pancetta</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/leek_roquefort_quiche</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/leek_and_roquefort_quiche.jpg</image:loc>
-<image:title>Leek and Roquefort Quiche</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/leek_and_roquefort_quiche.jpg</loc>
+<title>Leek and Roquefort Quiche</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/hummus</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/hummus.jpg</image:loc>
-<image:title>Hummus</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/hummus.jpg</loc>
+<title>Hummus</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/mums_tomato_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg</image:loc>
-<image:title>Mum's Tomato Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg</loc>
+<title>Mum's Tomato Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/confit_guineafowl_lentils</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/confit_guineafowl_with_lentils.jpg</image:loc>
-<image:title>Confit Guineafowl with Lentils</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/confit_guineafowl_with_lentils.jpg</loc>
+<title>Confit Guineafowl with Lentils</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chicken_confit_lemon_dressing</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg</image:loc>
-<image:title>Chicken Confit with Lemon Dressing</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg</loc>
+<title>Chicken Confit with Lemon Dressing</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/barley_risotto_chicken</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg</image:loc>
-<image:title>Barley Risotto with Chicken</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg</loc>
+<title>Barley Risotto with Chicken</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/salmon_hollandaise</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg</image:loc>
-<image:title>Salmon and Hollandaise</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg</loc>
+<title>Salmon and Hollandaise</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/duck_rillettes</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg</image:loc>
-<image:title>Duck Rillettes</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg</loc>
+<title>Duck Rillettes</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/raspberry_cordial</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/raspberry_cordial.jpg</image:loc>
-<image:title>Raspberry Cordial</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/raspberry_cordial.jpg</loc>
+<title>Raspberry Cordial</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/pancakes</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pancakes.jpg</image:loc>
-<image:title>Pancakes</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pancakes.jpg</loc>
+<title>Pancakes</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/steak_tartare</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg</image:loc>
-<image:title>Steak Tartare</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg</loc>
+<title>Steak Tartare</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/lamb_bolognese</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/lamb_bolognese.jpg</image:loc>
-<image:title>Lamb Bolognese</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/lamb_bolognese.jpg</loc>
+<title>Lamb Bolognese</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chocolate_raspberry_brownies</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_and_raspberry_brownies.jpg</image:loc>
-<image:title>Chocolate and Raspberry Brownies</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_and_raspberry_brownies.jpg</loc>
+<title>Chocolate and Raspberry Brownies</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/asian_noodle_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg</image:loc>
-<image:title>Asian Noodle Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg</loc>
+<title>Asian Noodle Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/apple_tarte_tatin</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg</image:loc>
-<image:title>Apple Tarte Tatin</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg</loc>
+<title>Apple Tarte Tatin</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/ricotta</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/ricotta.jpg</image:loc>
-<image:title>Ricotta</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/ricotta.jpg</loc>
+<title>Ricotta</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/red_onion_chutney</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg</image:loc>
-<image:title>Red Onion Chutney</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg</loc>
+<title>Red Onion Chutney</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/porridge_oats_banana_cake</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg</image:loc>
-<image:title>Porridge Oats and Banana Cake</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg</loc>
+<title>Porridge Oats and Banana Cake</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chicken_caesar_salad</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg</image:loc>
-<image:title>Chicken Caesar Salad</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg</loc>
+<title>Chicken Caesar Salad</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/chicken_smoked_ham_pie</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_smoked_ham_pie.jpg</image:loc>
-<image:title>Chicken and Smoked Ham Pie</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_smoked_ham_pie.jpg</loc>
+<title>Chicken and Smoked Ham Pie</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/tomato_concasse_prawn_spaghetti</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg</image:loc>
-<image:title>Tomato Concasse and Prawn Spaghetti</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg</loc>
+<title>Tomato Concasse and Prawn Spaghetti</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/spaghetti_bolognese</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg</image:loc>
-<image:title>Spaghetti Bolognese</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg</loc>
+<title>Spaghetti Bolognese</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/slow_cooked_lamb</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg</image:loc>
-<image:title>Slow Cooked Lamb</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg</loc>
+<title>Slow Cooked Lamb</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/shepherds_pie</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/shepherds_pie.jpg</image:loc>
-<image:title>Shepherd's Pie</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/shepherds_pie.jpg</loc>
+<title>Shepherd's Pie</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/salmon_tartare</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg</image:loc>
-<image:title>Salmon Tartare</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg</loc>
+<title>Salmon Tartare</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/rabbit_liver_parfait</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg</image:loc>
-<image:title>Rabbit Liver Parfait</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg</loc>
+<title>Rabbit Liver Parfait</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/peanut_butter_caramel_shortbread</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg</image:loc>
-<image:title>Peanut Butter Caramel Shortbread</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg</loc>
+<title>Peanut Butter Caramel Shortbread</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/peanut_butter_jam_creme_brulee</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg</image:loc>
-<image:title>Peanut Butter and Jam Creme Brulee</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg</loc>
+<title>Peanut Butter and Jam Creme Brulee</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/mulligatawny_soup</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/mulligatawny_soup.jpg</image:loc>
-<image:title>Mulligatawny Soup</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/mulligatawny_soup.jpg</loc>
+<title>Mulligatawny Soup</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/macaroni_cheese</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg</image:loc>
-<image:title>Macaroni Cheese</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg</loc>
+<title>Macaroni Cheese</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/grannys_spelt_bread</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg</image:loc>
-<image:title>Granny's Spelt Bread</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg</loc>
+<title>Granny's Spelt Bread</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/dry_cured_bacon</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg</image:loc>
-<image:title>Dry Cured Bacon</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg</loc>
+<title>Dry Cured Bacon</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/coq_vin</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/coq_au_vin.jpg</image:loc>
-<image:title>Coq au Vin</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/coq_au_vin.jpg</loc>
+<title>Coq au Vin</title>
+</image>
 </url>
 <url>
 <loc>https://grubdaily.com/pork_belly_asparagus_ale_sauce</loc>
-<image:image>
-<image:loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg</image:loc>
-<image:title>Pork Belly, Asparagus and Ale Sauce</image:title>
-</image:image>
+<image>
+<loc>https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg</loc>
+<title>Pork Belly, Asparagus and Ale Sauce</title>
+</image>
+</url>
+<url>
+<loc>https://grubdaily.com/about</loc>
+</url>
+<url>
+<loc>https://grubdaily.com/recipes</loc>
+</url>
+<url>
+<loc>https://grubdaily.com/photos</loc>
 </url>
 </urlset>
