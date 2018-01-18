@@ -72,3 +72,6 @@ markdown: kramdown
 sass:
   sass_dir: assets/partials
   style: compressed
+
+plugins_dir:
+  - jekyll-sitemap
