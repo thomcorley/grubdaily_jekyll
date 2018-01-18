@@ -2,6 +2,7 @@
 layout: post
 date: "2012-03-07"
 title: "Macaroni Cheese"
+permalink: "/macaroni_cheese"
 author: Tom
 category: "pasta"
 serves: "4"

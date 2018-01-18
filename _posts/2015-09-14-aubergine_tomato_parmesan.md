@@ -2,6 +2,7 @@
 layout: post
 date: "2015-09-14"
 title: "Aubergine, Tomato, Parmesan"
+permalink: "/aubergine_tomato_parmesan"
 author: Tom
 category: "aubergine"
 serves: "4"

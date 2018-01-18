@@ -2,6 +2,7 @@
 layout: post
 date: "2015-02-03"
 title: "Stars and Stripes Bagel"
+permalink: "/stars_stripes_bagel"
 author: Tom
 category: "sandwich"
 serves: "2"

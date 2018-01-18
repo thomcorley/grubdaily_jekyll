@@ -2,6 +2,7 @@
 layout: post
 date: "2011-06-24"
 title: "Chocolate and Raspberry Brownies"
+permalink: "/chocolate_raspberry_brownies"
 author: Tom
 category: "chocolate"
 serves: ""

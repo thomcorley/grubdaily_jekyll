@@ -2,6 +2,7 @@
 layout: post
 date: "2012-10-29"
 title: "Red Onion Chutney"
+permalink: "/red_onion_chutney"
 author: Tom
 category: "chutney"
 serves: ""

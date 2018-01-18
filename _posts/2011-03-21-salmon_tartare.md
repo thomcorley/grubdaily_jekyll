@@ -2,6 +2,7 @@
 layout: post
 date: "2011-03-21"
 title: "Salmon Tartare"
+permalink: "/salmon_tartare"
 author: Tom
 category: "salmon"
 serves: "1"

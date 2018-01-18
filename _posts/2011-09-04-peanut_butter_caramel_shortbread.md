@@ -2,6 +2,7 @@
 layout: post
 date: "2011-09-04"
 title: "Peanut Butter Caramel Shortbread"
+permalink: "/peanut_butter_caramel_shortbread"
 author: Tom
 category: "dessert"
 serves: ""

@@ -2,6 +2,7 @@
 layout: post
 date: "2014-03-28"
 title: "Leek and Roquefort Quiche"
+permalink: "/leek_roquefort_quiche"
 author: Tom
 category: "quiche"
 serves: "16"

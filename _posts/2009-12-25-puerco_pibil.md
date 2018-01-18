@@ -2,6 +2,7 @@
 layout: post
 date: "2009-12-25"
 title: "Puerco Pibil"
+permalink: "/puerco_pibil"
 author: Tom
 category: "pork"
 serves: "6"

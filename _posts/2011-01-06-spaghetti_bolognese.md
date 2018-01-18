@@ -2,6 +2,7 @@
 layout: post
 date: "2011-01-06"
 title: "Spaghetti Bolognese"
+permalink: "/spaghetti_bolognese"
 author: Tom
 category: "pasta"
 serves: "6-8"

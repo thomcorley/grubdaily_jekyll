@@ -2,6 +2,7 @@
 layout: post
 date: "2014-12-01"
 title: "Chicken and Pancetta"
+permalink: "/chicken_pancetta"
 author: Tom
 category: "chicken"
 serves: "4"

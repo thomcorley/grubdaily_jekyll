@@ -2,6 +2,7 @@
 layout: post
 date: "2014-01-31"
 title: "Mum's Tomato Soup"
+permalink: "/mums_tomato_soup"
 author: Tom
 category: "soup"
 serves: "4-6"

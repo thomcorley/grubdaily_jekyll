@@ -2,6 +2,7 @@
 layout: post
 date: "2014-02-07"
 title: "Confit Guineafowl with Lentils"
+permalink: "/confit_guineafowl_lentils"
 author: Tom
 category: "guineafowl"
 serves: "2"

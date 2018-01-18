@@ -2,6 +2,7 @@
 layout: post
 date: "2011-10-02"
 title: "Tomato Concasse and Prawn Spaghetti"
+permalink: "/tomato_concasse_prawn_spaghetti"
 author: Tom
 category: "pasta"
 serves: "2-3"

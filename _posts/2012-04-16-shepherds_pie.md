@@ -2,6 +2,7 @@
 layout: post
 date: "2012-04-16"
 title: "Shepherd's Pie"
+permalink: "/shepherds_pie"
 author: Tom
 category: "lamb"
 serves: "4"

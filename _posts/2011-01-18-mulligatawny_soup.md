@@ -2,6 +2,7 @@
 layout: post
 date: "2011-01-18"
 title: "Mulligatawny Soup"
+permalink: "/mulligatawny_soup"
 author: Tom
 category: "soup"
 serves: "4"

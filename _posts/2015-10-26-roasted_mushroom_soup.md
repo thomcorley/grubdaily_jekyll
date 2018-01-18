@@ -2,6 +2,7 @@
 layout: post
 date: "2015-10-26"
 title: "Roasted Mushroom Soup"
+permalink: "/roasted_mushroom_soup"
 author: Tom
 category: "soup"
 serves: "4"

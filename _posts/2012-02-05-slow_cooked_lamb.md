@@ -2,6 +2,7 @@
 layout: post
 date: "2012-02-05"
 title: "Slow Cooked Lamb"
+permalink: "/slow_cooked_lamb"
 author: Tom
 category: "lamb"
 serves: "4-6"

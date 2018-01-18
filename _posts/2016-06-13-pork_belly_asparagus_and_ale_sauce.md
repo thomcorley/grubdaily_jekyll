@@ -2,6 +2,7 @@
 layout: post
 date: "2016-06-13"
 title: "Pork Belly, Asparagus and Ale Sauce"
+permalink: "/pork_belly_asparagus_ale_sauce"
 author: Tom
 category: "pork"
 serves: "4"
@@ -23,14 +24,15 @@ The belly has long been my favourite part of the pig. There are two things I gen
 * 2 sprigs of thyme
 * fine sea salt, or table salt
 * 1 sprig of sage
-* sea salt and cracked black pepper
+* sea salt and cracled black pepper
 * 400ml of medium dark ale
 * 1 carrot
-* 1/2 leek
+* 1/5 leek
 * 1 onion
 * 1 tomato
-* 1/2 bulb of garlic
-* 1 litre of chicken stock, unseasoned
+* 1/5 bulb of garlic
+* 1 litre of 
+* chcken stock, unseasoned
 * 20g of unsalted butter
 * a little beurre manie
 * 1 spring cabbage
@@ -44,3 +46,4 @@ The belly has long been my favourite part of the pig. There are two things I gen
 3. Heat the oven to 180C. Portion the pork belly into 4 equal sized pieces, and score the skin carefully in a criss-cross pattern. Add 3-4 tablespoons of vegetable oil to a large heavy based pan (with an oven-proof handle), then add the pork skin side down and place over a high heat. When it just starts to sizzle, place in the oven for 20 minutes, or until the skin is golden and very crispy.
 
 4. While the pork belly is cooking, prepare the vegetables; fill a large pot with water and season generously with salt. Bring to the boil. Cut off the bottom 1-2 cm of the asparagus as it is woody and tough. Remove the outer 2 or 3 layers of the cabbage, and cut out the thick veins. Slice coarsely. Wash the baby spinach leaves, then set aside. When the pork belly is about 5 minutes away from finished, heat the butter in a large saute pan until foaming, then add the cabbage along with a pinch of salt. Cook until tender. Cook the asparagus in the boiling salted water until just tender - about 4 minutes. Finally, add the baby spinach to the pan with the cabbage and cook until wilted. Serve the pork belly on the bed of vegetables, and pour the sauce over.
+

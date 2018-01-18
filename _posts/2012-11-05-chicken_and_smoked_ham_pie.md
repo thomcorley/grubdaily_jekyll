@@ -2,6 +2,7 @@
 layout: post
 date: "2012-11-05"
 title: "Chicken and Smoked Ham Pie"
+permalink: "/chicken_smoked_ham_pie"
 author: Tom
 category: "chicken"
 serves: "4"

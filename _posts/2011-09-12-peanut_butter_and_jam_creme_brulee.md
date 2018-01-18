@@ -2,6 +2,7 @@
 layout: post
 date: "2011-09-12"
 title: "Peanut Butter and Jam Creme Brulee"
+permalink: "/peanut_butter_jam_creme_brulee"
 author: Tom
 category: "dessert"
 serves: ""

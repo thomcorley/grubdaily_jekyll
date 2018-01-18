@@ -2,6 +2,7 @@
 layout: post
 date: "2011-11-20"
 title: "Rabbit Liver Parfait"
+permalink: "/rabbit_liver_parfait"
 author: Tom
 category: "game"
 serves: "6-8"
