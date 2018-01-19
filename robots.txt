@@ -114,5 +114,4 @@ Disallow: /recipes/4/
 Disallow: /recipes/5/
 Disallow: /recipes/6/
 Disallow: /404
-Disallow: /feed.xml
 Disallow: /all/
