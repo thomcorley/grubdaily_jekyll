@@ -105,3 +105,15 @@ Disallow: /categories/chutney
 Disallow: /categories/salad
 Disallow: /categories/game
 Disallow: /categories/bread
+Disallow: /assets/js/lunr-feed.js
+Disallow: /assets/css/main.css
+Disallow: /assets/js/scripts.js
+Disallow: /sitemap.xml
+Disallow: /recipes/2/
+Disallow: /recipes/3/
+Disallow: /recipes/4/
+Disallow: /recipes/5/
+Disallow: /recipes/6/
+Disallow: /404
+Disallow: /feed.xml
+Disallow: /all/
