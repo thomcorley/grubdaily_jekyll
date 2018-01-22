@@ -13,7 +13,7 @@ tags:
 - courgette
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg" alt="Stuffed Saddle of Lamb" />
 
 Lamb chops were always a staple part of our diet when we were young, usually simply roasted and served with baked potatoes and veg from the garden; simple but delicious. The loin meat from the top half of the saddle - the best end - is some of nicest and most tender from the whole animal. Keep the chops attached and you have a rack of lamb, perfect to roast whole and carve into classic lamb cutlets. The bottom half of the saddle - the short saddle - does not have any rib bones and so you would normally just roast this as a piece of loin. What we do in the restaurant is a little more special however; we take the loin from the bone, leaving a flap of the belly fat attached, then make a stuffing from sauteed kidneys and spinach and roll the loin up inside the fat. The saddle is then tied with string and roasted. It’s a lovely way to cook the loin meat as it’s quite well protected from the surrounding fat.
 

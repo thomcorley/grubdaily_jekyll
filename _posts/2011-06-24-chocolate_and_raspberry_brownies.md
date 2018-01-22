@@ -12,7 +12,7 @@ tags:
 - raspberry
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_and_raspberry_brownies.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_and_raspberry_brownies.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_and_raspberry_brownies.jpg" alt="Chocolate and Raspberry Brownies" />
 
 It’s been too long since I posted anything on here, I have been a bit preoccupied lately with finding a new home. Now settled in and enjoying the comforts of a nice flat with a better equipped kitchen than the last one (the kitchen is, after all, the most important room in any house) I am set to get blogging again. I’m very aware that there’s a lack of sweet things on this blog. I must make amends. Also, I had an idea to do a series of recipes involving quintessential Scottish ingredients…such as raspberries! This is a replication of the brownies that Marc made at Wedgwood last week; I used Hugh Fearnley Whittingstall’s basic brownie recipe as a basis. For chocoholics this is a truly indulgent affair, and combined with a gorge of fresh summer fruit in the form of juicy raspberries it’s brilliant. A fantastic marriage of flavours. The brownie should be shiny and cracked on top, hiding the heavenly soft centre which any brownie lover craves.
 

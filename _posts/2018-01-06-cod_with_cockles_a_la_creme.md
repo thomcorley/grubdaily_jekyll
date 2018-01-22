@@ -13,7 +13,7 @@ tags:
 - cockles
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/cod_with_cockles_a_la_creme.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cod_with_cockles_a_la_creme.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cod_with_cockles_a_la_creme.jpg" alt="Cod With Cockles a la Creme" />
 
 In my mind, the main reason cockles are so great is not because of the excellent flavour of the actual cockle meat itself (which _is_ excellent), but the strong flavoured liquid that results from cooking them. Just like it's more glamorous relative the mussel, the cockle contains an abundance of naturally salty juices which are released into your saucepan when cooked. Enhanced with a little white wine, shallots and some aromatics like thyme or bay, the result is fantastically flavoursome, and served with some chips to dunk in the sauce, is a fine meal in itself.
 

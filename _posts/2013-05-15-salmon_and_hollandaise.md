@@ -13,7 +13,7 @@ tags:
 - sauce
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_and_hollandaise.jpg" alt="Salmon and Hollandaise" />
 
 This is another classic combination: it’s also an enduring favourite of mine. I’m a confessed fanatic of hollandaise sauce so I think this recipe was bound to find it’s way up here sooner or later! I’ve told you already about my love of of the best to crisp up, it colours quite easily and also has a delicious layer of fat underneath which melts in your mouth alongside the crunchy skin. The sumptuous oily flesh is offset perfectly by the vinegary tang of the sauce. I like to sit the salmon fillet on a bed of spinach sauteed with a little garlic, it complements the other strong flavours in the dish, and adds a nice bit of colour too.
 

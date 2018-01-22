@@ -13,7 +13,7 @@ tags:
 - eggs
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/leek_and_roquefort_quiche.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/leek_and_roquefort_quiche.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/leek_and_roquefort_quiche.jpg" alt="Leek and Roquefort Quiche" />
 
 The Bouchon collection is a set of recipe books by one of my idols; Thomas Keller of The French Laundry. Bouchon is the three Michelin starred chef’s bistro in Yountville, California that serves French classics like beef bourguignon, salt cod brandade, and quiche. There is a chapter on the quiche where Keller talks about the lost art of making great quiche; something which seems to have gone out of fashion, or forgotten about. A proper quiche will be two inches deep, filled to the very brim with a barely set, perfectly light custard. The shortcrust pastry should be rich and crisp, and specifically 4-5mm thick, so that it remains crisp and doesn’t become soggy after cooking. I had a couple of attempts at this quiche before getting a satisfactory result, and I was pleased with my third try. I actually bought a 9″ quiche ring especially for the task as none of the pastry rings in my house were quite the right size. One of the brilliant things about this recipe is the lightness of the custard; Keller blitzes the custard mix in a blender before pouring into the pastry shell, aerating the mix and resulting in a delicate light filling. This recipe is more or less the same as that found in Bouchon, but I’ve added spinach to the filling and converted the ingredients from pounds and ounces to kilograms.
 

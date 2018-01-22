@@ -12,7 +12,7 @@ tags:
 - mushroom
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg" alt="Roasted Mushroom Soup" />
 
 I have long been an advocate of the humble button mushroom. It’s one of these ingredients that’s so commonplace, I reckon it’s not appreciated to its full potential. A staple in your greasy breakfast fry-up, or as a mediocre ‘cream of mushroom soup’, the button mushroom is actually so much better that you might realise. They are high in umami – the taste that makes things savory – and they have a lot of powerful flavour locked inside. One of their characteristics is that they have an extremely high water content, making the flavour rather bland until you have reduced the moisture. I’ve also found that when you fry them in a hot pan with a pinch of salt until they’re dark and caramelised, the flavour is amazingly intense and savory. This is what gave me the idea of doing a roast mushroom soup. It’d be better than the average mushroom soup as it would be a rich golden colour, instead of grey, and the resulting flavour would be all the more powerful.
 

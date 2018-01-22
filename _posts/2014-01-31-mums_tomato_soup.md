@@ -12,7 +12,7 @@ tags:
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg" alt="Mum's Tomato Soup" />
 
 This soup is extremely popular in our household, and one of the first recipes I learned off by heart. Probably closer to minestrone than tomato, It’s thick and hearty, guaranteed to fill you up. Instead of pasta, as in a typical minestrone, this soup has a handful of rice thrown in the beginning which swells up to thicken the liquid and give it some body. You could use lentils instead, if you prefer. This is a chunky, broth-like soup rather than being smooth and silky, and although I like to cut all the vegetables to a nice uniform shape and size, you can cut them any old way and be as rustic as you like. As with many soups, the quality of this one comes down to the stock. I will usually make this soup after cooking a joint of smoked gammon or bacon, using the delicious salty liquid as the meaty backbone for my tomatoey broth. I highly advise this, if not then some nice vegetable stock is an acceptable alternative. This soup is best enjoyed with freshly baked bread and butter. As for us, we were treated to Dad’s crusty baguettes, still piping hot from the oven
 

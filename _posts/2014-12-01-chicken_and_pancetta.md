@@ -13,7 +13,7 @@ tags:
 - ragout
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg" alt="Chicken and Pancetta" />
 
 I made this for my dinner a few weeks ago, I didn’t intend for it to be photographed and put up here, but it looked so good that I had to take a few snaps of it. It’s a really nice way to prepare chicken, and pretty easy too. I like chicken legs because they have so much more flavour than the breast meat, and by removing the bones and sinew they become an effortless pleasure to eat. The great thing about this dish is when you slice the chicken leg you see the beautiful glistening cross-section of the muscle, outlined by the crispy pancetta. I served it with sautéed button mushrooms, courgettes and a white wine cream sauce, generously finished with chopped parsley and a handful of baby spinach gently wilted through the sauce at the end. I love cooking vegetables and sauce together like this, in a kind of ragout…I advise a generous heap to present your chicken on, and have it with a salad and some nice white wine.
 

@@ -13,7 +13,7 @@ tags:
 - ale
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/pork_belly_asparagus_and_ale_sauce.jpg" alt="Pork Belly, Asparagus and Ale Sauce" />
 
 The belly has long been my favourite part of the pig. There are two things I generally prefer to do with a pork belly; either salt it and cure it to make dry-cured bacon, or braise it long and slow, for about 12 hours, then press and chill it before roasting it until crispy. Pork belly cooked this way has the most amazing mouthfeel; the meat itself is succulent and has fat running through the layers that melts in your mouth, and the skin that sits atop is the most fantastic crisp pork crackling. It’s a great contrast of textures!
 

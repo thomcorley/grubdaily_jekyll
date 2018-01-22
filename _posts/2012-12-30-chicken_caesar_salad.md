@@ -12,7 +12,7 @@ tags:
 - salad
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_caesar_salad.jpg" alt="Chicken Caesar Salad" />
 
 Jack, John and myself often used to make this in our flat in Sheffield. It’s easy to rustle up pretty quickly, and if you make your own authentic caesar dressing as we did, it’s proper and delicious too. The dressing is key to this dish; it’s a super-enriched mayonnaise, packed with powerful savoriness from garlic, parmesan, anchovies and olive oil. The richness is balanced by a vital squeeze of lemon juice. We always used chicken breast, gently baked in the oven until just cooked, but I’ve switched to using leg now as the darker flakey meat has more flavour and a more pleasing rustic feel that is nicely suited to this dish. This salad provides a fantastic interplay of textures; balancing juicy shredded chicken with crunchy fresh leaves of lettuce and crisp bacon, all bound happily together by the glossy rich dressing. Extra crunch is given by lovely golden croutons.
 

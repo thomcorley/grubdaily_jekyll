@@ -12,7 +12,7 @@ tags:
 - caramel
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg" alt="Peanut Butter Caramel Shortbread" />
 
 My mum makes excellent millionaire shortbread. It’s a treat when she comes to visit because I always get a tin full of lovely caramely chocolatey shortbread squares. On a daily basis I’ll come home from work and, hungry, peruse the fridge for something to eat. The tin of shortbread generally gets raided whilst I’m deciding what to make for my dinner…just one piece usually ends up being two or three; needless to say the millionaire shortbread supply never lasts long! Since peanut butter and chocolate is already established as a good flavour combination it was just a small logical step to make peanut butter millionaire shortbread. I’ve been doing blog posts on Scottish ingredients and recipes, and shortbread is definitely a Scottish thing so I suppose at a stretch this is a Scottish recipe. On flicking through my recipe books, I picked up some tips on how to make shortbread. Although simple, it’s important to make it carefully so as not to end up with a poor result. When mixing the ingredients it’s vital to not overwork as the butter will begin to melt; then when it cooks it’ll be hard instead of the soft, melt-in-the-mouth consistency you’re looking for. Marcus Wareing suggests finely grating the chilled butter when making shortbread, then you hardly have to work the mixture with your hands and the butter barely softens at all. The result is excellent.
 

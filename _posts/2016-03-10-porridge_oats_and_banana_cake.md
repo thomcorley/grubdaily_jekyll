@@ -12,7 +12,7 @@ tags:
 - banana
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/porridge_oats_and_banana_cake.jpg" alt="Porridge Oats and Banana Cake" />
 
 This is a really tasty recipe I found online a few weeks ago, and it's perfect for breakfast or brunch. Two of breakfast's long-time favourites, banana and oats, come together here to make a sort of flapjack. Because of the addition of milk and eggs, the texture is more like that of a coarse, oaty cake rather than a flapjack, which I thought was very good. Serve a generous wedge of it with your coffee in the morning for a breakfast of champions!
 

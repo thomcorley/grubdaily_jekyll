@@ -12,7 +12,7 @@ tags:
 - mustard
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_pork_fillet_grain_mustard_sauce.jpg" alt="Roast Pork Fillet, Grain Mustard Sauce" />
 
 Pork fillets are easily obtainable and relatively inexpensive, but the best thing about them is they usually come with trimmings attached to them which must be removed before cooking; and with these trimmings you can make a quick and delicious homemade sauce with no pre-made stocks or artificial seasoning. Just simple fresh ingredients. This recipe is one of the easiest and most delicious things to do with a pork fillet, and personal favourite of mine. Grain mustard is a classic pairing for pork, and combined with creamy mashed potatoes and cabbage, it’s an absolute winner!
 

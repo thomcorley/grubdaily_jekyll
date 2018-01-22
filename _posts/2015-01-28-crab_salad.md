@@ -13,7 +13,7 @@ tags:
 - cream
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/crab_salad.jpg" alt="Crab Salad" />
 
 Of all the delicious things in the world to eat, crab is easily one of my favourites. It's got an intense flavour of the sea and it's succulent, sweet and juicy. In short, it's fantastic. Preparing crab involves a bit of work and is fairly time consuming... but it's a labour of love and something I'd urge everyone to try. Cooked in generously seasoned water, the beautiful white meat is excellent whilst still warm, eaten straight from the shell. It hardly needs anything more, although mix it with a little mayonnaise, herbs and lemon juice and you have the beginnings of a delicious salad. I've been wanting to write a crab recipe for a while now, but found it difficult to think of a really photogenic looking dish that wasn't just a rip-off from one of the restaurants I've worked in. The custard part of this dish is similar to a crab creme brulee that we did at Wedgwood, and it's really tasty. The sweet flavour of crab infuses really well in cream, and the fresh herbs added at the end finish it off beautifully.
 

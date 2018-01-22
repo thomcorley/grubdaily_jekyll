@@ -13,7 +13,7 @@ tags:
 - annatto
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg" alt="Puerco Pibil" />
 
 For dinner this Christmas eve I made Puerco Pibil - a slow-cooked pork dish with an amazingly intense flavour. It's flavoured -and coloured- with annatto seeds; they have a distinctive, slightly sharp flavour and a deep red colour, as you can see from the photos. This is an uncompromising meal. When you eat, it rampages down your throat. When I first made it, 'twas was like nothing I had ever tasted before and it remains one of the most unique flavours I have ever encountered. It's not just the heat from the chilli, its the combination of that along with the vinegary tang and the distinctive flavour of annatto which makes it. You have to try it.
 

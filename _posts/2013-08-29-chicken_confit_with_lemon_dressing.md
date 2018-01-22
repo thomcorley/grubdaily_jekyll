@@ -13,7 +13,7 @@ tags:
 - confit
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg" alt="Chicken Confit with Lemon Dressing" />
 
 Confit is one of my favourite ways of cooking meat; with something like a duck leg the meat will be amazingly tender and succulent, and the crisp crunchy skin giving a lovely texture contrast. It’s hard not to adore this. Chicken confit is not often heard of, but it's a great way to elevate the humble chicken leg to new tasty new heights. Lemon chicken was something my mum often made when we were young. Simply place some chicken legs in a roasting tray with olive oil, lemons and seasoning and roast in a hot oven until golden and crisp. You get a load of amazingly tasty juices in the tray which are spooned over potatoes or mopped up with crusty bread. One of my favourite ever meals! So this is a new version of that dish; the confit chicken has a superior texture, and the lemon and olive oil dressing is enriched with the jus from the confit and loaded with chopped fresh herbs. For this one, I served it with some sauteed pak choi and buttered new potatoes.
 

@@ -12,7 +12,7 @@ tags:
 - noodles
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg" alt="Asian Noodle Soup" />
 
 When we were in Vietnam we fell in love with pho, the “noodle soup that build a nation”; eaten for breakfast, lunch and dinner and sold in hundreds of make-shift street stalls on virtually every corner in Hanoi, the nation’s bustling capital. We would perch on tiny plastic stools with soup and chopsticks in hand, slurping down the powerful broth while millions of motorbikes provided a symphony of background humming. The most common – and best – was pho bo, rich dark beef stock laden with strips of tender meat and tendons of beef, fragrant spices and light noodles. There was always a basket of bright leaves served alongside, herb-like greens which, when torn in rustic pieces into the bowl gave the perfect balance of freshness to the meaty soup. This is my own, slightly simpler version of noodle broth. Although it doesn’t compare to proper Vietnamese pho it’s a reasonable substitute! To make this recipe you will need to invest some time in making proper beef stock. This takes at least eight hours of gentle simmering and I urge you to do this; the resulting flavour will be far superior than any shop-bought alternative. I haven’t added any actual meat to the soup as I reckoned there is enough flavour from the stock alone, but feel free to add some strips of cooked beef if you wish.
 

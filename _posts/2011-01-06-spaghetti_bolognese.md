@@ -13,7 +13,7 @@ tags:
 - pasta
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg" alt="Spaghetti Bolognese" />
 
 This has long been a staple dish in my repertoire and I think that I, like many of us, have a weakness for a good meaty pasta sauce. However, bolognese sauce can often turn out mediocre if thrown together in a hurry and without much thought. My philosophy for making a good bolognese rests on two principles. One: it should be really meaty, and two: it should simmer gently for a long time to tenderise the meat. My usual bolognese contains beef mince, pork mince, bacon, and pork sausage meat. This gives a nice combination of meaty flavours. It’s nice to vary things though, and I sometimes combine the beef mince with lamb or venison mince. Another thing about my bolognese, which is slightly controversial, is that I omit tomatoes and only include tomato puree. The main liquid component of the sauce instead comes from beef or pork stock, which promotes a richer meat flavour. This is an easy reliable meal, and a great one to serve if you have guests since just about everyone likes spaghetti bolognese! I usually make a big quantity, then freeze most of it before adding the cream.
 

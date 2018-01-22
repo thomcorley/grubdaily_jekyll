@@ -13,7 +13,7 @@ tags:
 - tomato
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/aubergine_tomato_parmesan.jpg" alt="Aubergine, Tomato, Parmesan" />
 
 Melanzane alla Parmigiana is a classic Italian dish of fried aubergines, tomato and parmesan, a bit like a lasagne but with aubergines instead of pasta. And it is delicious! Superior to lasagne in my opinion, if I had to choose between the two, melanzane  would win hands down. It’s so hot today I have opened all the windows and there is a warm breeze blowing through the room. The weather puts me in the mood for a salad, and thinking about this dish gave me the idea of doing a salad version of it, with crispy aubergine slices, fresh tomatoes and shavings of parmesan. The thought of it has my mouth watering already..
 

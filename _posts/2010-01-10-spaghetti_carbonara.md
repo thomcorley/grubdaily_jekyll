@@ -13,7 +13,7 @@ tags:
 - pasta
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_carbonara.jpg" alt="Spaghetti Carbonara" />
 
 The best pasta dish on the planet, I reckon, could only be the glorious Carbonara. It exemplifies everything great about Italian cuisine – simple, quick and with an emphasis on quality ingredients. It can be deceptively tricky to perfect however; too much heat when adding the eggs can result in scrambling them instead of gently cooking them to get the desired silky smooth sauce. My favourite way to have this meal is to make the sauce fairly runny, so that a lovely gooey creamy sauce collects at the bottom of your bowl. Each forkfull can then be stirred through this sauce to get it well coated before shoving it in your mouth with gusto, licking your lips and greedily going for another mouthful. This should not be done with any attempt to look dignified – just enjoy it!
 

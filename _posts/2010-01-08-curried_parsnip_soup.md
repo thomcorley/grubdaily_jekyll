@@ -13,7 +13,7 @@ tags:
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg" alt="Curried Parsnip Soup" />
 
 This curried parsnip soup is the perfect form of resistance against the winter cold; it will warm your aching bones and put a smile on your face, I guarantee it. The chilli gives it a fiery kick which really helps warm you up! The recipe has the unusual addition of coconut - just a hint - which may come as a surprise, but it really transforms the soup and makes it extra delicious.
 

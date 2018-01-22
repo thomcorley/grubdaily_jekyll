@@ -12,7 +12,7 @@ tags:
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg" alt="Macaroni Cheese" />
 
 Macaroni cheese is a classic home-made dish for me. It was a firm favourite for us three at home especially for Rob who would devour mountains of it with lashings of tomato ketchup. We were so particular about the consistency of the sauce, being adamant that it had to be “nice and sloppy”. These days I like it a little thicker but still loose enough to be gooey and tempting, and with a nice golden gratin to give contrast in texture. One thing my parents did was to put slices of tomato on the top among the cheese. As a big fan of tomatoes, I would highly advise this. It gives a light freshness to balance the weight of all that cheese. The quality of a macaroni can be judged by the quality of it’s cheese sauce. My Dad taught me how to make perfectly smooth cheese sauce (or white sauce); he told me to add the milk to the roux in stages, and stir thoroughly each time to ensure that its totally smooth before adding more. It’s completely fail-safe and I’ve never made a lumpy cheese sauce since. Thanks Dad!
 

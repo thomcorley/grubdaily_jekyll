@@ -12,7 +12,7 @@ tags:
 - jam
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg" alt="Peanut Butter and Jam Creme Brulee" />
 
 One of the desserts we serve at Wedgwood is a marmalade on toast creme brulee; it has a layer of marmalade in the bottom of the ramekin and then a toast-infused cream that is set on top. It tastes fantastic. This is basically a peanut flavoured custard set into a ramekin on top of some jam. To ‘brulee’ a normal creme brulee, sugar is sprinkled on top and then caramelised with a blow torch or by grilling. Tony, one of the Wedgwood chefs, suggested sprinkling on some toasted crushed peanuts at the end to create extra crunch, which I thought was a great idea. I decided to use salted peanuts, as the peanut butter contains salt anyway and it gives a nice contrast to the sweet cream and jam.
 

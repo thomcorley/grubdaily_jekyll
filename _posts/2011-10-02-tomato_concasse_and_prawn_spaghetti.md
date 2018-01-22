@@ -13,7 +13,7 @@ tags:
 - spaghetti
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/tomato_concasse_and_prawn_spaghetti.jpg" alt="Tomato Concasse and Prawn Spaghetti" />
 
 I got the idea for this recipe when I was in India with Jack and Claire. We were in Goa and, growing tired of curry, were craving some western food for our dinner. We came upon an Italian restaurant on the edge of the beach, with plastic tables and chairs arranged under palm trees. Reputedly the pizzas and pasta were particularly good so we thought we’d give it a go. I went for ‘tomato and prawn spaghetti’ and it was absolutely delicious. It was a simple dish, using fresh tomatoes and little baby prawns. It had a really nice light sauce and was the perfect thing to eat on a hot evening, accompanied by a chilled bottle of beer! So this is my attempt at replicating that dish. It’s basically a sauce made from tomato juice, white wine and garlic, then thickened and enriched with butter. The diced tomato flesh and prawns are then simply added to heat through, just before serving. I used frozen cooked baby prawns, but if you can find fresh ones then all the better. It’s seasonal too; tomatoes are just about still good at this time of year, so make the most of it!
 

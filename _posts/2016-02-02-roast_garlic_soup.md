@@ -13,7 +13,7 @@ tags:
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg" alt="Roast Garlic Soup" />
 
 I have always been a huge fan of garlic. It’s an awesome ingredient that provides a remarkable amount of flavour given its size… it is small but strong! Obviously it’s more potent when raw, and when used for something like pesto or hummus, you need only a tiny bit. After cooking garlic, however, it loses most of it’s kick and becomes much more mellow. So, if you’re making a pasta sauce for example, you might want a decent amount - 3 or 4 cloves perhaps - to sweat with olive oil for the base of the sauce. Roasting garlic increases the mellowing effect even more, and gives it an amazing deep flavour. This is my favourite way to prepare garlic, and it’s perfect for making soup.
 

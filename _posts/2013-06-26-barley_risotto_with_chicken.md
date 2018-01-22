@@ -13,7 +13,7 @@ tags:
 - chicken
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg" alt="Barley Risotto with Chicken" />
 
 Years ago my friend Cecily showed me how to make risotto, she was so enthusiastic about the merits of this dish and was amazed that I’d never made it before! It was the start of a beautiful relationship with this Italian classic; now a staple in my repertoire, I must have made hundreds of risottos, including a few variations…barley is a nice alternative to rice and perfect to serve with chicken. We feed barley to the hens on the farm, so this seems like an apt combination for a dish. A benefit of using barley instead of rice is that it’s considerably more difficult to overcook. Also the grains give a lovely bursting sensation when you chew them which is fantastic. Firstly, I like to caramelise some finely diced pancetta or home-cured bacon to release some vital fat and get an amazing flavour base before adding finely chopped onion to sweat down slowly and gently. I will sweat the onion for a good fifteen minutes before adding anything else, making sure they become soft and sweet. To add some extra flavour and a nice touch of colour, I cooked some carrot dice and some baby button mushrooms in a separate pan to be stirred into the risotto at the very end, along with a generous handful of chopped herbs.
 

@@ -13,7 +13,7 @@ tags:
 - rillettes
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg" alt="Duck Rillettes" />
 
 I think it’s high time I put a recipe for duck up here. This bird is rich in taste, tender in texture and a deep red colour; winning attributes I’m sure you’ll agree. At work we have made duck confit, pan fried breast (cooked pink and moist), terrine and rillettes. I also made some duck ham at home which was delicious. Duck’s versatility speaks for itself; there are a myriad different ways to prepare it. The best thing about it though is the thick layer of insulating fat under it’s skin which keeps the animal warm in freezing cold weather. For chefs this is the most indispensable part of the animal; the fat melts during cooking, keeping the meat beautifully moist and succulent. Excess fat collects in the bottom of the roasting tray but should never be thrown away! This is essential for your confit. This method of cooking meat was originally used for preservation, a form of charcuterie. Meat that had been lightly cured, then slowly and gently cooked in it’s own fat was then left to cool, the fat setting around the meat, completely sealing it from any moisture or bacteria from the air. When left for 5-6 months in a cool larder, the flavours had matured, resulting in a true authentic confit. It is not essential to mature your confit for quite this long; a fantastic flavour is still achievable in a few days.
 

@@ -12,7 +12,7 @@ tags:
 - haddock
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg" alt="Arbroath Smoky" />
 
 With a coastline as extensive and diverse as Scotland’s, it’s not surprising that seafood is so popular here. The process of salting and smoking fish was originally a method of preserving the fish to enable long storage. Although not necessary as a means of survival anymore, smoked fish - salmon and haddock in particular - is commonly enjoyed all over the country because it’s simply delicious! I recently had great pleasure in making Cullen Skink - the traditional Scottish soup made with smoked haddock - but since it has been so warm recently I wanted to do something a bit less hearty and filling. Some sort of salad seemed like the best thing to do, so I just warmed the fish gently in some milk, and flaked it over a simple salad of baby spinach, spring onions and courgette sliced thinly into ribbons. Topped finally with a poached egg, simple but delicious.
 

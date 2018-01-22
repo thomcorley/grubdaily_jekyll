@@ -13,7 +13,7 @@ tags:
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg" alt="Peanut Caramel Cheesecake" />
 
 This is another one for all the peanut butter lovers out there, and in fact I’d be willing to bet that even peanut butter haters will enjoy this dessert! There’s something about the flavour and texture of peanut butter that makes it quite uncompromising; for some, the richness is too much on its own, and is only palatable when paired with something sweet. In the contest to be the most loved peanut butter dish, the old-school favourite _peanut butter and jam_ is arguably winning. I would, however, argue that this cheesecake beats it hands-down.
 

@@ -13,7 +13,7 @@ tags:
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg" alt="Bacon and Comte Bread" />
 
 I got hooked on making my own bread after visiting my aunt who makes award winning sourdough loaves. She donated me a small sample of her starter dough, which I brought home and cultured until it had grown to a decent enough size for me to begin making my own crunchy, tangy loaves. Although this is not a sourdough recipe, I feel obliged to mention my aunt as it was the impressive texture and flavour of her sourdough bread that convinced me to start making my own every day.
 

@@ -13,7 +13,7 @@ tags:
 - fish
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg"
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg" />
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg" alt="Cullen Skink" />
 
 A perfect combination of smoked haddock, potatoes, leeks and cream make up this classic Scottish soup. I have written already about my love for smoked haddock, in particular Arbroath Smokies, and this soup is further evidence for why smoked haddock is basically awesome. Some recipes for Cullen Skink will instruct to keep a rustic broth-like consistency, with pieces of potato and haddock giving a nice chunky texture, but I prefer to make a super smooth soup, like a veloute, and then garnish the soup with diced potatoes, flaked smoked haddock and herbs. This gives a nice texture contrast, but also looks fantastic too.
 
