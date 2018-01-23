@@ -7,6 +7,7 @@ author: Tom
 category: "bread"
 serves: "-"
 makes: "2 loaves"
+total_time: "PT4H"
 tags:
 - bread
 - bacon

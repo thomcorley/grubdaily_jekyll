@@ -31,7 +31,29 @@
     <link href="https://s3.eu-west-2.amazonaws.com/grubdaily/favicon_square.png" rel="shortcut icon" type="image/x-icon" />
 
     <link lang="scss" rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
-
+    {% if page.path contains "_posts" %}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "{{ page.title }}",
+      "author": "Grubdaily",
+      "image": "{{ post.image_url }}",
+      "description": "I have added bacon and comté cheese, along with some rich tasting rapeseed oil; this is a luxurious treat.",
+      "totalTime": "PT1H",
+      "recipeYield": "{{ post.makes }}",
+      "recipeIngredient": [
+        "1 box refrigerated pie crusts, softened as directed on box",
+        "6 cups thinly sliced, peeled apples (6 medium)",
+        "..."
+      ],
+      "recipeInstructions": [
+        "1...",
+        "2..."
+      ]
+    }
+    </script>
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Domine:700" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
