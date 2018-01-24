@@ -12,6 +12,35 @@ tags:
 - parsnip
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Curried Parsnip Soup
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg
+ datePublished: 2010-01-08
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 26
+ recipeIngredient:
+  - "300g of parsnips, chopped"
+  - "2 onions, chopped"
+  - "2 or 3 cloves of garlic, chopped"
+  - "50g of butter"
+  - "1 tablespoon of medium strength curry powder"
+  - "1 red chilli, chopped"
+  - "1 1/5litres of vegetable or chicken stock"
+  - "2 (150g) of floury potatoes, chopped"
+  - "1 tablespoon of creamed or dessicated coconut"
+ recipeInstructions:
+   - "Heat the butter in a saucepan and add the onions and garlic. Cook gently for about 5 minutes without colouring."
+   - "Add the curry powder and red chilli, along with the stock, and bring to the boil."
+   - "Add the parsnips, potato and coconut and simmer with the lid on for 20-25 minutes or until the vegetables are tender."
+   - "Liquidise until smooth with a blender."
+   - "For garnish: try a swirl of double cream, and a sprinkle of smoked paprika. Or finely chopped red pepper and chives."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg" alt="Curried Parsnip Soup" />
 

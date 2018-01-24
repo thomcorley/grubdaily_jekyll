@@ -12,6 +12,34 @@ tags:
 - confit
 - rillettes
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Duck Rillettes
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg
+ datePublished: 2012-07-02
+ totalTime:
+ recipeYield: 6
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 38
+ recipeIngredient:
+  - "4 duck legs"
+  - "about 400ml of duck fat"
+  - "1 sprig  of thyme"
+  - "1 bay leaf"
+  - "5 black peppercorns"
+  - "200g of salt"
+  - "100g of sugar"
+  - "1 blade of mace"
+  - "1 clove"
+  - "1 star anise"
+ recipeInstructions:
+   - "Firstly, make your cure mix. This can be as simple as just salt and sugar (ratio 2:1) but you may add extra flavourings and spices if you wish. For mine I used 200g salt, 100g sugar, and a small handful of spices: cloves, star anise, cinnamon, juniper berries, all finely ground."
+   - "Lightly sprinkle some of the cure mix onto the duck legs and rub into the flesh and skin. Cover, and leave in the fridge for 8 hours or overnight. Set the oven to 150C, and thoroughly wash the salt off the duck legs. Place in a casserole tray and cover with the duck fat, ensuring that they are completely covered. Add the thyme, bay leaf and peppercorns. Place in the oven for 3-4 hours or until the meat is extremely tender and falling off the bone."
+   - "Remove from the oven, and allow to cool slightly, then carefully strip all the meat from the bone, being careful to discard any sinew or gristle. Place the meat in a bowl and work with a spoon until the meat is finely shredded. Now add a few tablespoons of the duck fat and continue to work the mixture. You should have a smooth, moist paste. Add enough duck fat until this consistency is achieved. Taste, and adjust the seasoning. Roll into a cylinder in cling film and place in the fridge to set. Serve with melba toast, chutney and salad."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/duck_rillettes.jpg" alt="Duck Rillettes" />
 

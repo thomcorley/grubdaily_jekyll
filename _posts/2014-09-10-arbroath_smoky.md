@@ -11,6 +11,33 @@ tags:
 - smoked
 - haddock
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Arbroath Smoky
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg
+ datePublished: 2014-09-10
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 39
+ recipeIngredient:
+  - "2 arbroath smokies"
+  - "4 eggs"
+  - "60g of baby spinach leaves, washed"
+  - "1 courgette"
+  - "3 spring onions"
+  - "extra virgin olive oil"
+  - "sea salt and cracked black pepper"
+  - "1 lemon"
+  - "200ml of whole milk"
+ recipeInstructions:
+   - "Fill a large pan with water and bring to the boil. Turn down to a barely trembling simmer and leave. Place the smokies in a wide based pan and cover with the milk. Poach gently, not boiling, turning the fish frequently, until just warmed through. Set aside."
+   - "Thinly slice the onions at an angle, then place in a large mixing bowl along with the spinach. Season with olive oil, salt and pepper and a little squeeze of lemon juice. Cut the courgette into quarters lengthways and cut out the soft pulp from the middle. Carefully cut into long ribbons. Season with sea salt and olive oil, then add to the bowl of salad."
+   - "Carefully poach the eggs until just cooked. While the eggs are cooking, arrange the salad into 4 bowls. Flake the smoked fish over the top, and finish with the poached eggs, seasoning with a little salt and pepper."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/arbroath_smoky.jpg" alt="Arbroath Smoky" />
 

@@ -12,6 +12,38 @@ tags:
 - pancetta
 - ragout
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Chicken and Pancetta
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg
+ datePublished: 2014-12-01
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4.5
+   reviewCount: 21
+ recipeIngredient:
+  - "4 chicken thighs"
+  - "12 rashers of thinly sliced pancetta"
+  - "400g of button mushrooms"
+  - "75g of baby spinach"
+  - "2 courgettes"
+  - "1 handful of flat leaf parsley, roughly chopped"
+  - "3 cloves of garlic"
+  - "250 ml  of white wine"
+  - "300 ml  of whipping cream"
+  - "2 shallots"
+  - "1 sprig of rosemary, leaves picked"
+  - "vegetable oil, for frying"
+  - "sea salt and cracked black pepper"
+ recipeInstructions:
+   - "Remove the skin from the chicken thighs, and carefully remove the bone and gristly bits. Lay out the pancetta 3 rashers at a time on a board, and lay the chicken on top. Season with salt and pepper, then roll them up so the chicken is wrapped in the pancetta. Place in the fridge."
+   - "Heat the oven to 180C. Quarter the mushrooms, then sauté in in vegetable oil in a hot pan, in small batches, until caramelised and golden. Finely chop the shallots and garlic, and add to the same pan you cooked the mushrooms in. Sweat until soft, about 10 minutes. While the shallots are cooking, get a frying pan (with a metal handle as it is going into the oven) and place it on the heat. When it's nice and hot, fry the wrapped chicken thighs until the pancetta is crispy all around, then place in the oven for about 10 minutes, until the chicken is cooked. Check by inserting a skewer into the middle and touching it on your lip to see if it's hot."
+   - "In a small frying pan, heat 2 tablespoons of vegetable oil and fry the picked rosemary until crisp. Drain on kitchen paper and set aside."
+   - "Add the white wine to the shallots, and reduce until dry. Add the cream and the mushrooms, and reduce gently until the sauce is a nice thick consistency. Cut the courgettes into dice and simmer in the sauce until just cooked, then add the parsley and the spinach. Stir briefly, and serve. Slice each thigh into 3 pieces and serve."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg" alt="Chicken and Pancetta" />
 

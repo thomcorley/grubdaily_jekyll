@@ -11,6 +11,35 @@ tags:
 - tomato
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Mum's Tomato Soup
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg
+ datePublished: 2014-01-31
+ totalTime:
+ recipeYield: 4-6
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 26
+ recipeIngredient:
+  - "2litres of smoked ham stock, or vegetable stock"
+  - "6 rashers of streaky bacon"
+  - "2 carrots"
+  - "2 onions"
+  - "3 sticks of celery"
+  - "30g of basmati rice"
+  - "4 cloves of garlic"
+  - "1/2 teaspoons of dried thyme"
+  - "1/2 teaspoons of dried oregano"
+  - "2 400g tins of chopped tomatoes"
+  - "2 tablespoons of tomato purée"
+  - "sea salt and cracked black pepper"
+  - "a  handful of basil or parsley leaves"
+ recipeInstructions:
+   - "Cut the bacon into lardons and, in a large pot, fry until crispy. Meanwhile, cut the carrot, onion and celery into 5mm dice, and peel and finely chop the garlic. Once the bacon is nice and caramelised, add the onion, garlic and celery. Turn the heat down and sweat gently for 15 minutes, until the onions are soft and dark. Add the basmati rice, carrots, thyme and oregano and fry over a medium heat for 5 minutes. Now add the tomatoes, the tomato purée and the stock. Bring to the boil then simmer gently for 30 minutes. Finish with some torn or chopped basil leaves, then and serve with fresh crusty bread."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg" alt="Mum's Tomato Soup" />
 
@@ -27,9 +56,9 @@ This soup is extremely popular in our household, and one of the first recipes I 
 * 1/2 teaspoons of dried thyme
 * 1/2 teaspoons of dried oregano
 * 2 400g tins of chopped tomatoes
-* 2 tablespoons of tomato puree
+* 2 tablespoons of tomato purée
 * sea salt and cracked black pepper
 * a  handful of basil or parsley leaves
 
-1. Cut the bacon into lardons and, in a large pot, fry until crispy. Meanwhile, cut the carrot, onion and celery into 5mm dice, and peel and finely chop the garlic. Once the bacon is nice and caramelised, add the onion, garlic and celery. Turn the heat down and sweat gently for 15 minutes, until the onions are soft and dark. Add the basmati rice, carrots, thyme and oregano and fry over a medium heat for 5 minutes. Now add the tomatoes, the tomato puree and the stock. Bring to the boil then simmer gently for 30 minutes. Finish with some torn or chopped basil leaves, then and serve with fresh crusty bread.
+1. Cut the bacon into lardons and, in a large pot, fry until crispy. Meanwhile, cut the carrot, onion and celery into 5mm dice, and peel and finely chop the garlic. Once the bacon is nice and caramelised, add the onion, garlic and celery. Turn the heat down and sweat gently for 15 minutes, until the onions are soft and dark. Add the basmati rice, carrots, thyme and oregano and fry over a medium heat for 5 minutes. Now add the tomatoes, the tomato purée and the stock. Bring to the boil then simmer gently for 30 minutes. Finish with some torn or chopped basil leaves, then and serve with fresh crusty bread.
 

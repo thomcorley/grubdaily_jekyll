@@ -11,6 +11,31 @@ tags:
 - spelt
 - bread
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Granny's Spelt Bread
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg
+ datePublished: 2011-09-29
+ totalTime:
+ recipeYield: 1 tray
+ description:
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 46
+ recipeIngredient:
+  - "1kg of wholegrain spelt flour"
+  - "1 teaspoon of salt"
+  - "1 tablespoon of dried yeast"
+  - "1 handful of sunflower seeds"
+  - "1 handful of pumpkin seeds"
+  - "1 handful of pine nuts"
+  - "1 litre of water, hand-hot"
+  - "2 tablespoons of black treacle"
+  - "2 tablespoons of olive oil"
+ recipeInstructions:
+   - "Heat the oven to 200C. In a large bowl, mix together the flour, salt, yeast, pumpkin seeds, sunflower seeds and pine nuts. In a jug, mix the water with olive oil and treacle. Mix the contents of the jug into the bowl with the flour, cover and leave in a warm place to rise for 20 minutes. Line a large roasting tin with greaseproof paper and scrape the dough into it. Leave in a warm place to rise again for 10 minutes, then place in the oven for 20-30 minutes, until nice and brown on the top and sounding hollow when tapped underneath. Enjoy hot with butter."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg" alt="Granny's Spelt Bread" />
 

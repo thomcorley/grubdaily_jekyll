@@ -11,6 +11,31 @@ tags:
 - bacon
 - pork
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Dry Cured Bacon
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg
+ datePublished: 2010-11-04
+ totalTime:
+ recipeYield: 1 large piece
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 30
+ recipeIngredient:
+  - "5kg of pork belly"
+  - "300g of salt"
+  - "100g of soft brown sugar"
+  - "1 tablespoon of cracked black pepper"
+  - "6 bay leaves, finely chopped"
+  - "3 sprigs of rosemary, finely chopped"
+  - "1/2 teaspoons of ground mace"
+  - "6 allspice berries, ground"
+  - "3 cloves, ground"
+ recipeInstructions:
+   - "Mix all the ingredients except the pork together in a bowl. Rub about three-quarters of the mix into the belly, leave in the fridge for 24 hours then pour the liquid away and repeat, but only adding a small amount of cure mix after the first day. Cure it for 4 days, then cut off a piece and fry it to test for saltiness. If it’s too salty, just soak it under running water for an hour or longer to reduce this. Finally, wrap it in muslin and hang for a week in a cool larder to dry and allow the flavour to mature."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg" alt="Dry Cured Bacon" />
 

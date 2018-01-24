@@ -11,6 +11,30 @@ tags:
 - apples
 - tart
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Apple Tarte Tatin
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg
+ datePublished: 2012-10-22
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4.5
+   reviewCount: 35
+ recipeIngredient:
+  - "4 cox apples"
+  - "100g of caster sugar"
+  - "30g of unsalted butter, chilled"
+  - "400g of puff pastry"
+ recipeInstructions:
+   - "Heat the oven to 180C. Put the caster sugar in an even layer into a metal handled frying pan (approx 20cm diameter) and place over a low heat until the sugar has caramelised to a uniform golden brown."
+   - "While the sugar is heating, peel, core and slice the apples into eighths. Roll out the puff pastry to about 2-3mm thickness and cut a circle about 1/2 an inch wider than the inner diameter of the frying pan."
+   - "Cut the butter into small dice and set aside. Once the caramel is ready, add the butter in a even layer followed immediately by the apples, rounded sides down. Leave to cook for 2 minutes until the caramel has softened and the butter has melted."
+   - "Cover carefully with the puff pastry and tuck the edges in. Prick the top several times with a sharp knife to allow steam to escape. Now place in the oven for 15 minutes until the pastry is cooked through, nice and golden."
+   - "Have a cooling rack ready; remove the tarte from the oven and leave for 1 minute, then quickly turn it out onto the rack upside-down. The caramelised apples should release from the pan nicely. Leave to cool slightly, then eat! Excellent with vanilla ice-cream."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/apple_tarte_tatin.jpg" alt="Apple Tarte Tatin" />
 

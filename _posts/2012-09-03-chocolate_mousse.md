@@ -12,6 +12,30 @@ tags:
 - mousse
 - eggs
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_mousse.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Chocolate Mousse
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_mousse.jpg
+ datePublished: 2012-09-03
+ totalTime:
+ recipeYield: 6.00
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 36
+ recipeIngredient:
+  - "200g of good quality dark chocolate (70%)"
+  - "200g of double cream"
+  - "75g of caster sugar"
+  - "2 egg whites"
+  - "3 egg yolks"
+  - "50g espresso, cooled"
+ recipeInstructions:
+   - "Place the egg yolks, 50g of sugar and coffee in a bowl and whisk over a pan of simmering water until thick and silky to create a sabayon. Mix in the chocolate and stir until melted. Take off the heat and set aside."
+   - "Quickly whip the cream until it forms soft peaks. In a separate bowl, whisk the egg whites until they also form soft peaks, then gradually add the remaining 25g of caster sugar whilst continuing to whisk vigorously, until fully incorporated. Set aside. Pour the chocolate sabayon into another bowl to cool it slightly (it should be around 35-40 C), then fold the cream in stages, mixing the first spoonful vigorously to stabilise the mixture so it doesn't sieze. Once the cream is mixed in, gently fold the egg white mixture in."
+   - "Pour the mousse into moulds or dishes and leave in the fridge for a minimum of 6 hours to set."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chocolate_mousse.jpg" alt="Chocolate Mousse" />
 

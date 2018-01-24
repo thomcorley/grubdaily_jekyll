@@ -11,6 +11,29 @@ tags:
 - salmon
 - tartare
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Salmon Tartare
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg
+ datePublished: 2011-03-21
+ totalTime:
+ recipeYield: 1
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 46
+ recipeIngredient:
+  - "1 teaspoon of shallots, finely chopped"
+  - "1 teaspoon of parsley, finely chopped"
+  - "1 teaspoon of chives, finely chopped"
+  - "1 teaspoon of gherkins, finely chopped"
+  - "1 teaspoon of lemon juice, freshly squeezed"
+  - "sea salt"
+  - "freshly cracked black pepper"
+ recipeInstructions:
+   - "Remove the skin from the salmon and cut out the grey coloured blood line so you have only the shiny pink flesh. Cut into approximate 1cm dice and place in a bowl. Add shallots, parsley, chives, gherkins and lemon juice, and a pinch each of salt and pepper. Mix well, taste and adjust the quantities and seasoning if need be. There are no exact quantities for this, just experiment and find out what works best for you. Leave to"
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/salmon_tartare.jpg" alt="Salmon Tartare" />
 

@@ -11,6 +11,40 @@ tags:
 - beef
 - noodles
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Asian Noodle Soup
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg
+ datePublished: 2013-02-18
+ totalTime:
+ recipeYield: 5
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 21
+ recipeIngredient:
+  - "3kg of beef bones"
+  - "2 carrots"
+  - "1 onion"
+  - "1/2 bulb of garlic, cut in two crossways"
+  - "1 sprig of thyme"
+  - "1 bay leaf"
+  - "250ml of red wine"
+  - "1 fresh red chilli, finely sliced"
+  - "20g of root ginger, finely sliced"
+  - "2 celery sticks"
+  - "1 leek, white part only, finely sliced"
+  - "4 spring onions"
+  - "100g of dried egg noodles"
+  - "sea salt and freshly cracked black pepper"
+  - "soy sauce"
+  - "toasted sesame oil"
+ recipeInstructions:
+   - "Firstly make the beef stock: Heat the oven to 200C and roast the bones until dark golden brown. Meanwhile, roughly chop 1 carrot and the onion and, along with the garlic, lightly brown in vegetable oil in a large pan. Add the wine and boil for 3 minutes to remove the alcohol. Add the beef bones, the thyme and bay leaf. Fill with cold water until just covered, then slowly bring to the boil, skimming any scum that rises. Simmer very gently for 8 hours, topping up with more cold water when necessary. Strain off the liquid into a clean pan, and boil until reduced to about 1 litre. For the last 10 minutes add the ginger and chilli. Season carefully with salt, and set aside."
+   - "Bring a pan of salted water to the boil. Peel the carrot into ribbons and finely slice. Peel the celery and finely slice. Add all the vegetables except the spring onion to the boiling water and cook for 2 minutes. Lift out with a slotted spoon and rinse under cold water."
+   - "Cook the noodles in the boiling vegetable water for 4 minutes, then drain. Divide the noodles and vegetables between 4 bowls, then ladle the hot beef stock over the top. Sprinkle the spring onions over the top, and serve."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/asian_noodle_soup.jpg" alt="Asian Noodle Soup" />
 

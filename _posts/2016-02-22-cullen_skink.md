@@ -12,6 +12,38 @@ tags:
 - haddock
 - fish
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Cullen Skink
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg
+ datePublished: 2016-02-22
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 17
+ recipeIngredient:
+  - "2 Arbroath Smokies"
+  - "700ml of whole milk"
+  - "2 leeks"
+  - "1 onion"
+  - "3 cloves of garlic"
+  - "2 potatoes, about 300g in total"
+  - "30 g  of unsalted butter"
+  - "1 sprig of thyme"
+  - "1 bay leaf"
+  - "1 bunch of dill"
+  - "30ml of double cream"
+  - "3 spring onions"
+  - "olive oil"
+ recipeInstructions:
+   - "Place the Arbroath smokies, thyme and bay in a large shallow pan and cover with the milk. Bring to the boil, cover and leave to infuse for 30 minutes. In the meantime thinly slice the onion, garlic, and the white part of the leeks. Heat about 2 tablespoons of olive oil in a medium pan and slowly fry the vegetables for about 20 minutes, until soft. Peel and thinly slice ¾ of the potato and add to the pan. Dice the rest of the potato into 5mm cubes and set aside to be sautéed for the garnish."
+   - "Remove the smokies from the milk and carefully pick the meat away from the bone, discarding the skin. Set the flaked fish aside. Pass the milk through a sieve into the pan of vegetables. Add the cream, and simmer gently for 10 minutes, until the potatoes are cooked. Pour everything into a blender, add ¾ of the flaked smokies and the butter and blend on full power for 5 minutes, until the soup is very smooth and silky. Taste and adjust the seasoning if necessary."
+   - "Heat  about 1 tablespoon of olive oil in a frying pan, and fry the potato dice on a medium heat for 5-10 minutes, or until they are tender and a light golden colour. Drain on some kitchen paper and set aside."
+   - "Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sautéed potato dice."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg" alt="Cullen Skink" />
 
@@ -32,11 +64,11 @@ A perfect combination of smoked haddock, potatoes, leeks and cream make up this 
 * 3 spring onions
 * olive oil
 
-1. Place the Arbroath smokies, thyme and bay in a large shallow pan and cover with the milk. Bring to the boil, cover and leave to infuse for 30 minutes. In the meantime thinly slice the onion, garlic, and the white part of the leeks. Heat about 2 tablespoons of olive oil in a medium pan and slowly fry the vegetables for about 20 minutes, until soft. Peel and thinly slice ¾ of the potato and add to the pan. Dice the rest of the potato into 5mm cubes and set aside to be sauteed for the garnish.
+1. Place the Arbroath smokies, thyme and bay in a large shallow pan and cover with the milk. Bring to the boil, cover and leave to infuse for 30 minutes. In the meantime thinly slice the onion, garlic, and the white part of the leeks. Heat about 2 tablespoons of olive oil in a medium pan and slowly fry the vegetables for about 20 minutes, until soft. Peel and thinly slice ¾ of the potato and add to the pan. Dice the rest of the potato into 5mm cubes and set aside to be sautéed for the garnish.
 
 2. Remove the smokies from the milk and carefully pick the meat away from the bone, discarding the skin. Set the flaked fish aside. Pass the milk through a sieve into the pan of vegetables. Add the cream, and simmer gently for 10 minutes, until the potatoes are cooked. Pour everything into a blender, add ¾ of the flaked smokies and the butter and blend on full power for 5 minutes, until the soup is very smooth and silky. Taste and adjust the seasoning if necessary.
 
 3. Heat  about 1 tablespoon of olive oil in a frying pan, and fry the potato dice on a medium heat for 5-10 minutes, or until they are tender and a light golden colour. Drain on some kitchen paper and set aside.
 
-4. Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sauteed potato dice.
+4. Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sautéed potato dice.
 

@@ -11,6 +11,32 @@ tags:
 - chutney
 - onion
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Red Onion Chutney
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg
+ datePublished: 2012-10-29
+ totalTime:
+ recipeYield: 3-4 jars
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 46
+ recipeIngredient:
+  - "2kg of red onions"
+  - "1 cinnamon stick"
+  - "1 star anise"
+  - "1 bay leaf"
+  - "3 cloves"
+  - "400ml of red wine vinegar"
+  - "400ml of dry white wine"
+  - "400g of soft light brown sugar"
+  - "3 cloves of garlic, lightly crushed"
+ recipeInstructions:
+   - "Peel and thinly slice the onions along the grain and place in a wide-based pot. Take a piece of muslin cloth and tie up the cloves, star anise, bay leaf, garlic and cinnamon to make a bouquet garni. Add this to the pot with the rest of the ingredients. Stir briefly to incorporate, bring to the boil, then simmer gently for 3-4 hours, stirring occasionally until the chutney is dark and intense and the onions are softened."
+   - "Take several jam jars and sterilise them. Spoon the chutney into the jars whilst still hot, and secure the lids. Put the chutney in a cool larder (or a fridge) for at least six months before opening."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/red_onion_chutney.jpg" alt="Red Onion Chutney" />
 

@@ -11,6 +11,37 @@ tags:
 - rabbit
 - parfait
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Rabbit Liver Parfait
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg
+ datePublished: 2011-11-20
+ totalTime:
+ recipeYield: 6-8
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 36
+ recipeIngredient:
+  - "400g of rabbit livers"
+  - "500ml of whole milk"
+  - "100ml of port"
+  - "100ml of madeira"
+  - "70g of shallots, finely sliced"
+  - "2 sprigs of thyme"
+  - "1 clove of garlic"
+  - "60g of brandy"
+  - "400g of unsalted butter"
+  - "2 whole eggs"
+  - "2 egg yolks"
+  - "sea salt"
+  - "ground white pepper"
+ recipeInstructions:
+   - "Take the livers and trim them of all sinew. Rinse several times with water, then soak in milk for 1 hour. This draws out the blood which would cause the parfait to be bitter. Meanwhile, place in a pan the port, madeira, shallots, thyme, garlic and brandy. Bring to the boil then reduce to a syrup. Set aside and leave to cool to room temperature. Carefully heat the butter so that it is melted but at room temperature. Blend the livers until smooth with the eggs and egg yolks. With the blender still running, gradually add the butter. Once everything is combined, season to taste with salt and black pepper, then pass the mixture through a fine sieve. Pour into a terrine mould or loaf tin lined with cling film, with enough cling film spare to wrap over the top. Alternatively you could pour it into small ramekins"
+   - "Pre-heat the oven to 120C. Get a roasting tin and place a folded tea towel in the bottom, this will help stop the terrine mould from sliding when placing into the oven. Put the terrine mould in and pour boiling water around to reach two-thirds of the way up, then place into the oven until the centre reaches 62C. It should take around 30 minutes but keep checking and measuring the temperature often with the probe."
+   - "Remove from the oven and place straight into the fridge to cool. Leave for several hours, preferably a whole day. To serve, cut thick slices and trim of any discoloured bits from around the edge. The parfait should be uniformly pink."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg" alt="Rabbit Liver Parfait" />
 

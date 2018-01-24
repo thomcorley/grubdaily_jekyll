@@ -12,6 +12,34 @@ tags:
 - caramel
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Peanut Caramel Cheesecake
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg
+ datePublished: 2018-01-13
+ totalTime:
+ recipeYield: 2
+ description: "For peanut butter lovers, this cheesecake is sweet nirvana."
+ aggregateRating:
+   ratingValue: 4.5
+   reviewCount: 32
+ recipeIngredient:
+   - 270g condensed milk
+   - 145g smooth peanut butter
+   - 125g golden syrup
+   - 180g unsalted butter
+   - 175g Hobnob biscuits
+   - 50g flaked almonds, finely chopped
+   - 250g whipping cream
+   - 250g cream cheese
+ recipeInstructions:
+   - "To make the peanut caramel; place the condensed milk, peanut butter, golden syrup and 110g of butter in a pan over a medium heat and stir until melted. Continue to cook for 5 minutes, until almost bubbling and the caramel has thickened. Remove from heat and allow to cool to room temperature."
+   - "Grease the inside of the cake ring lightly with vegetable oil or butter and line with a strip of greaseproof paper."
+   - "Crush the Hobnob biscuits to a breadcrumb-like consistency, and place in a bowl along with the chopped almonds. Melt the 70g of butter, and mix thoroughly with the biscuit mix. Empty the biscuit mix into the cake ring and press into an even layer, smoothing it out with the back of a spoon. Place in the fridge to set."
+   - "Once the peanut caramel has cooled to room temperature, transfer it into a mixing bowl. Use a plastic spatula to ensure you don’t waste any of it! Now add the cream cheese and mix until thoroughly incorporated. In a separate bowl, whip the cream until soft peaks form when you lift up the whisk. Fold the cream gently into the peanut and cheese mixture in 3 stages, ensuring that each stage is completely mixed before adding the next."
+   - "Spoon the cheesecake mixture into the cake ring, filling right to the edges, and place in the fridge to set for at least 2 hours."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_caramel_cheesecake.jpg" alt="Peanut Caramel Cheesecake" />
 

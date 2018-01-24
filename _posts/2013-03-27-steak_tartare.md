@@ -11,6 +11,29 @@ tags:
 - beef
 - tartare
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Steak Tartare
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg
+ datePublished: 2013-03-27
+ totalTime:
+ recipeYield: 1
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 32
+ recipeIngredient:
+  - "100g of beef sirloin, or fillet"
+  - "30g of shallot, finely chopped"
+  - "1 teaspoon of parsley, finely chopped"
+  - "1 teaspoon of capers, finely chopped"
+  - "1 teaspoon of gherkins, finely chopped"
+  - "sea salt and freshly cracked black pepper"
+  - "1 egg yolk"
+ recipeInstructions:
+   - "With a sharp knife, carefully cut the beef into small dice. Mix in the shallots, capers, parsley and gherkin and season to taste with the salt and pepper. Arrange on the plate, then place the egg yolk in the centre."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg" alt="Steak Tartare" />
 

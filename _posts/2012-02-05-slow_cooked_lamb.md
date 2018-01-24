@@ -10,6 +10,34 @@ makes: ""
 tags:
 - lamb
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Slow Cooked Lamb
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg
+ datePublished: 2012-02-05
+ totalTime:
+ recipeYield: 4-6
+ description:
+ aggregateRating:
+   ratingValue: 4.5
+   reviewCount: 25
+ recipeIngredient:
+  - "1 1/2kg of lamb shoulder"
+  - "1 sprig of thyme"
+  - "1 sprig of rosemary"
+  - "olive oil"
+  - "sea salt and cracked black pepper"
+  - "3 or 4 lamb neck chops, or 700g trimmings"
+  - "1 bulb of garlic"
+  - "100ml of dry white wine"
+  - "1 bay leaf"
+  - "some beurre manie"
+ recipeInstructions:
+   - "Heat the oven to 230C. Take the lamb shoulder out of the fridge at least 1 hour before cooking to bring it up to room temperature. Score the lamb shoulder and rub some sea salt, black pepper and finely chopped herbs (thyme and rosemary) mixed with some olive oil into the flesh. Leave to marinate."
+   - "Heat 2 tablespoons of vegetable oil in a roasting tray and fry lamb neck chops (or bones and trimmings) until light golden on each side, add bulb of garlic cut in half, brown for a few minutes then remove from heat. Place the shoulder on top of the bones and roast in the oven for 20mins. Meanwhile bring white wine to the boil in a small pan along with bay leaf. Add 400ml of water. Take the lamb out of the oven and add the wine mixture, scraping off any tasty sediment from the bottom of the tray. Baste the meat for a minute. Now turn the oven down to 150C, cover the meat loosely with foil and return to the oven. Roast for about 4 hours, basting every 30 minutes. The meat should be extremely tender and falling off the bone."
+   - "Use the cooking liquid to make the sauce; reduce by one third, thicken slightly with beurre manié, add a splash of white wine vinegar and some finely chopped mint. Season to taste with salt and pepper."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg" alt="Slow Cooked Lamb" />
 

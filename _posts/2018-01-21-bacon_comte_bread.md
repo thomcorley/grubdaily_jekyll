@@ -7,12 +7,40 @@ author: Tom
 category: "bread"
 serves: "-"
 makes: "2 loaves"
-total_time: "PT4H"
 tags:
 - bread
 - bacon
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Bacon and Comté Bread
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg
+ datePublished: 2018-01-21
+ totalTime:
+ recipeYield: 2
+ description: "This bread contains savory nuggets of bacon and little melted pockets of cheese."
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 23
+ recipeIngredient:
+   - 415g warm water
+   - 725g strong white flour
+   - 2 ⅛ tsp dried yeast
+   - 13g salt
+   - 3 tbsp high quality rapeseed oil
+   - 120g comté
+   - 6 rashers unsmoked streaky bacon
+ recipeInstructions:
+    - "Make the _poolish_; mix 125g of flour, 125g of water and ⅛ tsp yeast in a bowl until thoroughly mixed. Cover lightly with cling film and leave for 24 hours. When it’s ready, it’s surface will be completely covered in tiny bubbles."
+    - "Mix the rest of the flour, yeast and salt in a bowl then make a well in the center. Add the water, rapeseed oil and starter and thoroughly mix to form a wet, sticky dough."
+    - "Turn out onto a floured surface and pat into a flat rectangle. Stretch out the right-hand two corners as far as they will go and fold back into the center. Repeat with the opposite two corners, then turn over the dough, pat into a rectangle again and repeat. Repeat this whole procedure 3 times, then place back in the bowl, cover and leave for 1 hour."
+    - "Stretch and fold the dough again. Cover and leave for another 1 hour."
+    - "Fry the bacon over a medium heat until cooked, and only lightly coloured. Leave to cool, then cut into approx 3mm squares. Cut the comté into 3mm cubes."
+    - "Divide the dough into 2 balls and split the bacon and comté into 2 equal portions. Knead the bacon and comté into the dough ensuring that it’s evenly distributed. Cover and leave for  20 minutes. Roll each into a baguette shape about 10 inches in length and 2.5 inches in diameter. Flour your cloth and place the loaves in, creating some folds to allow baguettes to keep their shape. Weigh the edges of the cloth down and cover with cling film. Leave for 1 hour or until doubled in size."
+    - "Meanwhile heat oven to 210C and get your baking tray nice and hot. Transfer the baguettes one at a time to the hot tray, score with a sharp knife and place in oven. Throw a mugful of boiling water in the bottom to generate the steam required to get your crunchy crust. Bake for 25-30 mins until golden brown, and feel lighter than they look when you pick them up. Cool on a wire rack."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/bacon-comte-bread.jpg" alt="Bacon and Comte Bread" />
 

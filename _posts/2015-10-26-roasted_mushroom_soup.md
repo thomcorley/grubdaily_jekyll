@@ -11,6 +11,33 @@ tags:
 - soup
 - mushroom
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Roasted Mushroom Soup
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg
+ datePublished: 2015-10-26
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 27
+ recipeIngredient:
+  - "450g of baby button mushrooms"
+  - "1 onion"
+  - "3 cloves of garlic"
+  - "2 rashers  of streaky bacon"
+  - "3 sprigs of rosemary"
+  - "1 1/2litres of chicken stock"
+  - "2 tablespoons of sea salt"
+  - "4 tablespoons of olive oil"
+ recipeInstructions:
+   - "Set 12 mushrooms aside, and slice the rest of them in half. Sprinkle the halved mushrooms with the sea salt so they're evenly covered, then place in a colander set over a bowl. Leave in the fridge for about 6 hours, or overnight."
+   - "Heat the oven to 180C, and put a medium sized roasting tray in to heat up. Briefly rinse the mushrooms with cold water, then squeeze them with your hands to remove as much moisture as possible. Pat them dry with kitchen paper. Heat 2 tablespoons of the olive oil in the roasting tray, then add the mushrooms along with 2 sprigs of rosemary. Roast the mushrooms, tossing occasionally, until they are dark and caramelised."
+   - "Meanwhile, thinly slice the onion and garlic, and dice the bacon. Heat 2 tablespoons of olive oil in a medium pot and fry the bacon over a high heat until crisp. Turn the heat down and sweat the onion and garlic slowly for about 20 minutes, until soft and sweet. Once the mushrooms are nicely coloured, remove the rosemary from the roasting tray and add the mushrooms to the pan of onions. Add about 1 litre of chicken stock - enough to just cover the mushrooms - and bring to a gentle simmer. Cover with a lid, and simmer for 30 minutes, topping up with chicken stock when it reduces too much. Blend the soup in a food processor on full power for 5 minutes, until you have a silky smooth texture. You may need to add a little more stock to get the required consistency."
+   - "To finish; slice the 12 reserved mushrooms in half, season with salt and sauté them to get a nice roasted colour. Pick the leaves from the remaining rosemary sprig and fry these in olive oil until just crisp. Scatter the mushrooms and rosemary over the soup along with a drizzle of olive oil."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg" alt="Roasted Mushroom Soup" />
 
@@ -30,7 +57,7 @@ I have long been an advocate of the humble button mushroom. It’s one of these 
 
 2. Heat the oven to 180C, and put a medium sized roasting tray in to heat up. Briefly rinse the mushrooms with cold water, then squeeze them with your hands to remove as much moisture as possible. Pat them dry with kitchen paper. Heat 2 tablespoons of the olive oil in the roasting tray, then add the mushrooms along with 2 sprigs of rosemary. Roast the mushrooms, tossing occasionally, until they are dark and caramelised.
 
-3. Meanwhile, thinly slice the onion and garlic, and dice the bacon. Heat 2 tablespoons of olive oil in a medium pot and fry the bacon over a high heat until crisp. Turn the heat down and sweat the onion and garlic slowly for about 20 minutes, until soft and sweet. Once the mushrooms are nicely coloured, remove the rosemary from the roasting tray and add the mushrooms to the pan of onions. Add about 1 litre of chicken stock - enough to just cover the mushrooms - and bring to a gentle simmer. Cover with a lid, and simmer for 30 minutes, topping up with chicken stock when it reduces too much.Blend the soup in a food processor on full power for 5 minutes, until you have a silky smooth texture. You may need to add a little more stock to get the required consistency.
+3. Meanwhile, thinly slice the onion and garlic, and dice the bacon. Heat 2 tablespoons of olive oil in a medium pot and fry the bacon over a high heat until crisp. Turn the heat down and sweat the onion and garlic slowly for about 20 minutes, until soft and sweet. Once the mushrooms are nicely coloured, remove the rosemary from the roasting tray and add the mushrooms to the pan of onions. Add about 1 litre of chicken stock - enough to just cover the mushrooms - and bring to a gentle simmer. Cover with a lid, and simmer for 30 minutes, topping up with chicken stock when it reduces too much. Blend the soup in a food processor on full power for 5 minutes, until you have a silky smooth texture. You may need to add a little more stock to get the required consistency.
 
-4. To finish; slice the 12 reserved mushrooms in half, season with salt and saute them to get a nice roasted colour. Pick the leaves from the remaining rosemary sprig and fry these in olive oil until just crisp. Scatter the mushrooms and rosemary over the soup along with a drizzle of olive oil.
+4. To finish; slice the 12 reserved mushrooms in half, season with salt and sauté them to get a nice roasted colour. Pick the leaves from the remaining rosemary sprig and fry these in olive oil until just crisp. Scatter the mushrooms and rosemary over the soup along with a drizzle of olive oil.
 

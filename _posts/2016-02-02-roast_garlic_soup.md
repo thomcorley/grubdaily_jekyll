@@ -12,6 +12,34 @@ tags:
 - garlic
 - soup
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Roast Garlic Soup
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg
+ datePublished: 2016-02-02
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 4.5
+   reviewCount: 38
+ recipeIngredient:
+  - "8 bulbs of garlic"
+  - "1 sprig of rosemary"
+  - "300ml of double cream"
+  - "500ml of brown chicken stock"
+  - "1 onion"
+  - "sea salt"
+  - "cracked black pepper"
+  - "1 bunch of chives"
+  - "olive oil"
+  - "1 potato, about 50g"
+ recipeInstructions:
+   - "Heat the oven to 170C. Add about 2 tablespoons of olive oil to a roasting tray and get it hot. Reserve 3 cloves for the garnish later, then cut the tops off the bulbs of garlic so the tips of the cloves are poking out, then add to the roasting tray along with the rosemary and roast for about 45 minutes until the garlic is completely soft and oozing out of its skins."
+   - "Meanwhile finely slice the onion and sweat in a medium pot with olive oil, and a pinch of sea salt. Cook over a medium heat for about 25 minutes until the onion is soft, sweet and slightly caramelised. Peel the potato and finely slice it. Add to the pot and continue to cook, stirring occasionally. Squeeze the garlic out of its skins and add the soft pulp to the pot along with the cream and brown chicken stock. Simmer gently for 20 minutes, then pour everything into a food processor and blend until completely puréed and silky smooth. If it’s a little too thick, add a splash of chicken stock."
+   - "To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and sauté in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/roast_garlic_soup.jpg" alt="Roast Garlic Soup" />
 
@@ -31,7 +59,7 @@ I have always been a huge fan of garlic. It’s an awesome ingredient that provi
 
 1. Heat the oven to 170C. Add about 2 tablespoons of olive oil to a roasting tray and get it hot. Reserve 3 cloves for the garnish later, then cut the tops off the bulbs of garlic so the tips of the cloves are poking out, then add to the roasting tray along with the rosemary and roast for about 45 minutes until the garlic is completely soft and oozing out of its skins.
 
-2. Meanwhile finely slice the onion and sweat in a medium pot with olive oil, and a pinch of sea salt. Cook over a medium heat for about 25 minutes until the onion is soft, sweet and slightly caramelised. Peel the potato and finely slice it. Add to the pot and continue to cook, stirring occasionally. Squeeze the garlic out of its skins and add the soft pulp to the pot along with the cream and brown chicken stock. Simmer gently for 20 minutes, then pour everything into a food processor and blend until completely pureed and silky smooth. If it’s a little too thick, add a splash of chicken stock.
+2. Meanwhile finely slice the onion and sweat in a medium pot with olive oil, and a pinch of sea salt. Cook over a medium heat for about 25 minutes until the onion is soft, sweet and slightly caramelised. Peel the potato and finely slice it. Add to the pot and continue to cook, stirring occasionally. Squeeze the garlic out of its skins and add the soft pulp to the pot along with the cream and brown chicken stock. Simmer gently for 20 minutes, then pour everything into a food processor and blend until completely puréed and silky smooth. If it’s a little too thick, add a splash of chicken stock.
 
-3. To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and saute in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives.
+3. To garnish the soup, finely slice the 3 reserved garlic cloves with a sharp knife (or a mandolin, if you have one) and sauté in a little olive oil until they are lightly coloured. Be careful as they will taste bitter if you let them get too dark. Scatter these over the soup along with some finely chopped chives.
 

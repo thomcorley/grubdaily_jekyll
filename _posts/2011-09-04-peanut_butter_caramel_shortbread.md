@@ -11,6 +11,30 @@ tags:
 - peanut
 - caramel
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Peanut Butter Caramel Shortbread
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg
+ datePublished: 2011-09-04
+ totalTime:
+ recipeYield: 1 tray
+ description:
+ aggregateRating:
+   ratingValue: 4
+   reviewCount: 29
+ recipeIngredient:
+  - "270g of plain flour"
+  - "80g of caster sugar"
+  - "220g of unsalted butter"
+  - "150g of condensed milk"
+  - "50g of golden syrup"
+  - "150g of smooth peanut butter"
+  - "200g of milk chocolate, or dark chocolate"
+ recipeInstructions:
+   - "First make the shortbread: in a large mixing bowl, place 270g flour, 80g caster sugar, a pinch of salt and 180g of chilled and finely grated unsalted butter. Lightly rub the mixture together with your hands until it resembles fine breadcrumbs. Line a 20cm x 30cm baking tray with greaseproof paper and press the shortbread mixture into it. Place in the fridge for about an hour. Preheat the oven to 160C and bake for 40mins or until light golden in colour. Remove from the oven, prick all over with a fork and leave on a rack to cool."
+   - "When the shortbread is completely cool, make the peanut butter caramel: place 150g condensed milk, 40g unsalted butter, 50g of golden syrup and 150g of smooth peanut butter in a saucepan over a low heat and stir until melted and thoroughly incorporated. Simmer for 5 minutes whilst stirring constantly with a spatula; this thickens the caramel making it set firm when cooled. Pour onto the shortbread and spread evenly. Put in a cool place to set. To finish, melt 200g of milk or dark chocolate and pour over the caramel shortbread once it has cooled. Leave again to cool, then cut into squares."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_caramel_shortbread.jpg" alt="Peanut Butter Caramel Shortbread" />
 

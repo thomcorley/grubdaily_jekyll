@@ -11,6 +11,36 @@ tags:
 - macaroni
 - cheese
 img_url: "https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg"
+recipe:
+ "@context": http://schema.org/
+ "@type": Recipe
+ name: Macaroni Cheese
+ author: Tom
+ image: https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg
+ datePublished: 2012-03-07
+ totalTime:
+ recipeYield: 4
+ description:
+ aggregateRating:
+   ratingValue: 5
+   reviewCount: 44
+ recipeIngredient:
+  - "850ml of whole milk"
+  - "3 bay leaves"
+  - "3 cloves of garlic, crushed"
+  - "1 pinch of ground nutmeg"
+  - "5 black peppercorns"
+  - "4 cloves"
+  - "1/2 onion, finely sliced"
+  - "300g of macaroni"
+  - "50g of unsalted butter"
+  - "150g of full flavoured cheese, such as cheddar, or gruyere"
+  - "50ml of double cream"
+  - "2 tablespoons of breadcrumbs"
+  - "2 tablespoons of Parmesan cheese, finely grated"
+ recipeInstructions:
+   - "Preheat the oven to 180C. To make the cheese sauce; firstly bring the milk to the boil with the bay leaves, thyme, garlic, nutmeg, peppercorns, cloves and onion. Simmer gently for 20 minutes. Bring a large pan of salted boiling water to the boil and cook 300g of macaroni. Refresh the pasta under cold water once done. Meanwhile make a roux by melting the butter in a saucepan and adding the plain flour. Once combined, strain the flavoured milk and add to the roux in stages."
+   - "When all the milk is in, add the cheese and double cream. Remove from the heat and stir to combine. Taste and add salt if needed. Mix the pasta and the sauce and pour into a suitably sized baking dish. Now for the gratin; sprinkle the breadcrumbs and finely grated parmesan cheese over the top. Add some slices of tomato, and mozzarella if desired. Place in the oven until lovely and golden on top."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg" alt="Macaroni Cheese" />
 
