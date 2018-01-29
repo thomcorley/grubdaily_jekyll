@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/stuffed_saddle_of_lamb.jpg
  datePublished: 2015-07-10
- totalTime:
+ totalTime: PT1H30M
  recipeYield: 2
- description:
+ description: "This is a beautiful, classic way to serve a loin of lamb."
  aggregateRating:
    ratingValue: 5
    reviewCount: 20
@@ -67,4 +67,3 @@ Lamb chops were always a staple part of our diet when we were young, usually sim
 3. Divide the mix into two, one half for each loin. Lay out the loin on a board with the fat facing towards you. Place the spinach mix tight into the join of where the loin meets the fat, then roll it up, with the fat wrapping around the loin. Tie securely with butcher's twine. Repeat with the other loin. Place the stuffed saddles in the fridge for 30 minutes to set.
 
 4. Heat the oven to 180C. Cut 2mm slices off the courgettes lengthways, taking only the vibrant skin from the outside, and reserve the inner white part for another recipe. Cut the slices into thin strips. Set aside. Get a heavy based frying pan hot on the stove, and fry the stuffed saddles until lightly coloured all over. Place in the oven for 3 minutes, then turn over. Return to the oven for 5 minutes, or until the inside temperature reaches 55C, which is medium rare. Leave the meat to rest on a rack for 15-20 minutes. Just before carving the meat, sauté the courgettes in olive oil until just cooked, and season with sea salt. Carve each loin into 3 pieces, and place on top of the spaghetti of courgettes. Serve with some nice crusty bread and a glass of white wine.
-

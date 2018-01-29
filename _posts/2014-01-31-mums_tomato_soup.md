@@ -18,14 +18,14 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/mums_tomato_soup.jpg
  datePublished: 2014-01-31
- totalTime:
+ totalTime: PT1H
  recipeYield: 4-6
- description:
+ description: "This soup was a firm favourite when I was young; a weekend classic."
  aggregateRating:
    ratingValue: 5
    reviewCount: 26
  recipeIngredient:
-  - "2litres of smoked ham stock, or vegetable stock"
+  - "2 litres of smoked ham stock, or vegetable stock"
   - "6 rashers of streaky bacon"
   - "2 carrots"
   - "2 onions"
@@ -61,4 +61,3 @@ This soup is extremely popular in our household, and one of the first recipes I 
 * a  handful of basil or parsley leaves
 
 1. Cut the bacon into lardons and, in a large pot, fry until crispy. Meanwhile, cut the carrot, onion and celery into 5mm dice, and peel and finely chop the garlic. Once the bacon is nice and caramelised, add the onion, garlic and celery. Turn the heat down and sweat gently for 15 minutes, until the onions are soft and dark. Add the basmati rice, carrots, thyme and oregano and fry over a medium heat for 5 minutes. Now add the tomatoes, the tomato purée and the stock. Bring to the boil then simmer gently for 30 minutes. Finish with some torn or chopped basil leaves, then and serve with fresh crusty bread.
-

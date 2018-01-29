@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_confit_with_lemon_dressing.jpg
  datePublished: 2013-08-29
- totalTime:
+ totalTime: PT7H
  recipeYield: 4
- description:
+ description: "This confit is a lovely way to prepare chicken legs, and paired with the lemon sauce, it's a real treat."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 50
@@ -37,7 +37,7 @@ recipe:
   - "a few drops of white wine vinegar"
   - "sea salt and cracked black pepper"
  recipeInstructions:
-   - "Firstly, cure the chicken legs by placing them in a tray and rubbing in a couple of handfuls of the coarse sea salt. Cover, and leave in the fridge for 6-8 hours."
+   - "Firstly, cure the chicken legs by placing them in a tray and rubbing in a couple of handfuls of the coarse sea salt. Cover, and leave in the fridge for 6 hours."
    - "Set the oven to 140C. Wash off the salt from the chicken legs, then place in a pot and add enough duck fat to just cover them. Bring up to temperature on the stove to melt the fat, then cover and place in the oven for about 1 hour, or until the meat is just tender and almost falling off the bone. Remove from the oven and allow to cool completely in the fat. If you wish you can store the chicken legs like this in the fridge for several weeks."
    - "Remove the chicken legs from the fat. There will be a layer of chicken jus settled in the bottom of the pot; take this and reserve it for the dressing, it's delicious! Get a pan hot on the stove, and fry the legs in a few tablespoons of vegetable oil until the skin is golden and very crisp. While the chicken legs are cooking, make the dressing. Mix the chicken jus with the juice of two lemons, and whisk in the olive oil gradually. Finally add the herbs, and adjust the seasoning with salt, pepper and a few drops of white wine vinegar."
 ---
@@ -62,4 +62,3 @@ Confit is one of my favourite ways of cooking meat; with something like a duck l
 2. Set the oven to 140C. Wash off the salt from the chicken legs, then place in a pot and add enough duck fat to just cover them. Bring up to temperature on the stove to melt the fat, then cover and place in the oven for about 1 hour, or until the meat is just tender and almost falling off the bone. Remove from the oven and allow to cool completely in the fat. If you wish you can store the chicken legs like this in the fridge for several weeks.
 
 3. Remove the chicken legs from the fat. There will be a layer of chicken jus settled in the bottom of the pot; take this and reserve it for the dressing, it's delicious! Get a pan hot on the stove, and fry the legs in a few tablespoons of vegetable oil until the skin is golden and very crisp. While the chicken legs are cooking, make the dressing. Mix the chicken jus with the juice of two lemons, and whisk in the olive oil gradually. Finally add the herbs, and adjust the seasoning with salt, pepper and a few drops of white wine vinegar.
-

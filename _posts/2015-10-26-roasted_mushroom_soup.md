@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/roasted_mushroom_soup.jpg
  datePublished: 2015-10-26
- totalTime:
+ totalTime: PT7H
  recipeYield: 4
- description:
+ description: "This soup is a rich golden colour due to the caramelisation of the mushrooms."
  aggregateRating:
    ratingValue: 4
    reviewCount: 27
@@ -60,4 +60,3 @@ I have long been an advocate of the humble button mushroom. It’s one of these 
 3. Meanwhile, thinly slice the onion and garlic, and dice the bacon. Heat 2 tablespoons of olive oil in a medium pot and fry the bacon over a high heat until crisp. Turn the heat down and sweat the onion and garlic slowly for about 20 minutes, until soft and sweet. Once the mushrooms are nicely coloured, remove the rosemary from the roasting tray and add the mushrooms to the pan of onions. Add about 1 litre of chicken stock - enough to just cover the mushrooms - and bring to a gentle simmer. Cover with a lid, and simmer for 30 minutes, topping up with chicken stock when it reduces too much. Blend the soup in a food processor on full power for 5 minutes, until you have a silky smooth texture. You may need to add a little more stock to get the required consistency.
 
 4. To finish; slice the 12 reserved mushrooms in half, season with salt and sauté them to get a nice roasted colour. Pick the leaves from the remaining rosemary sprig and fry these in olive oil until just crisp. Scatter the mushrooms and rosemary over the soup along with a drizzle of olive oil.
-

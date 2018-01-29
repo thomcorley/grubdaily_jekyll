@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/cranachan.jpg
  datePublished: 2015-08-20
- totalTime:
+ totalTime: PT20M
  recipeYield: 4
- description:
+ description: "The ultimate Scottish dessert; raspberries, oats, honey and whisky. "
  aggregateRating:
    ratingValue: 4
    reviewCount: 35
@@ -58,4 +58,3 @@ This has to be the quintessential Scottish dessert. Comprising almost entirely o
 2. Take half of the raspberries and place in a pan with the remaining 2 tablespoons of honey. Stir over a high heat to make a sort of compôt. Bring to the boil then remove and allow to cool.
 
 3. Place the sugar, cream and whisky in a bowl and whisk until soft peaks form. Mix in the whole raspberries, saving a few back for garnish, about half of the raspberry compote, and most of the honeyed oats, saving some for garnish. Fold everything together to create a marble effect, then serve into bowls, finishing with the whole raspberries, honeyed oats and compote. Finally dust a little icing sugar over the top.
-

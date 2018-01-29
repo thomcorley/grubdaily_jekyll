@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/barley_risotto_with_chicken.jpg
  datePublished: 2013-06-26
- totalTime:
+ totalTime: PT1H
  recipeYield: 4-6
- description:
+ description: "It seems appropriate, to serve a chicken with what it consumed in life; barley. It's a nice pairing."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 22
@@ -44,7 +44,7 @@ recipe:
   - "8 chicken thighs or drumsticks"
  recipeInstructions:
    - "Heat the oven to 180C, toss the chicken drumsticks in olive oil and roast for about 30 minutes, until golden and crisp."
-   - "Cut the pancetta into small dice and fry in a little oil until nicely coloured. Finely chop the onion and add to the pan, turning the heat down. Gently sweat for at least 15minutes until the onions have turned soft and sweet. Finely chop the garlic and add to the pan."
+   - "Cut the pancetta into small dice and fry in a little oil until nicely coloured. Finely chop the onion and add to the pan, turning the heat down. Gently sweat for at least 15 minutes until the onions have turned soft and sweet. Finely chop the garlic and add to the pan."
    - "Rinse the barley for a few minutes under cold water, then add to the pan. Turn the heat up and stir for a minute, then add the white wine. Stir until the alcohol has boiled off, then turn the heat to medium and add your chicken stock, one ladle at a time, stirring frequently."
    - "Cut the carrot into approx. 5mm dice and fry in some vegetable oil a separate pan until slightly caramelised and just cooked. Drain on kitchen paper. Quarter the mushrooms and do the same with them."
 ---
@@ -77,4 +77,3 @@ Years ago my friend Cecily showed me how to make risotto, she was so enthusiasti
 3. Rinse the barley for a few minutes under cold water, then add to the pan. Turn the heat up and stir for a minute, then add the white wine. Stir until the alcohol has boiled off, then turn the heat to medium and add your chicken stock, one ladle at a time, stirring frequently.
 
 4. Cut the carrot into approx. 5mm dice and fry in some vegetable oil a separate pan until slightly caramelised and just cooked. Drain on kitchen paper. Quarter the mushrooms and do the same with them.
-

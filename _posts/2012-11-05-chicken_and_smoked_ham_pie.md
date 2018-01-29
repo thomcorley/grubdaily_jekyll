@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_smoked_ham_pie.jpg
  datePublished: 2012-11-05
- totalTime:
+ totalTime: PT7H
  recipeYield: 4
- description:
+ description: "For this luxurious pie I've used a whole chicken; first roasting it, then picking the meat from the bone and making a rich stock from the bones which will be the basis of the sauce."
  aggregateRating:
    ratingValue: 5
    reviewCount: 12
@@ -68,4 +68,3 @@ Winter is coming and the time for hearty and warming stews topped with delicious
 3. Strain the stock into a separate pan, add a glassful of dry cooking sherry and boil until reduced by 1/3. Take the 2 remaining carrots and cut into chunky dice. Cook these until tender in the stock while it is reducing, removing them with a slotted spoon once done. Whisk in a few pieces of beurre manié into the reduced stock until a nice gravy consistency is achieved. Stir in the remaining parsley and the thyme, roughly chopped, and add the carrots, chicken meat and smoked ham. Season carefully with salt and pepper, then leave to cool completely.
 
 4. Now to build the pie: roll out the puff pastry to about 5mm thick. Pour the chicken mixture into a pie dish and drape the pastry over, pushing the edges down with a fork. Use the trimmings to decorate the top. Make two slits for steam to escape, then brush liberally with egg wash. Place in the oven at 180C until the pastry is nice and golden.
-

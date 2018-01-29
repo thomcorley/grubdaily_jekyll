@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/cullen_skink.jpg
  datePublished: 2016-02-22
- totalTime:
+ totalTime: PT1H
  recipeYield: 4
- description:
+ description: "Classic creamy Scotish soup made with potatoes, leeks and smoked haddock."
  aggregateRating:
    ratingValue: 4
    reviewCount: 17
@@ -71,4 +71,3 @@ A perfect combination of smoked haddock, potatoes, leeks and cream make up this 
 3. Heat  about 1 tablespoon of olive oil in a frying pan, and fry the potato dice on a medium heat for 5-10 minutes, or until they are tender and a light golden colour. Drain on some kitchen paper and set aside.
 
 4. Garnish the soup with thinly sliced spring onions, the remainder of the flaked smokies, and the sautéed potato dice.
-

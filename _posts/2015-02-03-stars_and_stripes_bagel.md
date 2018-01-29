@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/stars_and_stripes_bagel.jpg
  datePublished: 2015-02-03
- totalTime:
+ totalTime: PT10M
  recipeYield: 2
- description:
+ description: "Perfect for a weekend brunch, for me this is the ultimate comfort food."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 21
@@ -58,4 +58,3 @@ I was introduced to the "Stars and stripes" bagel by my brother Rob, who had had
 * vegetable oil
 
 1. Lightly toast the bagels, fry the bacon until crispy. Peel the avocado, remove the stone and cut into slices. Season the slices with sea salt, black pepper, olive oil and lime juice. Give half an avocado per portion. Layer the fillings generously, as shown in the photo.
-

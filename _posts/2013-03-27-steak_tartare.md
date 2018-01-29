@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/steak_tartare.jpg
  datePublished: 2013-03-27
- totalTime:
+ totalTime: PT20M
  recipeYield: 1
- description:
+ description: "Another French classic to add to the collection, this dish of raw beef is one of my favourites."
  aggregateRating:
    ratingValue: 5
    reviewCount: 32
@@ -49,4 +49,3 @@ I have become very fond of raw meat. I only recently tried steak tartare, the cl
 * 1 egg yolk
 
 1. With a sharp knife, carefully cut the beef into small dice. Mix in the shallots, capers, parsley and gherkin and season to taste with the salt and pepper. Arrange on the plate, then place the egg yolk in the centre.
-

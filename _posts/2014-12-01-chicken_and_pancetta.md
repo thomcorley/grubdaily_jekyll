@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/chicken_and_pancetta.jpg
  datePublished: 2014-12-01
- totalTime:
+ totalTime: PT1H20M
  recipeYield: 4
- description:
+ description: "This is arguably the best way to serve chicken thighs; wrapped in pancetta and roasted."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 21
@@ -71,4 +71,3 @@ I made this for my dinner a few weeks ago, I didn’t intend for it to be photog
 3. In a small frying pan, heat 2 tablespoons of vegetable oil and fry the picked rosemary until crisp. Drain on kitchen paper and set aside.
 
 4. Add the white wine to the shallots, and reduce until dry. Add the cream and the mushrooms, and reduce gently until the sauce is a nice thick consistency. Cut the courgettes into dice and simmer in the sauce until just cooked, then add the parsley and the spinach. Stir briefly, and serve. Slice each thigh into 3 pieces and serve.
-
