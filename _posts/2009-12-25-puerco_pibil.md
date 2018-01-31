@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/puerco_pibil.jpg
  datePublished: 2009-12-25
- totalTime:
+ totalTime: PT12H
  recipeYield: 6
- description:
+ description: "Bold Mexican flavours, and the distinct red hue of annatto characterise this uncompromising pork dish."
  aggregateRating:
    ratingValue: 5
    reviewCount: 39
@@ -71,11 +71,10 @@ For dinner this Christmas eve I made Puerco Pibil - a slow-cooked pork dish wi
 
 1. Grind the annatto seeds, cumin seeds, peppercorns, cloves and allspice in a spice grinder until a fine powder is achieved.
 
-2. Put the spices into a large bowl in which you will marinate the meat. Add the remaining ingredients to the bowl, including the chunks of pork, and mix well. 
+2. Put the spices into a large bowl in which you will marinate the meat. Add the remaining ingredients to the bowl, including the chunks of pork, and mix well.
 
 3. Leave to marinate for 4-6 hours, preferably overnight.
 
 4. Heat an oven to 165C/Gas mark 3. Line a roasting tin with banana leaves, if available. Pour in the meat along with the marinate, cover and cook for 4 hours. Just before serving, remove from oven and sprinkle over another tablespoon of dark brown sugar.
 
 5. Serve with fluffy white rice.
-

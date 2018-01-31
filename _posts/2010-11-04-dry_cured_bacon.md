@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/dry_cured_bacon.jpg
  datePublished: 2010-11-04
- totalTime:
+ totalTime: P3D
  recipeYield: 1 large piece
- description:
+ description: "Making your own home-made bacon is such a pleasure, I urge you to try it."
  aggregateRating:
    ratingValue: 5
    reviewCount: 30
@@ -53,4 +53,3 @@ Since my last batch of dry cure bacon had been finished up a while ago, it was h
 * 3 cloves, ground
 
 1. Mix all the ingredients except the pork together in a bowl. Rub about three-quarters of the mix into the belly, leave in the fridge for 24 hours then pour the liquid away and repeat, but only adding a small amount of cure mix after the first day. Cure it for 4 days, then cut off a piece and fry it to test for saltiness. If it’s too salty, just soak it under running water for an hour or longer to reduce this. Finally, wrap it in muslin and hang for a week in a cool larder to dry and allow the flavour to mature.
-

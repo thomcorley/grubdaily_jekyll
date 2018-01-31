@@ -17,9 +17,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/slow_cooked_lamb.jpg
  datePublished: 2012-02-05
- totalTime:
+ totalTime: PT6H
  recipeYield: 4-6
- description:
+ description: "This is an old fashioned, traditional way of cooking a shoulder of lamb, and the results are quite magnificent."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 25
@@ -60,4 +60,3 @@ I often think that I’m very lucky to have grown up on a sheep farm, as I have 
 2. Heat 2 tablespoons of vegetable oil in a roasting tray and fry lamb neck chops (or bones and trimmings) until light golden on each side, add bulb of garlic cut in half, brown for a few minutes then remove from heat. Place the shoulder on top of the bones and roast in the oven for 20mins. Meanwhile bring white wine to the boil in a small pan along with bay leaf. Add 400ml of water. Take the lamb out of the oven and add the wine mixture, scraping off any tasty sediment from the bottom of the tray. Baste the meat for a minute. Now turn the oven down to 150C, cover the meat loosely with foil and return to the oven. Roast for about 4 hours, basting every 30 minutes. The meat should be extremely tender and falling off the bone.
 
 3. Use the cooking liquid to make the sauce; reduce by one third, thicken slightly with beurre manié, add a splash of white wine vinegar and some finely chopped mint. Season to taste with salt and pepper.
-

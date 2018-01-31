@@ -21,7 +21,7 @@ recipe:
  datePublished: 2013-06-26
  totalTime: PT1H
  recipeYield: 4-6
- description: "It seems appropriate, to serve a chicken with what it consumed in life; barley. It's a nice pairing."
+ description: "It seems appropriate, to serve a chicken with what it ate in life; barley. It's a really nice pairing."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 22

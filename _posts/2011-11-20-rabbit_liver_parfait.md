@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/rabbit_liver_parfait.jpg
  datePublished: 2011-11-20
- totalTime:
+ totalTime: PT24H
  recipeYield: 6-8
- description:
+ description: "This parfait is a luxurious treat; it's silky smooth, and rich in flavour. The livers are enriched with a port reduction, then mixed with butter, cream and egg yolks before being gently cooked."
  aggregateRating:
    ratingValue: 5
    reviewCount: 36
@@ -67,4 +67,3 @@ For years of my childhood I hated eating liver. One of our regular meals at home
 2. Pre-heat the oven to 120C. Get a roasting tin and place a folded tea towel in the bottom, this will help stop the terrine mould from sliding when placing into the oven. Put the terrine mould in and pour boiling water around to reach two-thirds of the way up, then place into the oven until the centre reaches 62C. It should take around 30 minutes but keep checking and measuring the temperature often with the probe.
 
 3. Remove from the oven and place straight into the fridge to cool. Leave for several hours, preferably a whole day. To serve, cut thick slices and trim of any discoloured bits from around the edge. The parfait should be uniformly pink.
-

@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/spaghetti_bolognese.jpg
  datePublished: 2011-01-06
- totalTime:
+ totalTime: PT3H
  recipeYield: 6-8
- description:
+ description: "A time-honoured classic, and a worldwide favourite. This one is a bit more special than your average spag-bol, though."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 37
@@ -72,4 +72,3 @@ This has long been a staple dish in my repertoire and I think that I, like many 
 * 600g of spaghetti
 
 1. Chop the bacon into small lardons and fry in a couple of tablespoons of oil in a large saucepan. Meanwhile, peel and finely dice onions, garlic and celery. Add to pan with the bacon just as it is starting to colour. Turn the heat down and simmer gently for 15-20 minutes, until the onions are soft and translucent. Peel and chop the carrots into small dice and add to the pan. Cook for a further 5 minutes. Now add the rest of the meat and turn the heat up; stir constantly until all the meat is browned and well mixed. Add the tomato purée, wine and stock, along with a good pinch of cracked black pepper, the thyme and bay leaf. Bring to the boil, then leave barely simmering, uncovered, for about 2 hours, or until the mince is very tender and the sauce is intense and rich. If need be, add more stock if the sauce is looking too dry. Taste, and season. Just before serving, stir in the double cream. Serve with grated Parmesan cheese and a nice big fresh salad.
-

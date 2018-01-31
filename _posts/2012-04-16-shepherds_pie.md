@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/shepherds_pie.jpg
  datePublished: 2012-04-16
- totalTime:
+ totalTime: PT6H
  recipeYield: 4
- description:
+ description: "This is a little different from your standard shepherd's pie. Instead of mince I've used lamb necks, slowly braised until the meat is falling off the bone."
  aggregateRating:
    ratingValue: 4.5
    reviewCount: 29
@@ -76,4 +76,3 @@ Here’s another classic to add to the collection. It seems pretty appropriate t
 3. While the meat is cooking, make the mashed potato for the topping; this can be done in advance, even days before if necessary. Take the potatoes, prick each one several times with a knife and place in the oven with the lamb for 3 hours; the potatoes should be thoroughly cooked through. Remove from oven, cut in half and press the potato through a sieve into a wide-based saucepan. Now gradually add the butter whilst beating over a medium heat. The butter will emulsify into the dry, floury potato and give a luxurious silky texture. Add a splash of milk and mix thoroughly. Season generously with sea salt. Transfer into a container and set aside for later.
 
 4. Remove the lamb necks and strain the braising liquid through a fine sieve into a saucepan. Bring to the boil and reduce until you have about 300ml of rich dark jus. Thicken with a little beurre manié until you have the consistency of a thin gravy. While the sauce is reducing, peel and cut the rest of the carrots into 5mm cubes, and pick the meat from the necks into rustic chunks. Fry the carrots in olive oil over a medium flame until lightly coloured. Cut the leek into 1cm squares and add to the pan. When the leeks are half-cooked, add the lamb and the sauce and gently fold, being careful not to break up the meat too much. Add a splash of Worcester sauce and season to taste with sea salt and freshly cracked black pepper. Pour the mixture into a baking dish and top with a thickness of about 1 inch of mashed potato. Place in the oven at 200C for about 20 minutes until golden on top
-

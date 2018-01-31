@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/raspberry_cordial.jpg
  datePublished: 2011-06-28
- totalTime:
+ totalTime: PT1H
  recipeYield: 1 bottle
- description:
+ description: "I've always loved Ribena, the original and best blackcurrant cordial. This is my raspberry version, and I believe it's just as good if not better!"
  aggregateRating:
    ratingValue: 4
    reviewCount: 42
@@ -41,4 +41,3 @@ I had some leftover raspberry purée from when I made the chocolate and raspberr
 * 350g of caster sugar
 
 1. purée raspberries by placing them in a blender, blitzing until smooth then passing through a fine sieve to remove the seeds. Make the sugar syrup: place the water in a saucepan, add sugar and bring to the boil, stirring until all the sugar has dissolved. Add the raspberry purée to the pan and gently bring back to the boil. Turn off the heat, and skim off any scum that has risen to the surface. Pass once more through a fine sieve, allow to cool, then store in sterilised bottles.
-

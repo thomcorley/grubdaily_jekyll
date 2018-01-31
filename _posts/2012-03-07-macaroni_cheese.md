@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/macaroni_cheese.jpg
  datePublished: 2012-03-07
- totalTime:
+ totalTime: PT1H
  recipeYield: 4
- description:
+ description: "An old time favourite of my childhood, macaroni cheese still has a special place in my heart."
  aggregateRating:
    ratingValue: 5
    reviewCount: 44
@@ -64,4 +64,3 @@ Macaroni cheese is a classic home-made dish for me. It was a firm favourite for 
 1. Preheat the oven to 180C. To make the cheese sauce; firstly bring the milk to the boil with the bay leaves, thyme, garlic, nutmeg, peppercorns, cloves and onion. Simmer gently for 20 minutes. Bring a large pan of salted boiling water to the boil and cook 300g of macaroni. Refresh the pasta under cold water once done. Meanwhile make a roux by melting the butter in a saucepan and adding the plain flour. Once combined, strain the flavoured milk and add to the roux in stages.
 
 2. When all the milk is in, add the cheese and double cream. Remove from the heat and stir to combine. Taste and add salt if needed. Mix the pasta and the sauce and pour into a suitably sized baking dish. Now for the gratin; sprinkle the breadcrumbs and finely grated parmesan cheese over the top. Add some slices of tomato, and mozzarella if desired. Place in the oven until lovely and golden on top.
-

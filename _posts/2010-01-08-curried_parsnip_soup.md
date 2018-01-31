@@ -19,9 +19,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/curried_parsnip_soup.jpg
  datePublished: 2010-01-08
- totalTime:
+ totalTime: PT45M
  recipeYield: 4
- description:
+ description: "A true winter warmer of a dish, this lightly spiced soup will take the chill off."
  aggregateRating:
    ratingValue: 5
    reviewCount: 26
@@ -66,4 +66,3 @@ This curried parsnip soup is the perfect form of resistance against the winter c
 4. Liquidise until smooth with a blender.
 
 5. For garnish: try a swirl of double cream, and a sprinkle of smoked paprika. Or finely chopped red pepper and chives.
-

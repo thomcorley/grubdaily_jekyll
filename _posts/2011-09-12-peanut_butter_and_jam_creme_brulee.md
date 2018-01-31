@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/peanut_butter_and_jam_creme_brulee.jpg
  datePublished: 2011-09-12
- totalTime:
+ totalTime: PT6H
  recipeYield: 6-8
- description:
+ description: "A take on the old-school classic, peanut butter and jam, this is a delicious little pudding."
  aggregateRating:
    ratingValue: 5
    reviewCount: 11

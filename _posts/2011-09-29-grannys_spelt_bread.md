@@ -18,9 +18,9 @@ recipe:
  author: Tom
  image: https://s3.eu-west-2.amazonaws.com/grubdaily/grannys_spelt_bread.jpg
  datePublished: 2011-09-29
- totalTime:
+ totalTime: PT1H30M
  recipeYield: 1 tray
- description:
+ description: "This spelt bread is heavier than wheat bread, and as a result the loaf is richer and more substantial."
  aggregateRating:
    ratingValue: 4
    reviewCount: 46
@@ -53,4 +53,3 @@ My granny lives on a farm on the west coast of Scotland near Oban, right by the 
 * 2 tablespoons of olive oil
 
 1. Heat the oven to 200C. In a large bowl, mix together the flour, salt, yeast, pumpkin seeds, sunflower seeds and pine nuts. In a jug, mix the water with olive oil and treacle. Mix the contents of the jug into the bowl with the flour, cover and leave in a warm place to rise for 20 minutes. Line a large roasting tin with greaseproof paper and scrape the dough into it. Leave in a warm place to rise again for 10 minutes, then place in the oven for 20-30 minutes, until nice and brown on the top and sounding hollow when tapped underneath. Enjoy hot with butter.
-
