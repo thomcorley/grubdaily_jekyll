@@ -34,6 +34,12 @@
     {% if page.path contains "_posts" %}
       {{ page.recipe | json_ld_filter }}
     {% endif %}
+    {% if page.path contains "tag" %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+    {% if page.path contains "categories" %}
+      <meta name="robots" content="noindex">
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Domine:700" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
