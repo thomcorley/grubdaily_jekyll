@@ -5,7 +5,7 @@ title: "Chocolate and Raspberry Brownies"
 permalink: "/chocolate_raspberry_brownies"
 author: Tom
 category: "chocolate"
-serves: ""
+serves: 12-15
 makes: "12-15"
 tags:
 - chocolate
