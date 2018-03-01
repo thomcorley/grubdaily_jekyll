@@ -49,6 +49,7 @@ When I make this at home, I mix the dough 1 day in advance, and prove it slowly 
 
 You'll need a wide baking sheet or stone, and a baker's linen or kitchen cloth to prove the bread in. You'll also need some sourdough starter; find my instructions at [www.grubdaily.com/sourdough-starter](https://www.grubdaily.com/sourdough-starter) 
 
+
 ---
 * 450g strong white flour
 * 350g sourdough starter, at least 5 days old
