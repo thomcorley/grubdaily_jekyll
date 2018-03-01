@@ -7,13 +7,6 @@ layout: default
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
         <div class="post-meta clear">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b, %Y" }}</time>
-            <!-- {% if page.category %}
-                <span class="category">Categories:
-                    {% for category in page.category %}
-                        <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
-                    {% endfor %}
-                </span>
-            {% endif %} -->
             {% if site.show_tags == 1 %}
                 <span class="tags">
                     {% for tag in page.tags %}
@@ -24,7 +17,6 @@ layout: default
             {% if page.category %}
                 <span class="category">Serves:
                     {% for serves in page.serves %}
-                        <!-- <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a> -->
                         {{ serves }}
                     {% endfor %}
                 </span>
@@ -36,17 +28,6 @@ layout: default
     <div class="post-content" itemprop="text">
         {{ page.content }}
     </div>
-
-    <!-- <footer class="post-footer clear" itemscope itemtype="http://schema.org/Person">
-        {% assign author = site.data.users[page.author] %}
-        <div class="share-button">
-            <span>Share Recipe</span>
-            <div>
-                <a href="https://www.facebook.com/sharer.php?s=100&p[title]={{page.title | strip_html }}&p[summary]={{page.content | strip_html | truncate: 140 }}&p[url]={{ page.url | prepend: site.baseurl | prepend: site.url }}" class="s_facebook share-facebook" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#facebook-icon"></use></svg></a></a>
-                <a href="http://twitter.com/share?url={{page.url | prepend: site.baseurl | prepend: site.url | escape}}&text={{ page.content | strip_html | truncate: 140 }}&hashtags={% for tag in page.tags %}{{ tag }},{% endfor %}" rel="noreferrer" class="share-twitter" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#twitter-icon"></use></svg></a>
-            </div>
-        </div>
-    </footer> -->
 </article>
 
 {% if page.comments and site.show_comments == 1 %}
