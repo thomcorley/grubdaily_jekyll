@@ -47,11 +47,11 @@ There is one caveat to using sourdough; the leavening power of the wild yeast is
 
 When I make this at home, I mix the dough 1 day in advance, and prove it slowly in the fridge. This is just more convenient for me when I'm at work all day. I can come home the following evening, microwave the dough briefly to bring it up to temperature, and bake it immediately. It's a great time saver.
 
-You'll need a wide baking sheet or stone, and a baker's linen or kitchen cloth to prove the bread in.
+You'll need a wide baking sheet or stone, and a baker's linen or kitchen cloth to prove the bread in. You'll also need some sourdough starter; find my instructions at [www.grubdaily.com/sourdough-starter](https://www.grubdaily.com//sourdough-starter) 
 
 ---
 * 450g strong white flour
-* 350g sourdough
+* 350g sourdough starter, at least 5 days old
 * 190g water, tepid
 * 1 tsp dried yeast
 * 3 tbsp fine quality rapeseed oil
