@@ -20,7 +20,7 @@ The temperature is quite important in the initial few days as the sourdough gets
 
 ---
 
-1. Measure 200g of strong white bread flour and 200g of lukewarm water into a bowl, and mix thoroughly. Cover lightly with cling film, ensuring to leave some gaps for it to breath, and leave in a warm place, ideally 24C, for 24 hours.
+1. Measure 200g of strong white bread flour and 200g of lukewarm water into a bowl, and mix thoroughly. Cover lightly with cling film, ensuring to leave some gaps for it to breathe, and leave in a warm place, ideally 24C, for 24 hours.
 
 2. There should now be a few bubbles on the surface of the sourdough. In a separate bowl, mix together another 200g each of flour and water. Add 120g of the 24h sourdough and mix thoroughly. Discard the remainder of the old sourdough. Cover lightly again, and leave for another 24h.
 
