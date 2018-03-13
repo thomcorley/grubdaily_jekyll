@@ -45,7 +45,7 @@ recipe:
 
 Neglected bananas are a sorry sight. I had three of them in my fruit bowl this morning and they were at an advanced  stage of ripeness; way past speckly-brown, they were _completely_ black, and were beginning to go moldy on the outside. I was about to throw them in the bin, but out of curiosity I peeled one open to have a look, and it seemed fine, if a bit sticky and caramelised. They would be perfect for banana bread.
 
-I'm quite particular when it comes to bananas as a snack; for me, they must be only just ripe; the greenness gone but still slightly firm inside. That's a perfect banana. When a banana passes this stage, I'm pretty disinclined to peel it open for a snack. I think subconsciously I know I can make banana bread if I wait for it to go soft sticky, and overripe fruit, and it doesn't have to go to waste! I'll admit; I actually prefer banana bread to a banana on its own. It's not quite as healthy, I know, but that's rarely a priority for me. It _tastes_ better, and that's what really counts.
+I'm quite particular when it comes to bananas as a snack; for me, they must be only just ripe; the greenness gone but still slightly firm inside. That's a perfect banana. When a banana passes this stage, I'm pretty disinclined to peel it open for a snack. I think subconsciously I know I can make banana bread if I wait for it to go soft sticky, and overripe, and it doesn't have to go to waste! I'll admit; I actually prefer banana bread to a banana on its own. It's not quite as healthy, I know, but that's rarely a priority for me. It _tastes_ better, and that's what really counts.
 
 ---
 * 125g salted butter
