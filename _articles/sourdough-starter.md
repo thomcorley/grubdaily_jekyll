@@ -8,7 +8,9 @@ tags:
 - sourdough
 - starter
 ---
+
 The secret to any great loaf of bread is a pre-ferment, or _starter_. This could be a quick one-day-old _poolish_ made with flour, water and a pinch of yeast, or a proper sourdough which is a culture of wild yeast. A starter provides a depth of flavour to the bread, but, arguably more important, it gives it a fantastic texture. A mature sourdough has had plenty of time to develop a complex gluten network over a period of several weeks (or months, or years!), which is simply unobtainable with a standard loaf that's only proved for a few hours. 
+
 
 ![Sourdough Starter Image](https://s3.eu-west-2.amazonaws.com/grubdaily/sourdough-starter.jpg "Sourdough Starter")
 
