@@ -310,12 +310,17 @@ body {background-color: #F1F1F1;}
 	}
 }
 
-.footer { background-color: white; border: 1px solid rgba(77, 77, 78, 0.2); height: 80px;
-	p { color: black; line-height: 30px; text-align: center; padding-top: 30px;
-		a { color: $grey-color-light;
-			&:hover { color: $grey-color-normal; }
+.footer { background-color: #4D4D4E; border: 1px solid rgba(77, 77, 78, 0.2); height: 120px;
+	p { color: white; line-height: 30px; text-align: left; padding-left: 10px;
+		a { color: white;
+			&:hover { color: $orange-color-hover; }
 		}
 	}
+	.footer-left-column { max-width: 50%; display: inline-block; margin-left: 50px; }
+	.footer-right-column { max-width: 50%; display: inline-block; float: right; margin-top: 15px; margin-right: 60px;
+		p {text-align: right; font: 100 20px/20px Abel, sans-serif; color: white}
+	}
+
 }
 
 
