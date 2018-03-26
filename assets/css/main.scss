@@ -3,16 +3,6 @@
 
 @import "vars", "reset", "helpers", "mixins", "customscroll";
 
-p:nth-child(2):first-letter {
-	color: #903;
-	float: left;
-	font-family: Vollkorn;
-	font-size: 90px;
-  line-height: 30px;
-  padding-top: 30px;
-  padding-right: 8px;
-}
-
 hr {
 	height: 15px;
 	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIElEQVQIW2NkQAIzZ878zwgi0tPTGWHiYAayIFwGJggA0RMOz9R3mNcAAAAASUVORK5CYII=) repeat;
@@ -298,6 +288,7 @@ body {background-color: #F1F1F1;}
 			}
 		}
 	}
+	p:nth-child(2):first-letter {color: #903; float: left; font-family: Vollkorn; font-size: 90px; line-height: 30px; padding-top: 30px; padding-right: 8px; } 
 }
 /**/
 
