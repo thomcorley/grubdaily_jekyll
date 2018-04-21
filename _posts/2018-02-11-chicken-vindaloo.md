@@ -29,7 +29,7 @@ recipe:
  recipeIngredient:
     - 4 chicken thighs, bones and skins removed
     - 3 tbsps of high quality rapeseed oil
-    - 90ml white wine vinegar
+    - 80ml white wine vinegar
     - ½ teaspoon ground turmeric
     - 1 tbsp ground cumin
     - 1 tbsp paprika
@@ -50,7 +50,7 @@ recipe:
     - "Put a large, heavy based pan on a medium-high heat and add the rapeseed oil. Wait for the oil to heat up. Season the chicken thighs generously all over with salt, then fry in the pan, on both sides, until golden. Remove, and set aside."
     - "While the chicken is browning, measure out the turmeric, cumin, coriander, paprika, cayenne pepper and garam masala and set aside in a bowl."
     - "Ideally, your pan will be big enough to cook the rest of the curry in it; if not, transfer all the fat from the pan into a larger one. Set the pan over a medium-high heat and add the mustard and fenugreek seeds. When the mustard seeds begin to pop, add the onions and curry leaves. Stir and fry until the onions turn a light golden brown. Add the ginger and garlic, and stir until fully mixed. Now add the spice mixture and tomatoes. Turn the heat down and continue to cook for around 5 minutes. "
-    - "Cut the browned chicken pieces into approx. 2cm chunks, and add to the pan along with the salt, sugar, and 270ml water. Bring to the boil, then simmer gently for 20 minutes."
+    - "Cut the browned chicken pieces into approx. 2cm chunks, and add to the pan along with the salt, sugar, vinegar and 270ml water. Bring to the boil, then simmer gently for 20 minutes."
     - "Taste the curry and add more salt if necessary. Finally, add the baby spinach and stir until gently wilted. Serve with white rice."
 ---
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/chicken-vindaloo.jpg" alt="Chicken Vindaloo" />
@@ -64,7 +64,7 @@ Madhur Jaffrey’s recipe for Vindaloo calls for duck, which is a break from tra
 ---
 * 4 chicken thighs, bones and skins removed
 * 3 tbsps of high quality rapeseed oil
-* 90ml white wine vinegar
+* 80ml white wine vinegar
 * ½ teaspoon ground turmeric
 * 1 tbsp ground cumin
 * 1 tbsp paprika
@@ -89,6 +89,6 @@ Madhur Jaffrey’s recipe for Vindaloo calls for duck, which is a break from tra
 
 3. Ideally, your pan will be big enough to cook the rest of the curry in it; if not, transfer all the fat from the pan into a larger one. Set the pan over a medium-high heat and add the mustard and fenugreek seeds. When the mustard seeds begin to pop, add the onions and curry leaves. Stir and fry until the onions turn a light golden brown. Add the ginger and garlic, and stir until fully mixed. Now add the spice mixture and tomatoes. Turn the heat down and continue to cook for around 5 minutes.
 
-4. Cut the browned chicken pieces into approx. 2cm chunks, and add to the pan along with the salt, sugar, and 270ml water. Bring to the boil, then simmer gently for 20 minutes.
+4. Cut the browned chicken pieces into approx. 2cm chunks, and add to the pan along with the salt, sugar, vinegar and 270ml water. Bring to the boil, then simmer gently for 20 minutes.
 
 5. Taste the curry and add more salt if necessary. Finally, add the baby spinach and stir until gently wilted. Serve with white rice.
