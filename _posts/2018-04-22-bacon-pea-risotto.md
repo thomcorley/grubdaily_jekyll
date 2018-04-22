@@ -37,7 +37,6 @@ recipe:
     - sea salt and freshly cracked black pepper
     - 200g garden peas, fresh or frozen
     - 150g streaky bacon, cut into lardons
-    - a handful of flat leaf parsley, chopped
     - 1 litre chicken stock
     - vegetable oil, for frying
 
@@ -68,7 +67,6 @@ My [winter risotto](https://www.grubdaily.com/risotto-winter-greens) was essenti
 * sea salt and freshly cracked black pepper
 * 200g garden peas, fresh or frozen
 * 150g streaky bacon, cut into lardons
-* a handful of flat leaf parsley, chopped
 * 1 litre chicken stock
 * vegetable oil, for frying
 
