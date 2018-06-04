@@ -26,8 +26,8 @@ recipe:
   recipeYield: 3
   description: "This is a lovely way to serve ricotta. It's better to make your own as it will be firmer and easier to form into balls."
   aggregateRating:
-    ratingValue: 4
-    ratingCount: 41
+    ratingValue: 4.5
+    ratingCount: 49
   recipeIngredient:
     - 200g firm ricotta
     - 80g baby spinach
@@ -57,9 +57,9 @@ recipe:
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/ricotta-herb-dumplings.jpg" alt="Ricotta and Herb Dumplings"/>
 
 
-A while ago I decided to try my hand at cheesemaking - as a devoted lover of cheese I think it was inevitable that I would try to make my own sooner or later. The obvious starting point for any amateur cheesemaker is ricotta. It's the simplest of cheeses - simply add something acidic, such as lemon juice, to some milk to split it into its constituent parts, and drain. Season the resulting drained curds with some sea salt and you're done; it's that easy. The nice thing about ricotta is that it's typically made with either lemon juice or vinegar, rather than rennet like most other cheeses, so you don't need any specialist ingredients.
+A while ago I decided to try my hand at cheesemaking - as a devoted lover of cheese I think it was inevitable that I would try to make my own sooner or later. The obvious starting point for any amateur cheesemaker is ricotta. It's the simplest of cheeses - simply add something acidic, such as lemon juice, to some milk to split it into its constituent parts, and drain. Season the resulting drained curds with some sea salt and you're done; it's that easy. The nice thing about ricotta is that it's typically made with either lemon juice or vinegar, rather than rennet like most other cheeses, so you don't need any specialist ingredients. 
 
-This dish was inspired by a recipe for a Corsican/Italian dish called _strozapretti_, which consists of rustic ricotta dumplings loaded with chopped fresh herbs and chard. It's like ravioli but without the pasta. Normally, the dumplings would be fairly rough and imperfect in shape, but I have shaped mine nicely into rounds. I've also baked them in the oven until golden, which is great with the grated parmesan on top. Baked in a rich tomato sauce, it's pretty irresistible!
+This dish was inspired by a recipe for a Corsican/Italian dish called _strozapretti_, which consists of rustic ricotta dumplings loaded with chopped fresh herbs and chard. It's like ravioli but with just the stuffing, and no pasta surrounding it. Traditionally the dumplings would be fairly rough and imperfect in shape, but I have shaped mine nicely into rounds. I've also baked them in the oven until golden, which is fantastic if you grate parmesan on top first. Baked in a rich tomato sauce, it's pretty irresistible! 
 
 The ricotta for this recipe should be quite firm, which is easy to achieve if you make your own. Click [here](https://www.grubdaily.com/ricotta) for my own ricotta recipe. Alternatively, you can use shop-bought ricotta and drain it overnight in a fine sieve.
 
