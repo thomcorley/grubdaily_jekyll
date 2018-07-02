@@ -26,7 +26,7 @@ recipe:
     ratingCount: 26
   recipeIngredient:
     - 450g strong white flour
-    - 350g sourdough starter
+    - 350g sourdough starter, at least 5 days old
     - 220g tepid water
     - 1 tsp dried yeast
     - 3 tbsp fine quality rapeseed oil
@@ -43,7 +43,11 @@ recipe:
 <img src="https://s3.eu-west-2.amazonaws.com/grubdaily/sourdough.jpg" alt="Sourdough"/>
 
 
-This isn't the first time I have extolled the virtues of sourdough bread. I find great satisfaction in cultivating my own supply of fresh, wild yeast, extracted from thin air! It's a rewarding process; after feeding the sourdough every day for a week or more, the resulting product is a tangy, mature starter that will lend your bread a superior flavour and texture. The bonus is that if you use a mature sourdough starter to make your bread, you don't have to knead it quite as much as regular bread to get a great texture because a complex gluten structure is already in place.
+This isn't the first time I have extolled the virtues of sourdough bread. I find great satisfaction in cultivating my own supply of fresh, wild yeast, extracted from thin air! It's a rewarding process; after feeding the sourdough every day for a week or more, the resulting product is a tangy, mature starter that will lend your bread a superior flavour and texture. The bonus is that if you use a mature sourdough starter to make your bread, you don't have to knead it quite as much as regular bread to get a great texture because a complex gluten structure is already in place. 
+
+I've got instructions for how to make a sourdough starter here:
+
+[https://www.grubdaily.com/sourdough-starter](https://www.grubdaily.com/sourdough-starter/)
 
 There is one caveat to using sourdough; the leavening power of the wild yeast is not as strong as that of pure fresh or dried yeast that you buy from the shop. Because of this, I find that my pure sourdough bread is somewhat denser than my regular loaves. There's a trade-off though; to use dried/fresh yeast instead of sourdough will give you a lighter loaf, but it also means that you won't have the depth of flavour and texture of a sourdough loaf. After some amount of experimentation, I eventually decided to go for a hybrid loaf. This recipe uses a generous amount of sourdough starter, and supplements it with a little dried yeast to give it a lighter texture. The result is a beautifully crunchy loaf with an aerated, bubbly texture.
 
@@ -51,9 +55,10 @@ When I make this at home, I mix the dough 1 day in advance, and prove it slowly 
 
 To create a proper crust on the loaf, you need steam. The easiest way to achieve this is to throw a cup of boiling water into the bottom of the hot oven immediately after putting the bread in. I put a roasting tray in the bottom of the oven for this purpose; unless the bottom of your oven is really clean you won't want to throw the water directly onto it. You'll also need a wide baking sheet or stone, and a baker's linen or kitchen cloth to prove the bread in.
 
+
 ---
 * 450g strong white flour
-* 350g sourdough starter
+* 350g sourdough starter, at least 5 days old
 * 220g tepid water
 * 1 tsp dried yeast
 * 3 tbsp fine quality rapeseed oil
