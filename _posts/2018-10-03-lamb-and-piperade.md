@@ -12,13 +12,13 @@ tags:
   - lamb
   - peppers
   - piperade
-img_url: https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-piperade.jpg
+img_url: https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-and-piperade.jpg
 recipe:
   "@context": http://schema.org
   "@type": Recipe
   name: Lamb and Piperade
   author: Tom
-  image: https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-piperade.jpg
+  image: https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-and-piperade.jpg
   datePublished: 2018-10-03
   totalTime: PT8H
   recipeYield: 4
@@ -44,7 +44,7 @@ recipe:
     - "Meanwhile, get a large pot or casserole dish and add the olive oil. Place over a medium heat and when the oil is hot, add the onions along with a generous pinch of salt. Cook at this temperature for about 10 minutes, stirring frequently. When the onions are soft, turn the heat to low and cook for about 3 hours, stirring occasionally, until the onions are dark, intense and sweet. At this point,remove your leg of lamb from the fridge to come up to room temperature."
     - "Set the oven to 190C. Place all the peppers in a roasting tray and cover tightly with foil, then place in the oven for about 40 minutes, until they are softened and you can see the skin starting to wrinkle. Transfer to a bowl or another tray and cover tightly with cling film. Leave to cool."
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-piperade.jpg" alt="Lamb and Piperade"/>
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/lamb-and-piperade.jpg" alt="Lamb and Piperade"/>
 
 
 Piperade is a classic Basque dish made with sweet bell peppers, onions, olive oil and most importantly...patience. The slow process of making piperade is worth the long wait. For a dish that's completely meat-free, it has a remarkable savouriness and an intense depth of flavour. Not to mention the natural sweetness of the onions and peppers that is enhanced by the long cooking time.
