@@ -53,7 +53,7 @@ recipe:
     - "While the beans are frying, measure out the turmeric, cumin, coriander, paprika, cayenne pepper and garam masala and set aside in a bowl."
     - "Finely slice 2 or 3 of the runner beans length-ways and set aside to use for garnish later. Roughly chop the rest of the beans into about 2 inch pieces. Put a large, heavy based casserole pot or deep frying pan on a medium-high heat and add the rapeseed oil. Wait for the oil to heat up. Fry the beans in batches, being careful not to overcrowd the pan, until they are lightly browned. Set aside on a tray or in a bowl."
 ---
-<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/runner-bean-vindaloo.jpg" alt="Runner Bean Vindaloo"/>
+<img src="https://s3.eu-west-2.amazonaws.com/grubdaily/runner-bean-vindaloo.jpg" alt="Runner Bean Vindaloo" width="905px"/>
 
 
 Last month I made the annual end-of-summer visit to my parents' farm. This is a particularly opportune time of year to visit as there is a huge _glut_ of produce coming from the garden (and mushrooms from the woods, but that is a story for another time). I left with an overflowing box full of tomatoes, sweetcorn, apples, peas, broad beans, a _massive_ quantity of courgettes, cucumbers, runner beans and fresh herbs. I took as much as I could carry.
