@@ -7,6 +7,7 @@ author: Tom
 category: mushrooms
 serves: 2
 makes: 2
+description: Garlic mushrooms on toast is one of my all time favourite starters, and it's even better when made with delicious girolles
 tags:
   - mushrooms
   - girolles
